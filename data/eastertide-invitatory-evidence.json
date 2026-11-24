@@ -1,0 +1,33 @@
+{
+  "scope": "Two Eastertide invitatory candidate scores",
+  "scores": [
+    {
+      "chant": "Fontem sapientiae",
+      "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20870",
+      "liber_page": "301",
+      "mode": "4",
+      "hour": "inv",
+      "variant": "",
+      "classification_status": "unchecked",
+      "has_eastertide_designation": false,
+      "gabc_incipit": "(c4) FOn(c!dwefv)tem(e) sa(fe)pi(d)én(e_f)ti(g)æ(gh) Dó(gf)mi(de)num,(efe.) (;) ve(dh)ní(hi)te,(h) ad(hv_GF)o(g)ré(gv_FE)mus.(e.) Ps.(::) Ve(e)ní(g)te,(h) <i>p. 138.</i>(::)",
+      "finding": "Existing score does not itself identify an Eastertide variant; do not reuse as verified Eastertide setting."
+    },
+    {
+      "chant": "Mirabilem in sanctis",
+      "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20882",
+      "liber_page": "311",
+      "mode": "4",
+      "hour": "inv",
+      "variant": "mirabilem in sanctis",
+      "classification_status": "checked",
+      "has_eastertide_designation": false,
+      "gabc_incipit": "(c4) MI(c)rá(c!dwefv)bi(e)lem(e) in(e) san(efg)ctis(gf) su(g)is(gh) Dó(gf)mi(de)num,(efe.) (;) ve(dh)ní(hi)te,(h) ad(hv_GF)o(g)re(gv_FE)mus.(e.) Ps.(::) Ve(e)ní(g)te,(h) <i>p. 138.</i>(::)",
+      "finding": "Existing score does not itself identify an Eastertide variant; do not reuse as verified Eastertide setting."
+    }
+  ],
+  "decision": "Keep Eastertide slots unfilled pending distinct score or printed cross-reference; no catalogue assignment made.",
+  "coverage": "339/429 (prior confirmed baseline)"
+}

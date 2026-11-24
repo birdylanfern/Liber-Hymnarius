@@ -1,0 +1,16 @@
+label,mode,printedPage,file,source,verification
+Tonus II,2;,133,gabc/hymns/gregobase-liber/gb-8218.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus III,3;,135,gabc/hymns/gregobase-liber/gb-10397.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus IV*,4,141,gabc/common/ps--venite_exsultemus_94--4.gabc,existing local Psalm 94 GABC,local-unchecked
+Tonus IV**,4;,16,gabc/hymns/gregobase-liber/gb-16356.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus IV,4;,138,gabc/hymns/gregobase-liber/gb-15508.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus IV* (ad lib),4;,144,gabc/hymns/gregobase-liber/gb-16592.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus V,5,146,gabc/common/ps--venite_exsultemus_94--5.gabc,existing local Psalm 94 GABC,local-unchecked
+Tonus V,5;,146,gabc/hymns/gregobase-liber/gb-10248.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus VI,6,149,gabc/common/ps--venite_exsultemus_94--6.gabc,existing local Psalm 94 GABC,local-unchecked
+Tonus VI,6;,149,gabc/hymns/gregobase-liber/gb-9664.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus VI*,6;,154,gabc/hymns/gregobase-liber/gb-10035.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus VI**,6;,157,gabc/hymns/gregobase-liber/gb-15059.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus VII,7;,160,gabc/hymns/gregobase-liber/gb-9834.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus D,d;,165,gabc/hymns/gregobase-liber/gb-9707.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked
+Tonus E,e;,168,gabc/hymns/gregobase-liber/gb-9642.gabc,GregoBase (Liber Hymnarius indexed),external-unchecked

@@ -1,0 +1,27 @@
+[
+  {
+    "file": "gb-10398.gabc",
+    "variant": "Regem Apostolorum A.III",
+    "reason": "Liber Hymnarius p. 266: invitatory, mode III"
+  },
+  {
+    "file": "gb-10558.gabc",
+    "variant": "in sollemnitatibus et festis",
+    "reason": "Liber Hymnarius p. 273: common of several martyrs; provisional feast assignment"
+  },
+  {
+    "file": "gb-16675.gabc",
+    "variant": "Regem Apostolorum A.IV",
+    "reason": "Liber Hymnarius p. 266: invitatory, mode IV"
+  },
+  {
+    "file": "gb-20880.gabc",
+    "variant": "Regem Apostolorum, in tempore paschali",
+    "reason": "Liber Hymnarius p. 266: Eastertide invitatory"
+  },
+  {
+    "file": "gb-20901.gabc",
+    "variant": "in memoriis",
+    "reason": "GregoBase identifies memoria; Liber Hymnarius p. 273"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "method": "Metadata and incipit-based classification, NOT PDF-verified",
+  "edits": [
+    {
+      "id": 15663,
+      "hour": "Laudes",
+      "basis": "Embedded GABC header explicitly states office-part: Ad Laudes H for the Nativity of St John the Baptist."
+    },
+    {
+      "id": 15774,
+      "hour": "Invitatorium",
+      "basis": "Antiphon text Venite adoremus Regem identifies the invitatory for the Assumption; printed rubric still requires independent checking."
+    },
+    {
+      "id": 16691,
+      "hour": "Invitatorium",
+      "basis": "Antiphon text Christum natum, qui Innocentes ... venite adoremus identifies the invitatory for the Holy Innocents."
+    }
+  ]
+}

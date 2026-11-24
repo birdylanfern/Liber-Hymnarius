@@ -1,0 +1,2007 @@
+{
+  "generated": "2026-11-23T10:33:25.771Z",
+  "warning": "These are NOT verified liturgical assignments. Some fallback candidates may be incorrect. Original scores remain unchanged.",
+  "count": 200,
+  "placements": [
+    {
+      "category": "adventus-ante16",
+      "slot": "hm",
+      "hymn": "Conditor alme siderum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7424.gabc",
+      "originalCategory": "adventus-ante16",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "adventus-post16",
+      "slot": "v",
+      "hymn": "Verbum salutis omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-14187.gabc",
+      "originalCategory": "adventus-post16",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "adventus-post16",
+      "slot": "c",
+      "hymn": "Verbum salutis omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-14187.gabc",
+      "originalCategory": "adventus-post16",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "adventus-post16",
+      "slot": "inv",
+      "hymn": "Verbum salutis omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-14187.gabc",
+      "originalCategory": "adventus-post16",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "adventus-post16",
+      "slot": "ol",
+      "hymn": "Verbum salutis omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-14187.gabc",
+      "originalCategory": "adventus-post16",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "adventus-post16",
+      "slot": "hm",
+      "hymn": "Verbum salutis omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-14187.gabc",
+      "originalCategory": "adventus-post16",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "adventus-post16",
+      "slot": "t",
+      "hymn": "Verbum salutis omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-14187.gabc",
+      "originalCategory": "adventus-post16",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "nativitatis-ante-epiph",
+      "slot": "c",
+      "hymn": "Christe Redemptor omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4245.gabc",
+      "originalCategory": "nativitatis-ante-epiph",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "nativitatis-ante-epiph",
+      "slot": "inv",
+      "hymn": "Christe Redemptor omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4245.gabc",
+      "originalCategory": "nativitatis-ante-epiph",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "nativitatis-ante-epiph",
+      "slot": "hm",
+      "hymn": "Christe Redemptor omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4245.gabc",
+      "originalCategory": "nativitatis-ante-epiph",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "nativitatis-ante-epiph",
+      "slot": "n",
+      "hymn": "Christe Redemptor omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4245.gabc",
+      "originalCategory": "nativitatis-ante-epiph",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "sacra-familia",
+      "slot": "v",
+      "hymn": "Dulce fit nobis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16711.gabc",
+      "originalCategory": "sacra-familia",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "dei-genetrix",
+      "slot": "ol",
+      "hymn": "Corde natus ex Parentis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8424.gabc",
+      "originalCategory": "dei-genetrix",
+      "originalHour": "v12",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "nativitatis-post-epiph",
+      "slot": "inv",
+      "hymn": "Hostis Herodes impie",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8426.gabc",
+      "originalCategory": "nativitatis-post-epiph",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "nativitatis-post-epiph",
+      "slot": "hm",
+      "hymn": "Hostis Herodes impie",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8426.gabc",
+      "originalCategory": "nativitatis-post-epiph",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "nativitatis-post-epiph",
+      "slot": "t",
+      "hymn": "Hostis Herodes impie",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8426.gabc",
+      "originalCategory": "nativitatis-post-epiph",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "nativitatis-post-epiph",
+      "slot": "s",
+      "hymn": "Hostis Herodes impie",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8426.gabc",
+      "originalCategory": "nativitatis-post-epiph",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "nativitatis-post-epiph",
+      "slot": "n",
+      "hymn": "Hostis Herodes impie",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8426.gabc",
+      "originalCategory": "nativitatis-post-epiph",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "v|in officio dominicali",
+      "hymn": "Iesu quadragenariae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16931.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "v|in officio feriali",
+      "hymn": "Iesu quadragenariae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16931.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "c|per hebdomadas i iii et v",
+      "hymn": "Christe qui splendor (Tempore Quadragesimae hebdomadae II IV)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4686.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "c",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "c|per hebdomadas ii et iv",
+      "hymn": "Christe qui splendor (Tempore Quadragesimae hebdomadae II IV)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4686.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "c",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "inv",
+      "hymn": "Iesu quadragenariae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16931.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "ol|in officio dominicali",
+      "hymn": "Ex more docti Mystico",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16932.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "ol|in officio feriali",
+      "hymn": "Ex more docti Mystico",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16932.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "l|in officio dominicali",
+      "hymn": "Precemur omnes cernui",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16934.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "l|in officio feriali",
+      "hymn": "Precemur omnes cernui",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16934.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "hm",
+      "hymn": "Iesu quadragenariae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16931.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "n",
+      "hymn": "Iesu quadragenariae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16931.gabc",
+      "originalCategory": "quadragesima-hebd1-5",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "hebdomada-sancta",
+      "slot": "v",
+      "hymn": "En acetum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19795.gabc",
+      "originalCategory": "hebdomada-sancta",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "hebdomada-sancta",
+      "slot": "ol",
+      "hymn": "En acetum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19795.gabc",
+      "originalCategory": "hebdomada-sancta",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "hebdomada-sancta",
+      "slot": "hm|dominica in palmis",
+      "hymn": "En acetum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19795.gabc",
+      "originalCategory": "hebdomada-sancta",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "triduum-feria6",
+      "slot": "t",
+      "hymn": "Nunc sancte (Adv)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18010.gabc",
+      "originalCategory": "adventus-ante16",
+      "originalHour": "t",
+      "confidence": "fallback",
+      "note": "Fallback candidate from elsewhere in the collection; likely requires replacement"
+    },
+    {
+      "category": "triduum-feria6",
+      "slot": "s",
+      "hymn": "Rector potens (Adv.)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18012.gabc",
+      "originalCategory": "adventus-ante16",
+      "originalHour": "s",
+      "confidence": "fallback",
+      "note": "Fallback candidate from elsewhere in the collection; likely requires replacement"
+    },
+    {
+      "category": "triduum-feria6",
+      "slot": "n",
+      "hymn": "Rerum Deus tenax (Adv.)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18015.gabc",
+      "originalCategory": "adventus-ante16",
+      "originalHour": "n",
+      "confidence": "fallback",
+      "note": "Fallback candidate from elsewhere in the collection; likely requires replacement"
+    },
+    {
+      "category": "triduum-sabbatum",
+      "slot": "ol",
+      "hymn": "Verbum supernum prodiens a",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8227.gabc",
+      "originalCategory": "adventus-ante16",
+      "originalHour": "ol",
+      "confidence": "fallback",
+      "note": "Fallback candidate from elsewhere in the collection; likely requires replacement"
+    },
+    {
+      "category": "triduum-sabbatum",
+      "slot": "l",
+      "hymn": "Vox clara ecce intonat",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20362.gabc",
+      "originalCategory": "adventus-ante16",
+      "originalHour": "l",
+      "confidence": "fallback",
+      "note": "Fallback candidate from elsewhere in the collection; likely requires replacement"
+    },
+    {
+      "category": "triduum-sabbatum",
+      "slot": "v",
+      "hymn": "Conditor alme siderum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7424.gabc",
+      "originalCategory": "adventus-ante16",
+      "originalHour": "v",
+      "confidence": "fallback",
+      "note": "Fallback candidate from elsewhere in the collection; likely requires replacement"
+    },
+    {
+      "category": "paschale-ante-asc",
+      "slot": "c",
+      "hymn": "O rex aeterne Domine",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4541.gabc",
+      "originalCategory": "paschale-ante-asc",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "paschale-ante-asc",
+      "slot": "inv",
+      "hymn": "O rex aeterne Domine",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4541.gabc",
+      "originalCategory": "paschale-ante-asc",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "paschale-post-asc",
+      "slot": "v|in sollemnitate",
+      "hymn": "Iesu nostra redemptio",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4515.gabc",
+      "originalCategory": "paschale-post-asc",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "paschale-post-asc",
+      "slot": "v|in officio dominicali",
+      "hymn": "Iesu nostra redemptio",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4515.gabc",
+      "originalCategory": "paschale-post-asc",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "paschale-post-asc",
+      "slot": "v|in officio feriali",
+      "hymn": "Iesu nostra redemptio",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4515.gabc",
+      "originalCategory": "paschale-post-asc",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pentecostes",
+      "slot": "c",
+      "hymn": "Lux iucunda",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15367.gabc",
+      "originalCategory": "pentecostes",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pentecostes",
+      "slot": "inv",
+      "hymn": "Lux iucunda",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15367.gabc",
+      "originalCategory": "pentecostes",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pentecostes",
+      "slot": "l",
+      "hymn": "Lux iucunda",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15367.gabc",
+      "originalCategory": "pentecostes",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pentecostes",
+      "slot": "t",
+      "hymn": "Lux iucunda",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15367.gabc",
+      "originalCategory": "pentecostes",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "corpus-christi",
+      "slot": "v",
+      "hymn": "Sacris Solemnis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16201.gabc",
+      "originalCategory": "corpus-christi",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "corpus-christi",
+      "slot": "inv",
+      "hymn": "Sacris Solemnis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16201.gabc",
+      "originalCategory": "corpus-christi",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "cor-iesu",
+      "slot": "inv",
+      "hymn": "Auctor beate saeculi",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10383.gabc",
+      "originalCategory": "cor-iesu",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "cor-iesu",
+      "slot": "l",
+      "hymn": "Auctor beate saeculi",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10383.gabc",
+      "originalCategory": "cor-iesu",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "christus-rex",
+      "slot": "inv",
+      "hymn": "Te saeculorum principem",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-11361.gabc",
+      "originalCategory": "christus-rex",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "hebdomada-34",
+      "slot": "ol",
+      "hymn": "Quid sum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16848.gabc",
+      "originalCategory": "hebdomada-34",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-01-25",
+      "slot": "inv",
+      "hymn": "Pressi malorum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18005.gabc",
+      "originalCategory": "s-01-25",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-02-02",
+      "slot": "inv",
+      "hymn": "Adorna Sion Thalamum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8254.gabc",
+      "originalCategory": "s-02-02",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-02-02",
+      "slot": "ol",
+      "hymn": "Adorna Sion Thalamum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8254.gabc",
+      "originalCategory": "s-02-02",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-02-10",
+      "slot": "vig",
+      "hymn": "Adorna Sion Thalamum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8254.gabc",
+      "originalCategory": "s-02-02",
+      "originalHour": "l",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-02-10",
+      "slot": "l",
+      "hymn": "Adorna Sion Thalamum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8254.gabc",
+      "originalCategory": "s-02-02",
+      "originalHour": "l",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-02-10",
+      "slot": "v",
+      "hymn": "Quod chorus",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4307.gabc",
+      "originalCategory": "s-02-02",
+      "originalHour": "v",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-02-11",
+      "slot": "l",
+      "hymn": "Adorna Sion Thalamum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8254.gabc",
+      "originalCategory": "s-02-02",
+      "originalHour": "l",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-03-19",
+      "slot": "v",
+      "hymn": "Te Ioseph celebrent",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20562.gabc",
+      "originalCategory": "s-03-19",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-03-19",
+      "slot": "inv",
+      "hymn": "Te Ioseph celebrent",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20562.gabc",
+      "originalCategory": "s-03-19",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-03-19",
+      "slot": "l",
+      "hymn": "Te Ioseph celebrent",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20562.gabc",
+      "originalCategory": "s-03-19",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-03-25",
+      "slot": "inv",
+      "hymn": "Agnoscat omne saeculum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8264.gabc",
+      "originalCategory": "s-03-25",
+      "originalHour": "v1",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-03-25",
+      "slot": "ol",
+      "hymn": "Agnoscat omne saeculum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8264.gabc",
+      "originalCategory": "s-03-25",
+      "originalHour": "v1",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-03-25",
+      "slot": "l",
+      "hymn": "Agnoscat omne saeculum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8264.gabc",
+      "originalCategory": "s-03-25",
+      "originalHour": "v1",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-04-21",
+      "slot": "vig",
+      "hymn": "O vir beate",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17817.gabc",
+      "originalCategory": "s-04-25",
+      "originalHour": "ol",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-04-21",
+      "slot": "v",
+      "hymn": "Mentibus laetis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17997.gabc",
+      "originalCategory": "s-04-25",
+      "originalHour": "lv",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-04-25",
+      "slot": "inv",
+      "hymn": "O vir beate",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17817.gabc",
+      "originalCategory": "s-04-25",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-05-01",
+      "slot": "inv",
+      "hymn": "Te pater Ioseph",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15727.gabc",
+      "originalCategory": "s-05-01",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-05-26",
+      "slot": "lv",
+      "hymn": "Te pater Ioseph",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15727.gabc",
+      "originalCategory": "s-05-01",
+      "originalHour": "ol",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-05-27",
+      "slot": "vv",
+      "hymn": "Te pater Ioseph",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15727.gabc",
+      "originalCategory": "s-05-01",
+      "originalHour": "ol",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-05-31",
+      "slot": "inv",
+      "hymn": "Veniens Mater Inclitus",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15524.gabc",
+      "originalCategory": "s-05-31",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-06-05",
+      "slot": "vig",
+      "hymn": "Barnabae clarum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17931.gabc",
+      "originalCategory": "s-06-11",
+      "originalHour": "lv",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-06-05",
+      "slot": "lv",
+      "hymn": "Barnabae clarum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17931.gabc",
+      "originalCategory": "s-06-11",
+      "originalHour": "lv",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-06-24",
+      "slot": "inv",
+      "hymn": "Ut queant laxis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15660.gabc",
+      "originalCategory": "s-06-24",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-06-24",
+      "slot": "l",
+      "hymn": "Ut queant laxis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15660.gabc",
+      "originalCategory": "s-06-24",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-06-29",
+      "slot": "v1",
+      "hymn": "O Roma felix",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10407.gabc",
+      "originalCategory": "s-06-29",
+      "originalHour": "v2",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-07-05",
+      "slot": "vig",
+      "hymn": "Legifer prudens",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17990.gabc",
+      "originalCategory": "s-07-05",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-07-05",
+      "slot": "v",
+      "hymn": "Legifer prudens",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17990.gabc",
+      "originalCategory": "s-07-05",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-07-26",
+      "slot": "inv",
+      "hymn": "Nocti succedit lucifer",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18003.gabc",
+      "originalCategory": "s-07-26",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-07-26",
+      "slot": "vig",
+      "hymn": "Nocti succedit lucifer",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18003.gabc",
+      "originalCategory": "s-07-26",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-08-06",
+      "slot": "inv",
+      "hymn": "Caelestis formam gloriae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10535.gabc",
+      "originalCategory": "s-08-06",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-08-15",
+      "slot": "inv",
+      "hymn": "Gaudium mundi",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10573.gabc",
+      "originalCategory": "s-08-15",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-08-22",
+      "slot": "inv",
+      "hymn": "O quam glorifica",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19273.gabc",
+      "originalCategory": "s-08-22",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-08-22",
+      "slot": "l",
+      "hymn": "O quam glorifica",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19273.gabc",
+      "originalCategory": "s-08-22",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-08-25",
+      "slot": "vv",
+      "hymn": "Caelestis formam gloriae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10535.gabc",
+      "originalCategory": "s-08-06",
+      "originalHour": "ol",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-08-25",
+      "slot": "ol",
+      "hymn": "Caelestis formam gloriae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10535.gabc",
+      "originalCategory": "s-08-06",
+      "originalHour": "ol",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-08-25",
+      "slot": "l",
+      "hymn": "Dulcis Iesu memoria",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10536.gabc",
+      "originalCategory": "s-08-06",
+      "originalHour": "l",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-08-29",
+      "slot": "inv",
+      "hymn": "Praecessor almus",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4623.gabc",
+      "originalCategory": "s-08-29",
+      "originalHour": "olv",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-08-29",
+      "slot": "l",
+      "hymn": "Praecessor almus",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4623.gabc",
+      "originalCategory": "s-08-29",
+      "originalHour": "olv",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-09-03",
+      "slot": "vig",
+      "hymn": "O sancta mundi domina",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10611.gabc",
+      "originalCategory": "s-09-08",
+      "originalHour": "l",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-09-03",
+      "slot": "lv",
+      "hymn": "Laude te cives",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15702.gabc",
+      "originalCategory": "s-09-13",
+      "originalHour": "lv",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-09-14",
+      "slot": "v",
+      "hymn": "Salve crux sancta",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10642.gabc",
+      "originalCategory": "s-09-14",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-09-15",
+      "slot": "v",
+      "hymn": "Stabat Mater 1",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18018.gabc",
+      "originalCategory": "s-09-15",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-09-15",
+      "slot": "inv",
+      "hymn": "Stabat Mater 1",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18018.gabc",
+      "originalCategory": "s-09-15",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-09-29",
+      "slot": "l",
+      "hymn": "Festiva vos archangeli",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7373.gabc",
+      "originalCategory": "s-09-29",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-10-02",
+      "slot": "l",
+      "hymn": "Aeterne rerum... qui mare",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17929.gabc",
+      "originalCategory": "s-10-02",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-10-02",
+      "slot": "v",
+      "hymn": "Aeterne rerum... qui mare",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17929.gabc",
+      "originalCategory": "s-10-02",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-10-07",
+      "slot": "l",
+      "hymn": "In cælesti collegio",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17989.gabc",
+      "originalCategory": "s-10-04",
+      "originalHour": "lv",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-10-15",
+      "slot": "l",
+      "hymn": "In cælesti collegio",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17989.gabc",
+      "originalCategory": "s-10-04",
+      "originalHour": "lv",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-10-15",
+      "slot": "v",
+      "hymn": "In cælesti collegio",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17989.gabc",
+      "originalCategory": "s-10-04",
+      "originalHour": "lv",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-10-18",
+      "slot": "inv",
+      "hymn": "Plausibus Luca",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16324.gabc",
+      "originalCategory": "s-10-18",
+      "originalHour": "lv",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-11-01",
+      "slot": "inv",
+      "hymn": "Christe redemptor omnium conserva",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16180.gabc",
+      "originalCategory": "s-11-01",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-11-11",
+      "slot": "inv",
+      "hymn": "Christe redemptor omnium conserva",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16180.gabc",
+      "originalCategory": "s-11-01",
+      "originalHour": "v",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-11-11",
+      "slot": "vig",
+      "hymn": "Christe redemptor omnium conserva",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16180.gabc",
+      "originalCategory": "s-11-01",
+      "originalHour": "v",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-11-11",
+      "slot": "l",
+      "hymn": "Iam bone pastor",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4329.gabc",
+      "originalCategory": "s-11-18",
+      "originalHour": "lv",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-11-11",
+      "slot": "olv",
+      "hymn": "Christe redemptor omnium conserva",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16180.gabc",
+      "originalCategory": "s-11-01",
+      "originalHour": "v",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-11-22",
+      "slot": "vig",
+      "hymn": "Christe redemptor omnium conserva",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16180.gabc",
+      "originalCategory": "s-11-01",
+      "originalHour": "v",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-11-22",
+      "slot": "l",
+      "hymn": "Iam bone pastor",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4329.gabc",
+      "originalCategory": "s-11-18",
+      "originalHour": "lv",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-11-22",
+      "slot": "v",
+      "hymn": "Christe redemptor omnium conserva",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16180.gabc",
+      "originalCategory": "s-11-01",
+      "originalHour": "v",
+      "confidence": "related-section",
+      "note": "Candidate borrowed from a related section; placement not verified"
+    },
+    {
+      "category": "s-12-26",
+      "slot": "inv",
+      "hymn": "Festum celebre martyris",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16642.gabc",
+      "originalCategory": "s-12-26",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "s-12-28",
+      "slot": "inv",
+      "hymn": "Hymnum canentes martyrum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-11726.gabc",
+      "originalCategory": "s-12-28",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-dedicatio",
+      "slot": "inv|domum dei",
+      "hymn": "Urbs Ierusalem beata",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8240.gabc",
+      "originalCategory": "c-dedicatio",
+      "originalHour": "v12",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-dedicatio",
+      "slot": "inv|christum dominum",
+      "hymn": "Urbs Ierusalem beata",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8240.gabc",
+      "originalCategory": "c-dedicatio",
+      "originalHour": "v12",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-dedicatio",
+      "slot": "inv|christum dominum in tempore paschali",
+      "hymn": "Urbs Ierusalem beata",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8240.gabc",
+      "originalCategory": "c-dedicatio",
+      "originalHour": "v12",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-dedicatio",
+      "slot": "l",
+      "hymn": "Urbs Ierusalem beata",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8240.gabc",
+      "originalCategory": "c-dedicatio",
+      "originalHour": "v12",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-bmv-commune",
+      "slot": "v1",
+      "hymn": "Maria quae mortalium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16851.gabc",
+      "originalCategory": "c-bmv-commune",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-bmv-commune",
+      "slot": "inv|christum mariae filium",
+      "hymn": "Maria quae mortalium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16851.gabc",
+      "originalCategory": "c-bmv-commune",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-bmv-commune",
+      "slot": "inv|festivitatem virginis",
+      "hymn": "Maria quae mortalium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16851.gabc",
+      "originalCategory": "c-bmv-commune",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-bmv-commune",
+      "slot": "inv|christum mariae filium in tempore paschali",
+      "hymn": "Maria quae mortalium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16851.gabc",
+      "originalCategory": "c-bmv-commune",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-bmv-commune",
+      "slot": "v2",
+      "hymn": "Maria quae mortalium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16851.gabc",
+      "originalCategory": "c-bmv-commune",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-apostoli",
+      "slot": "inv|regem apostolorum a iii",
+      "hymn": "O sempiternae curiae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10482.gabc",
+      "originalCategory": "c-apostoli",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-apostoli",
+      "slot": "inv|regem apostolorum a iv",
+      "hymn": "O sempiternae curiae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10482.gabc",
+      "originalCategory": "c-apostoli",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-apostoli",
+      "slot": "inv|regem apostolorum in tempore paschali",
+      "hymn": "O sempiternae curiae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10482.gabc",
+      "originalCategory": "c-apostoli",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-apostoli",
+      "slot": "l",
+      "hymn": "O sempiternae curiae",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10482.gabc",
+      "originalCategory": "c-apostoli",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-apostoli",
+      "slot": "v2|in tempore paschali",
+      "hymn": "Exsultet caelum laudibus",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16685.gabc",
+      "originalCategory": "c-apostoli",
+      "originalHour": "v2",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-apostoli",
+      "slot": "v2|in aliis temporibus",
+      "hymn": "Exsultet caelum laudibus",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16685.gabc",
+      "originalCategory": "c-apostoli",
+      "originalHour": "v2",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-martyres-plures",
+      "slot": "inv|in sollemnitatibus et festis",
+      "hymn": "Rex gloriose martyrum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4547.gabc",
+      "originalCategory": "c-martyres-plures",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-martyres-plures",
+      "slot": "inv|in memoriis",
+      "hymn": "Rex gloriose martyrum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4547.gabc",
+      "originalCategory": "c-martyres-plures",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-martyres-plures",
+      "slot": "inv|in tempore paschali",
+      "hymn": "Rex gloriose martyrum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4547.gabc",
+      "originalCategory": "c-martyres-plures",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-martyr-unus",
+      "slot": "ol|pro martyre virgine",
+      "hymn": "Beate martyr, prospera",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17328.gabc",
+      "originalCategory": "c-martyr-unus",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-martyr-unus",
+      "slot": "l|pro martyre virgine",
+      "hymn": "O castitatis signifer",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8827.gabc",
+      "originalCategory": "c-martyr-unus",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-martyr-unus",
+      "slot": "v|pro martyre virgine",
+      "hymn": "Virginis proles",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18024.gabc",
+      "originalCategory": "c-martyr-unus",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-pastores",
+      "slot": "inv|christum pastorum",
+      "hymn": "Christe pastorum (Pro Presbytero)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8818.gabc",
+      "originalCategory": "c-pastores",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-pastores",
+      "slot": "inv|christum pastorum in tempore paschali",
+      "hymn": "Christe pastorum (Pro Presbytero)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8818.gabc",
+      "originalCategory": "c-pastores",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-pastores",
+      "slot": "ol|pro uno pastore",
+      "hymn": "Christe pastorum (Pro Presbytero)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8818.gabc",
+      "originalCategory": "c-pastores",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-pastores",
+      "slot": "ol|pro pluribus pastoribus",
+      "hymn": "Christe pastorum (Pro Presbytero)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8818.gabc",
+      "originalCategory": "c-pastores",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-pastores",
+      "slot": "l|pro uno pastore",
+      "hymn": "Inclitus rector (Pro Papa)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8815.gabc",
+      "originalCategory": "c-pastores",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-pastores",
+      "slot": "l|pro pluribus pastoribus",
+      "hymn": "Inclitus rector (Pro Papa)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8815.gabc",
+      "originalCategory": "c-pastores",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-pastores",
+      "slot": "v|pro uno pastore",
+      "hymn": "Vir celse forma fulgida",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17946.gabc",
+      "originalCategory": "c-pastores",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-pastores",
+      "slot": "v|pro pluribus pastoribus",
+      "hymn": "Vir celse forma fulgida",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17946.gabc",
+      "originalCategory": "c-pastores",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-doctores",
+      "slot": "inv|fontem sapientiae",
+      "hymn": "Doctor aeternus",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17964.gabc",
+      "originalCategory": "c-doctores",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-doctores",
+      "slot": "inv|fontem sapientiae in tempore paschali",
+      "hymn": "Doctor aeternus",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17964.gabc",
+      "originalCategory": "c-doctores",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-virgines",
+      "slot": "inv|in sollemnitatibus et festis",
+      "hymn": "Dulci depromat",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15287.gabc",
+      "originalCategory": "c-virgines",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-virgines",
+      "slot": "inv|in memoriis",
+      "hymn": "Dulci depromat",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15287.gabc",
+      "originalCategory": "c-virgines",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-virgines",
+      "slot": "inv|in tempore paschali",
+      "hymn": "Dulci depromat",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15287.gabc",
+      "originalCategory": "c-virgines",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-virgines",
+      "slot": "ol|pro una virgine",
+      "hymn": "Dulci depromat",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15287.gabc",
+      "originalCategory": "c-virgines",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-virgines",
+      "slot": "ol|pro pluribus virginibus",
+      "hymn": "Dulci depromat",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15287.gabc",
+      "originalCategory": "c-virgines",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-viri",
+      "slot": "inv|mirabilem in sanctis",
+      "hymn": "Beata caeli gaudia",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+      "originalCategory": "c-viri",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-viri",
+      "slot": "inv|mirabilem in sanctis in tempore paschali",
+      "hymn": "Beata caeli gaudia",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+      "originalCategory": "c-viri",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-viri",
+      "slot": "l|pro uno sancto",
+      "hymn": "Beata caeli gaudia",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+      "originalCategory": "c-viri",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-viri",
+      "slot": "l|pro pluribus sanctis",
+      "hymn": "Beata caeli gaudia",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+      "originalCategory": "c-viri",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-viri",
+      "slot": "v|pro uno sancto",
+      "hymn": "Inclitos Christi",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+      "originalCategory": "c-viri",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-viri",
+      "slot": "v|pro pluribus sanctis",
+      "hymn": "Inclitos Christi",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+      "originalCategory": "c-viri",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-mulieres",
+      "slot": "ol|pro una sancta muliere",
+      "hymn": "Haec femina laudabilis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20036.gabc",
+      "originalCategory": "c-mulieres",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-mulieres",
+      "slot": "ol|pro pluribus sanctis mulieribus",
+      "hymn": "Haec femina laudabilis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20036.gabc",
+      "originalCategory": "c-mulieres",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-mulieres",
+      "slot": "l|pro una sancta muliere",
+      "hymn": "Nobilem Christi",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16057.gabc",
+      "originalCategory": "c-mulieres",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-mulieres",
+      "slot": "l|pro pluribus sanctis mulieribus",
+      "hymn": "Nobilem Christi",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16057.gabc",
+      "originalCategory": "c-mulieres",
+      "originalHour": "l",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-mulieres",
+      "slot": "v|pro una sancta muliere",
+      "hymn": "Christe cunctorum sator",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17955.gabc",
+      "originalCategory": "c-mulieres",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-mulieres",
+      "slot": "v|pro pluribus sanctis mulieribus",
+      "hymn": "Christe cunctorum sator",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-17955.gabc",
+      "originalCategory": "c-mulieres",
+      "originalHour": "v",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-defuncti",
+      "slot": "inv|regem cui",
+      "hymn": "Qui vivis ante",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18009.gabc",
+      "originalCategory": "c-defuncti",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-defuncti",
+      "slot": "inv|regem cui in tempore paschali",
+      "hymn": "Qui vivis ante",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18009.gabc",
+      "originalCategory": "c-defuncti",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "c-defuncti",
+      "slot": "l",
+      "hymn": "Qui vivis ante",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18009.gabc",
+      "originalCategory": "c-defuncti",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-compl",
+      "slot": "c|te lucis",
+      "hymn": "Te lucis ante terminum (In Feriis per Annum)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4680.gabc",
+      "originalCategory": "pa-compl",
+      "originalHour": "c",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-inv",
+      "slot": "inv|hebdomadae i et iii",
+      "hymn": "Deus creator omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7367.gabc",
+      "originalCategory": "pa-13-dom",
+      "originalHour": "v1",
+      "confidence": "fallback",
+      "note": "Fallback candidate from elsewhere in the collection; likely requires replacement"
+    },
+    {
+      "category": "pa-inv",
+      "slot": "inv|hebdomadae ii et iv",
+      "hymn": "Deus creator omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7367.gabc",
+      "originalCategory": "pa-13-dom",
+      "originalHour": "v1",
+      "confidence": "fallback",
+      "note": "Fallback candidate from elsewhere in the collection; likely requires replacement"
+    },
+    {
+      "category": "pa-13-dom",
+      "slot": "ol|noctu",
+      "hymn": "Primo dierum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4556.gabc",
+      "originalCategory": "pa-13-dom",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-dom",
+      "slot": "ol|diurno",
+      "hymn": "Primo dierum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4556.gabc",
+      "originalCategory": "pa-13-dom",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-dom",
+      "slot": "hm",
+      "hymn": "Deus creator omnium",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7367.gabc",
+      "originalCategory": "pa-13-dom",
+      "originalHour": "v1",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f2",
+      "slot": "ol|noctu",
+      "hymn": "Aeterna lux divinitas",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15607.gabc",
+      "originalCategory": "pa-13-f2",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f2",
+      "slot": "ol|diurno",
+      "hymn": "Aeterna lux divinitas",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15607.gabc",
+      "originalCategory": "pa-13-f2",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f3",
+      "slot": "ol|noctu",
+      "hymn": "O sacrosancta Trinitas",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15617.gabc",
+      "originalCategory": "pa-13-f3",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f3",
+      "slot": "ol|diurno",
+      "hymn": "O sacrosancta Trinitas",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15617.gabc",
+      "originalCategory": "pa-13-f3",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f4",
+      "slot": "ol|noctu",
+      "hymn": "Rerum creator optime",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19840.gabc",
+      "originalCategory": "pa-13-f4",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f4",
+      "slot": "ol|diurno",
+      "hymn": "Rerum creator optime",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19840.gabc",
+      "originalCategory": "pa-13-f4",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f5",
+      "slot": "ol|noctu",
+      "hymn": "Christe precamur",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15621.gabc",
+      "originalCategory": "pa-13-f5",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f5",
+      "slot": "ol|diurno",
+      "hymn": "Christe precamur",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15621.gabc",
+      "originalCategory": "pa-13-f5",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f5",
+      "slot": "l",
+      "hymn": "Nox atra rerum (+rhythmic signs)",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15620.gabc",
+      "originalCategory": "pa-13-f5",
+      "originalHour": "",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f6",
+      "slot": "ol|noctu",
+      "hymn": "Tu Trinitatis Unitas",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4562.gabc",
+      "originalCategory": "pa-13-f6",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-f6",
+      "slot": "ol|diurno",
+      "hymn": "Tu Trinitatis Unitas",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4562.gabc",
+      "originalCategory": "pa-13-f6",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-sab",
+      "slot": "ol|noctu",
+      "hymn": "Auctor perennis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15624.gabc",
+      "originalCategory": "pa-13-sab",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-13-sab",
+      "slot": "ol|diurno",
+      "hymn": "Auctor perennis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15624.gabc",
+      "originalCategory": "pa-13-sab",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-dom",
+      "slot": "ol|noctu",
+      "hymn": "Mediae noctis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4610.gabc",
+      "originalCategory": "pa-24-dom",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-dom",
+      "slot": "ol|diurno",
+      "hymn": "Mediae noctis",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4610.gabc",
+      "originalCategory": "pa-24-dom",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-dom",
+      "slot": "l",
+      "hymn": "Rerum Deus fons",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4637.gabc",
+      "originalCategory": "pa-24-dom",
+      "originalHour": "v1",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-dom",
+      "slot": "hm",
+      "hymn": "Rerum Deus fons",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4637.gabc",
+      "originalCategory": "pa-24-dom",
+      "originalHour": "v1",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-dom",
+      "slot": "v2",
+      "hymn": "Rerum Deus fons",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4637.gabc",
+      "originalCategory": "pa-24-dom",
+      "originalHour": "v1",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f2",
+      "slot": "ol|noctu",
+      "hymn": "Vita sanctorum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16745.gabc",
+      "originalCategory": "pa-24-f2",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f2",
+      "slot": "ol|diurno",
+      "hymn": "Vita sanctorum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16745.gabc",
+      "originalCategory": "pa-24-f2",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f3",
+      "slot": "ol|noctu",
+      "hymn": "Nocte surgentes",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4616.gabc",
+      "originalCategory": "pa-24-f3",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f3",
+      "slot": "ol|diurno",
+      "hymn": "Nocte surgentes",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4616.gabc",
+      "originalCategory": "pa-24-f3",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f4",
+      "slot": "ol|noctu",
+      "hymn": "O sator rerum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4617.gabc",
+      "originalCategory": "pa-24-f4",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f4",
+      "slot": "ol|diurno",
+      "hymn": "O sator rerum",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4617.gabc",
+      "originalCategory": "pa-24-f4",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f5",
+      "slot": "ol|noctu",
+      "hymn": "Amoris sensus erige",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10447.gabc",
+      "originalCategory": "pa-24-f5",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f5",
+      "slot": "ol|diurno",
+      "hymn": "Amoris sensus erige",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10447.gabc",
+      "originalCategory": "pa-24-f5",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f6",
+      "slot": "ol|noctu",
+      "hymn": "Galli cantu",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4620.gabc",
+      "originalCategory": "pa-24-f6",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-f6",
+      "slot": "ol|diurno",
+      "hymn": "Galli cantu",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4620.gabc",
+      "originalCategory": "pa-24-f6",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-sab",
+      "slot": "ol|noctu",
+      "hymn": "Lux aeterna",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4621.gabc",
+      "originalCategory": "pa-24-sab",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    },
+    {
+      "category": "pa-24-sab",
+      "slot": "ol|diurno",
+      "hymn": "Lux aeterna",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4621.gabc",
+      "originalCategory": "pa-24-sab",
+      "originalHour": "ol",
+      "confidence": "same-section",
+      "note": "Existing score from this section; hour/variant not verified"
+    }
+  ]
+}

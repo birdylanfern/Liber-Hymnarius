@@ -1,0 +1,445 @@
+{
+  "newAssignments": 0,
+  "stillUnclassified": 73,
+  "changes": [],
+  "pending": [
+    {
+      "name": "Anglorum iam",
+      "page": 427,
+      "file": "gabc/hymns/gregobase-liber/gb-20223.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Auctor salutis",
+      "page": 72,
+      "file": "gabc/hymns/gregobase-liber/gb-19352.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Ave Maris Stella (in memoriis)",
+      "page": 260,
+      "file": "gabc/hymns/gregobase-liber/gb-20950.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Bernardus doctor ínclitus",
+      "page": 589,
+      "file": "gabc/hymns/gregobase-liber/gb-20194.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Certum tenentes ordinem (T Adventus)",
+      "page": 12,
+      "file": "gabc/hymns/gregobase-liber/gb-4238.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Christum Dei Filium qui suo",
+      "page": 67,
+      "file": "gabc/hymns/gregobase-liber/gb-16425.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Christum Dei Filium qui suo",
+      "page": 67,
+      "file": "gabc/hymns/gregobase-liber/gb-7281.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Christum Dominum pro nobis passum et sepultum",
+      "page": null,
+      "file": "gabc/hymns/gregobase-liber/gb-19133.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Christum natum",
+      "page": 478,
+      "file": "gabc/hymns/gregobase-liber/gb-16620.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Christum pastorum principem",
+      "page": 289,
+      "file": "gabc/hymns/gregobase-liber/gb-14154.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Christum regem Filium David",
+      "page": 586,
+      "file": "gabc/hymns/gregobase-liber/gb-19395.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Comedetis carnes",
+      "page": 505,
+      "file": "gabc/hymns/gregobase-liber/gb-10360.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Comedétis carnes",
+      "page": 505,
+      "file": "gabc/hymns/gregobase-liber/gb-16205.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Deum qui glorificatur",
+      "page": 461,
+      "file": "gabc/hymns/gregobase-liber/gb-16185.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Deum verum",
+      "page": 106,
+      "file": "gabc/hymns/gregobase-liber/gb-15456.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Dies irae, Ad Officium Lectionis Heb. XXXIV",
+      "page": 126,
+      "file": "gabc/hymns/gregobase-liber/gb-20352.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Doctor insignis",
+      "page": 593,
+      "file": "gabc/hymns/gregobase-liber/gb-20241.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Ecce apparebit Dominus",
+      "page": 507,
+      "file": "gabc/hymns/gregobase-liber/gb-16108.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Fecunda sanctis insula",
+      "page": 568,
+      "file": "gabc/hymns/gregobase-liber/gb-19325.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Fontem sapientiae",
+      "page": 301,
+      "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Fortes cadéndo",
+      "page": 592,
+      "file": "gabc/hymns/gregobase-liber/gb-19514.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Fratres alacri pectore",
+      "page": 558,
+      "file": "gabc/hymns/gregobase-liber/gb-19854.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Gemma cælestis",
+      "page": 584,
+      "file": "gabc/hymns/gregobase-liber/gb-19991.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Haec femina laudabilis",
+      "page": 318,
+      "file": "gabc/hymns/gregobase-liber/gb-20036.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Hodie nobis caelorum (Resp.)",
+      "page": 489,
+      "file": "gabc/hymns/gregobase-liber/gb-16139.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Hodie nobis de caelo",
+      "page": 490,
+      "file": "gabc/hymns/gregobase-liber/gb-16360.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Hugo pius pater,",
+      "page": 565,
+      "file": "gabc/hymns/gregobase-liber/gb-19312.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Iesu auctor clementiae",
+      "page": 120,
+      "file": "gabc/hymns/gregobase-liber/gb-8737.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Iesu corona caelitum",
+      "page": 537,
+      "file": "gabc/hymns/gregobase-liber/gb-8825.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Iesu salvator saeculi",
+      "page": 463,
+      "file": "gabc/hymns/gregobase-liber/gb-16213.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Lætus hic noster (S Anselmi)",
+      "page": 559,
+      "file": "gabc/hymns/gregobase-liber/gb-20622.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Laudemus Deum nostrum",
+      "page": 556,
+      "file": "gabc/hymns/gregobase-liber/gb-10451.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Magno receptans pectore",
+      "page": 588,
+      "file": "gabc/hymns/gregobase-liber/gb-20186.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Mirabilem in sanctis",
+      "page": 311,
+      "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Nihil inquinatum (Resp)",
+      "page": 524,
+      "file": "gabc/hymns/gregobase-liber/gb-16135.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "O lux beata Caelitum",
+      "page": 26,
+      "file": "gabc/hymns/gregobase-liber/gb-14250.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Orbis patrator",
+      "page": 450,
+      "file": "gabc/hymns/gregobase-liber/gb-20258.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Panem vitae, Christum Dóminum",
+      "page": null,
+      "file": "gabc/hymns/gregobase-liber/gb-16200.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Præsulis exsultans",
+      "page": 576,
+      "file": "gabc/hymns/gregobase-liber/gb-20697.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Puellus Placidus",
+      "page": 545,
+      "file": "gabc/hymns/gregobase-liber/gb-20462.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Rector ætérni",
+      "page": 555,
+      "file": "gabc/hymns/gregobase-liber/gb-18971.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Regem angelorum",
+      "page": 441,
+      "file": "gabc/hymns/gregobase-liber/gb-7370.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Regem Apostolorum",
+      "page": 266,
+      "file": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Regem Apostolorum (mode IV*)",
+      "page": 266,
+      "file": "gabc/hymns/gregobase-liber/gb-16675.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Regem Apostolorum (Tempore paschali)",
+      "page": 266,
+      "file": "gabc/hymns/gregobase-liber/gb-20880.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Regis superni nuntia",
+      "page": 455,
+      "file": "gabc/hymns/gregobase-liber/gb-19560.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Rerum creator (+rhythmic signs)",
+      "page": 198,
+      "file": "gabc/hymns/gregobase-liber/gb-15618.gabc",
+      "reason": "conflicting categories on page"
+    },
+    {
+      "name": "Rerum Deus tenax vigor (In Feriis per annum)",
+      "page": 194,
+      "file": "gabc/hymns/gregobase-liber/gb-15610.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Rerum Deus tenax vigor (In Festis)",
+      "page": 194,
+      "file": "gabc/hymns/gregobase-liber/gb-19204.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Rerum Deus tenax vigor (in memoriis)",
+      "page": 194,
+      "file": "gabc/hymns/gregobase-liber/gb-19853.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Salvatorem mundi",
+      "page": 433,
+      "file": "gabc/hymns/gregobase-liber/gb-20896.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Salvete, cedri Libani",
+      "page": 538,
+      "file": "gabc/hymns/gregobase-liber/gb-20328.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Sint tibi laudis, S Bonifatii",
+      "page": 578,
+      "file": "gabc/hymns/gregobase-liber/gb-19941.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Te decet laus",
+      "page": 536,
+      "file": "gabc/hymns/gregobase-liber/gb-20754.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Te Deum (tonus monasticus/antiquus)",
+      "page": 527,
+      "file": "gabc/hymns/gregobase-liber/gb-8719.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Te lucis ante terminum (In Feriis per Annum)",
+      "page": 241,
+      "file": "gabc/hymns/gregobase-liber/gb-4680.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Te lucis ante terminum (In Festis)",
+      "page": 241,
+      "file": "gabc/hymns/gregobase-liber/gb-4682.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Te lucis ante terminum (In Memoriis)",
+      "page": 241,
+      "file": "gabc/hymns/gregobase-liber/gb-4681.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Ternis horarum (In festis)",
+      "page": 222,
+      "file": "gabc/hymns/gregobase-liber/gb-16832.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Ternis horarum (In memoriis)",
+      "page": 222,
+      "file": "gabc/hymns/gregobase-liber/gb-16831.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus D",
+      "page": 165,
+      "file": "gabc/hymns/gregobase-liber/gb-9707.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus E",
+      "page": 168,
+      "file": "gabc/hymns/gregobase-liber/gb-9642.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus II",
+      "page": 133,
+      "file": "gabc/hymns/gregobase-liber/gb-8218.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus III",
+      "page": 135,
+      "file": "gabc/hymns/gregobase-liber/gb-10397.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus IV",
+      "page": 138,
+      "file": "gabc/hymns/gregobase-liber/gb-15508.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus IV*",
+      "page": 141,
+      "file": "gabc/hymns/gregobase-liber/gb-7669.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus IV* (ad lib)",
+      "page": 144,
+      "file": "gabc/hymns/gregobase-liber/gb-16592.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus V",
+      "page": 146,
+      "file": "gabc/hymns/gregobase-liber/gb-10248.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus VI",
+      "page": 149,
+      "file": "gabc/hymns/gregobase-liber/gb-9664.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus VI*",
+      "page": 154,
+      "file": "gabc/hymns/gregobase-liber/gb-10035.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus VI**",
+      "page": 157,
+      "file": "gabc/hymns/gregobase-liber/gb-15059.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Venite exsultemus VII",
+      "page": 160,
+      "file": "gabc/hymns/gregobase-liber/gb-9834.gabc",
+      "reason": "no classified entry on exact page"
+    },
+    {
+      "name": "Virgo virginum praeclara",
+      "page": 438,
+      "file": "gabc/hymns/gregobase-liber/gb-20897.gabc",
+      "reason": "no classified entry on exact page"
+    }
+  ]
+}

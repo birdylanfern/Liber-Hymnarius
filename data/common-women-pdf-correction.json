@@ -1,0 +1,31 @@
+{
+  "printedPages": [
+    318,
+    319,
+    321
+  ],
+  "pdfScanPages": [
+    166,
+    167
+  ],
+  "changes": [
+    {
+      "id": 20036,
+      "hour": "ol",
+      "variant": "pro una sancta muliere",
+      "page": 318
+    },
+    {
+      "id": 17984,
+      "hour": "ol",
+      "variant": "pro pluribus sanctis mulieribus",
+      "page": 319
+    },
+    {
+      "id": 17959,
+      "hour": "l",
+      "variant": "pro pluribus sanctis mulieribus",
+      "page": 321
+    }
+  ]
+}

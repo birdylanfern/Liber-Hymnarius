@@ -1,0 +1,337 @@
+{
+  "reviewedSlots": 10,
+  "candidateReferences": 40,
+  "titleOverlapSlots": 2,
+  "entries": [
+    {
+      "section": "Proprium de Sanctis / September / 15 · Beatae Mariae Virginis Perdolentis",
+      "hour": "v",
+      "variant": "",
+      "candidateCount": 4,
+      "status": "CATEGORY-ONLY — not evidence of correct chant",
+      "candidates": [
+        {
+          "name": "Eia Mater (fix)",
+          "file": "gabc/hymns/gregobase-liber/gb-20900.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Eia Mater (simplex)",
+          "file": "gabc/hymns/gregobase-liber/gb-17969.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Stabat Mater",
+          "file": "gabc/hymns/gregobase-liber/gb-20898.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Virgo virginum praeclara",
+          "file": "gabc/hymns/gregobase-liber/gb-20897.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        }
+      ]
+    },
+    {
+      "section": "Proprium de Sanctis / September / 15 · Beatae Mariae Virginis Perdolentis",
+      "hour": "inv",
+      "variant": "",
+      "candidateCount": 4,
+      "status": "CATEGORY-ONLY — not evidence of correct chant",
+      "candidates": [
+        {
+          "name": "Eia Mater (fix)",
+          "file": "gabc/hymns/gregobase-liber/gb-20900.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Eia Mater (simplex)",
+          "file": "gabc/hymns/gregobase-liber/gb-17969.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Stabat Mater",
+          "file": "gabc/hymns/gregobase-liber/gb-20898.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Virgo virginum praeclara",
+          "file": "gabc/hymns/gregobase-liber/gb-20897.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        }
+      ]
+    },
+    {
+      "section": "Proprium de Sanctis / November / 1 · Omnium Sanctorum",
+      "hour": "inv",
+      "variant": "",
+      "candidateCount": 3,
+      "status": "CATEGORY-ONLY — not evidence of correct chant",
+      "candidates": [
+        {
+          "name": "Christe caelorum habitator alme",
+          "file": "gabc/hymns/gregobase-liber/gb-11256.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Christe caelorum habitator alme",
+          "file": "gabc/hymns/gregobase-liber/gb-16186.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Iesu salvator saeculi",
+          "file": "gabc/hymns/gregobase-liber/gb-16213.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Martyrum / Pro pluribus martyribus",
+      "hour": "inv",
+      "variant": "in tempore paschali",
+      "candidateCount": 3,
+      "status": "SAME-HOUR ONLY — verify variant",
+      "candidates": [
+        {
+          "name": "Regem martyrum Dominum",
+          "file": "gabc/hymns/gregobase-liber/gb-10558.gabc",
+          "evidence": "same-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Regem martyrum Dominum (memoria)",
+          "file": "gabc/hymns/gregobase-liber/gb-20901.gabc",
+          "evidence": "same-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Sanctorum meritis",
+          "file": "gabc/hymns/gregobase-liber/gb-20600.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Pastorum",
+      "hour": "inv",
+      "variant": "Christum, pastorum",
+      "candidateCount": 8,
+      "status": "CATEGORY-ONLY — not evidence of correct chant",
+      "candidates": [
+        {
+          "name": "Christe pastorum (Pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-8819.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Christe pastorum (Pro Papa)",
+          "file": "gabc/hymns/gregobase-liber/gb-8820.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Inclitus rector (Pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-8816.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Inclitus rector (Pro Presbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-8817.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Vir celse (pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-20001.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Vir celse (Pro papa)",
+          "file": "gabc/hymns/gregobase-liber/gb-20002.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Vir celse (Pro presbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-20004.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Vir celse (Pro resbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-20003.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Pastorum",
+      "hour": "inv",
+      "variant": "Christum, pastorum, in tempore paschali",
+      "candidateCount": 8,
+      "status": "CATEGORY-ONLY — not evidence of correct chant",
+      "candidates": [
+        {
+          "name": "Christe pastorum (Pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-8819.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Christe pastorum (Pro Papa)",
+          "file": "gabc/hymns/gregobase-liber/gb-8820.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Inclitus rector (Pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-8816.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Inclitus rector (Pro Presbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-8817.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Vir celse (pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-20001.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Vir celse (Pro papa)",
+          "file": "gabc/hymns/gregobase-liber/gb-20002.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Vir celse (Pro presbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-20004.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Vir celse (Pro resbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-20003.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Doctorum Ecclesiae",
+      "hour": "inv",
+      "variant": "Fontem sapientiae, in tempore paschali",
+      "candidateCount": 2,
+      "status": "TITLE-OVERLAP ONLY — verify Eastertide melody",
+      "candidates": [
+        {
+          "name": "Fontem sapientiae",
+          "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+          "evidence": "same-hour",
+          "titleOverlap": true
+        },
+        {
+          "name": "Fontem sapientiae",
+          "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+          "evidence": "same-hour",
+          "titleOverlap": true
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Sanctorum Virorum",
+      "hour": "inv",
+      "variant": "Mirabilem in sanctis, in tempore paschali",
+      "candidateCount": 2,
+      "status": "TITLE-OVERLAP ONLY — verify Eastertide melody",
+      "candidates": [
+        {
+          "name": "Mirabilem in sanctis",
+          "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+          "evidence": "same-hour",
+          "titleOverlap": true
+        },
+        {
+          "name": "Inclytos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-8841.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Sanctorum Virorum",
+      "hour": "l",
+      "variant": "pro uno sancto",
+      "candidateCount": 3,
+      "status": "SAME-HOUR ONLY — verify variant",
+      "candidates": [
+        {
+          "name": "Beata caeli gaudia",
+          "file": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+          "evidence": "same-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Beata caeli gaudia",
+          "file": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+          "evidence": "same-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Inclytos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-8841.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Sanctorum Virorum",
+      "hour": "v",
+      "variant": "pro uno sancto",
+      "candidateCount": 3,
+      "status": "SAME-HOUR ONLY — verify variant",
+      "candidates": [
+        {
+          "name": "Inclitos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+          "evidence": "same-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Inclitos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+          "evidence": "same-hour",
+          "titleOverlap": false
+        },
+        {
+          "name": "Inclytos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-8841.gabc",
+          "evidence": "missing-hour",
+          "titleOverlap": false
+        }
+      ]
+    }
+  ]
+}

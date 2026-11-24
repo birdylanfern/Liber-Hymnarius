@@ -1,0 +1,22 @@
+{
+  "imported": 0,
+  "results": [
+    {
+      "file": "joseph-invitatory.gabc",
+      "status": "rejected",
+      "reason": "Feast-specific words absent from sung text; metadata alone is insufficient"
+    },
+    {
+      "file": "joseph-lauds.gabc",
+      "status": "missing"
+    },
+    {
+      "file": "pentecost-lauds.gabc",
+      "status": "missing"
+    },
+    {
+      "file": "paul-invitatory.gabc",
+      "status": "missing"
+    }
+  ]
+}

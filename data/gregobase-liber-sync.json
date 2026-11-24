@@ -1,0 +1,3171 @@
+{
+  "source": "https://gregobase.selapa.net/source.php?id=15",
+  "sourceCount": 452,
+  "downloaded": [
+    {
+      "id": "9089",
+      "title": "Relucens inter principes",
+      "page": 423,
+      "category": "s-08-24",
+      "hour": "l"
+    },
+    {
+      "id": "7424",
+      "title": "Conditor alme siderum",
+      "page": 3,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16423",
+      "title": "Te lucis ante terminum (Tempus Adventus)",
+      "page": 4,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8225",
+      "title": "Regem venturum Dominum (In dominica)",
+      "page": 4,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8226",
+      "title": "Regem venturum Dominum (In feriis)",
+      "page": 4,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8227",
+      "title": "Verbum supernum prodiens a",
+      "page": 5,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20362",
+      "title": "Vox clara ecce intonat",
+      "page": 6,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "18010",
+      "title": "Nunc sancte (Adv)",
+      "page": 7,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "18012",
+      "title": "Rector potens (Adv.)",
+      "page": 8,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "18015",
+      "title": "Rerum Deus tenax (Adv.)",
+      "page": 8,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "14187",
+      "title": "Verbum salutis omnium",
+      "page": 9,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4685",
+      "title": "Christe qui splendor (Tempore Adventus post diem 16 decembris)",
+      "page": 9,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19798",
+      "title": "Prope est iam Dominus (In dominica)",
+      "page": 10,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19799",
+      "title": "Prope est iam Dominus (In feriis)",
+      "page": 10,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16079",
+      "title": "Hodie scietis (ad invitatorium)",
+      "page": 10,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4243",
+      "title": "Magnis prophetae",
+      "page": 11,
+      "category": "adventus-post16",
+      "hour": "l"
+    },
+    {
+      "id": "4238",
+      "title": "Certum tenentes ordinem (T Adventus)",
+      "page": 12,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4239",
+      "title": "Dicamus laudes Domino",
+      "page": 13,
+      "category": "adventus-post16",
+      "hour": "s"
+    },
+    {
+      "id": "4240",
+      "title": "Ternis horarum terminis",
+      "page": 13,
+      "category": "adventus-post16",
+      "hour": "n"
+    },
+    {
+      "id": "4245",
+      "title": "Christe Redemptor omnium",
+      "page": 14,
+      "category": "nativitatis-ante-epiph",
+      "hour": "v"
+    },
+    {
+      "id": "8892",
+      "title": "Te lucis ante terminum (In Nativitate Domini)",
+      "page": 16,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "18100",
+      "title": "Christus natus est nobis",
+      "page": 16,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16356",
+      "title": "Venite exsultemus IV**",
+      "page": 16,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4246",
+      "title": "Candor aeternae",
+      "page": 19,
+      "category": "nativitatis-ante-epiph",
+      "hour": "ol"
+    },
+    {
+      "id": "19800",
+      "title": "Christus natus est nobis",
+      "page": 19,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "13356",
+      "title": "Candor aeternae",
+      "page": 21,
+      "category": "nativitatis-ante-epiph",
+      "hour": "ol"
+    },
+    {
+      "id": "4247",
+      "title": "A solis ortus",
+      "page": 22,
+      "category": "nativitatis-ante-epiph",
+      "hour": "l"
+    },
+    {
+      "id": "16389",
+      "title": "Nunc sancte nobis Spiritus (Tempus Nativitatis)",
+      "page": 24,
+      "category": "nativitatis-ante-epiph",
+      "hour": "t"
+    },
+    {
+      "id": "16390",
+      "title": "Rector potens (Tempus Nativitatis)",
+      "page": 25,
+      "category": "nativitatis-ante-epiph",
+      "hour": "s"
+    },
+    {
+      "id": "19802",
+      "title": "Rerum Deus tenax vigor (tempus nativitas)",
+      "page": 25,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "14250",
+      "title": "O lux beata Caelitum",
+      "page": 26,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16711",
+      "title": "Dulce fit nobis",
+      "page": 28,
+      "category": "sacra-familia",
+      "hour": "ol"
+    },
+    {
+      "id": "8420",
+      "title": "Christe splendor Patris",
+      "page": 29,
+      "category": "sacra-familia",
+      "hour": "l"
+    },
+    {
+      "id": "8424",
+      "title": "Corde natus ex Parentis",
+      "page": 31,
+      "category": "dei-genetrix",
+      "hour": "v12"
+    },
+    {
+      "id": "8699",
+      "title": "Maternitatem Virginis Mariae",
+      "page": 33,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4255",
+      "title": "Fit porta Christi",
+      "page": 34,
+      "category": "dei-genetrix",
+      "hour": "l"
+    },
+    {
+      "id": "8426",
+      "title": "Hostis Herodes impie",
+      "page": 36,
+      "category": "nativitatis-post-epiph",
+      "hour": "v"
+    },
+    {
+      "id": "4687",
+      "title": "Christe qui splendor (Tempore Nativitatis a sollemnitate Epiphaniae)",
+      "page": 37,
+      "category": "nativitatis-post-epiph",
+      "hour": "c"
+    },
+    {
+      "id": "8702",
+      "title": "Magi videntes parvulum",
+      "page": 38,
+      "category": "nativitatis-post-epiph",
+      "hour": "ol"
+    },
+    {
+      "id": "8427",
+      "title": "Quicumque Christum quaeritis",
+      "page": 40,
+      "category": "nativitatis-post-epiph",
+      "hour": "l"
+    },
+    {
+      "id": "8428",
+      "title": "A Patre Unigenite",
+      "page": 43,
+      "category": "baptisma-domini",
+      "hour": "v1"
+    },
+    {
+      "id": "19803",
+      "title": "Christum Filium dilectum",
+      "page": 44,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8703",
+      "title": "Implente munus debitum",
+      "page": 45,
+      "category": "baptisma-domini",
+      "hour": "olv"
+    },
+    {
+      "id": "9665",
+      "title": "Jesus refulsit omnium",
+      "page": 46,
+      "category": "baptisma-domini",
+      "hour": "l"
+    },
+    {
+      "id": "16931",
+      "title": "Iesu quadragenariae",
+      "page": 49,
+      "category": "quadragesima-hebd1-5",
+      "hour": "v"
+    },
+    {
+      "id": "19804",
+      "title": "Te lucis ante terminum (tempus quadragesimæ)",
+      "page": 51,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4686",
+      "title": "Christe qui splendor (Tempore Quadragesimae hebdomadae II IV)",
+      "page": 51,
+      "category": "quadragesima-hebd1-5",
+      "hour": "c"
+    },
+    {
+      "id": "16932",
+      "title": "Ex more docti Mystico",
+      "page": 52,
+      "category": "quadragesima-hebd1-5",
+      "hour": "ol"
+    },
+    {
+      "id": "7270",
+      "title": "Christum Dominum",
+      "page": 52,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "7276",
+      "title": "Hodie si vocem Domini",
+      "page": 52,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16933",
+      "title": "Nunc tempus acceptabile",
+      "page": 54,
+      "category": "quadragesima-hebd1-5",
+      "hour": "ol"
+    },
+    {
+      "id": "16934",
+      "title": "Precemur omnes cernui",
+      "page": 55,
+      "category": "quadragesima-hebd1-5",
+      "hour": "l"
+    },
+    {
+      "id": "7266",
+      "title": "Iam Christe",
+      "page": 56,
+      "category": "quadragesima-hebd1-5",
+      "hour": "l"
+    },
+    {
+      "id": "7263",
+      "title": "Dei fide",
+      "page": 56,
+      "category": "quadragesima-hebd1-5",
+      "hour": "t"
+    },
+    {
+      "id": "7264",
+      "title": "Qua Christus",
+      "page": 57,
+      "category": "quadragesima-hebd1-5",
+      "hour": "s"
+    },
+    {
+      "id": "7265",
+      "title": "Ternis ter horis (T Quad.)",
+      "page": 57,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19794",
+      "title": "Vexilla Regis prodeunt",
+      "page": 58,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20572",
+      "title": "Vexilla Regis prodeunt (tempore passionis)",
+      "page": 59,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19795",
+      "title": "En acetum",
+      "page": 63,
+      "category": "hebdomada-sancta",
+      "hour": "l"
+    },
+    {
+      "id": "16425",
+      "title": "Christum Dei Filium qui suo",
+      "page": 67,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "7281",
+      "title": "Christum Dei Filium qui suo",
+      "page": 67,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19352",
+      "title": "Auctor salutis",
+      "page": 72,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4541",
+      "title": "O rex aeterne Domine",
+      "page": 76,
+      "category": "paschale-ante-asc",
+      "hour": "v"
+    },
+    {
+      "id": "15084",
+      "title": "Iesu redemptor saeculi TP",
+      "page": 77,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15086",
+      "title": "Hic est dies",
+      "page": 79,
+      "category": "paschale-ante-asc",
+      "hour": "ol"
+    },
+    {
+      "id": "7290",
+      "title": "Surrexit Dominus vere (Inv.)",
+      "page": 79,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10293",
+      "title": "Laetare caelum desuper",
+      "page": 81,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15087",
+      "title": "Aurora lucis",
+      "page": 82,
+      "category": "paschale-ante-asc",
+      "hour": "l"
+    },
+    {
+      "id": "7291",
+      "title": "Chorus novae Ierusalem",
+      "page": 83,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15488",
+      "title": "Iam surgit",
+      "page": 85,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15088",
+      "title": "Iam surgit TP",
+      "page": 85,
+      "category": "paschale-ante-asc",
+      "hour": "t"
+    },
+    {
+      "id": "15089",
+      "title": "Venite servi (TP)",
+      "page": 86,
+      "category": "paschale-ante-asc",
+      "hour": "s"
+    },
+    {
+      "id": "15090",
+      "title": "Haec hora (TP)",
+      "page": 87,
+      "category": "paschale-ante-asc",
+      "hour": "n"
+    },
+    {
+      "id": "4515",
+      "title": "Iesu nostra redemptio",
+      "page": 88,
+      "category": "paschale-post-asc",
+      "hour": "v"
+    },
+    {
+      "id": "14258",
+      "title": "Veni Creator Spiritus",
+      "page": 90,
+      "category": "paschale-post-asc",
+      "hour": "v"
+    },
+    {
+      "id": "19801",
+      "title": "Alleluia, Christum Dominum ascendentem in caelum",
+      "page": 91,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8704",
+      "title": "Aeterne Rex altissime",
+      "page": 92,
+      "category": "paschale-post-asc",
+      "hour": "ol"
+    },
+    {
+      "id": "15200",
+      "title": "Optatus votis omnium",
+      "page": 94,
+      "category": "paschale-post-asc",
+      "hour": "l"
+    },
+    {
+      "id": "15366",
+      "title": "Alleluia spiritus Domini replevit",
+      "page": 98,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15367",
+      "title": "Lux iucunda",
+      "page": 98,
+      "category": "pentecostes",
+      "hour": "ol"
+    },
+    {
+      "id": "17812",
+      "title": "Iam Christus astra",
+      "page": 101,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17810",
+      "title": "Venite servi (Pentecostes)",
+      "page": 103,
+      "category": "pentecostes",
+      "hour": "s"
+    },
+    {
+      "id": "17811",
+      "title": "Haec hora (Pentecostes)",
+      "page": 104,
+      "category": "pentecostes",
+      "hour": "n"
+    },
+    {
+      "id": "15453",
+      "title": "Immensa et una",
+      "page": 105,
+      "category": "trinitas",
+      "hour": "v"
+    },
+    {
+      "id": "15456",
+      "title": "Deum verum",
+      "page": 106,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15454",
+      "title": "Te Patrem summum",
+      "page": 107,
+      "category": "trinitas",
+      "hour": "ol"
+    },
+    {
+      "id": "15455",
+      "title": "Trinitas summo",
+      "page": 108,
+      "category": "trinitas",
+      "hour": "l"
+    },
+    {
+      "id": "8671",
+      "title": "Pange lingua... Corporis",
+      "page": 110,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16201",
+      "title": "Sacris Solemnis",
+      "page": 113,
+      "category": "corpus-christi",
+      "hour": "ol"
+    },
+    {
+      "id": "10363",
+      "title": "Panem vitae Christum Dominum",
+      "page": 113,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15553",
+      "title": "Verbum supernum prodiens",
+      "page": 115,
+      "category": "corpus-christi",
+      "hour": "l"
+    },
+    {
+      "id": "10383",
+      "title": "Auctor beate saeculi",
+      "page": 117,
+      "category": "cor-iesu",
+      "hour": "v"
+    },
+    {
+      "id": "10171",
+      "title": "Cor Iesu amore nostri",
+      "page": 118,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8129",
+      "title": "Cor arca legem continens (another chant)",
+      "page": 119,
+      "category": "cor-iesu",
+      "hour": "ol"
+    },
+    {
+      "id": "8737",
+      "title": "Iesu auctor clementiae",
+      "page": 120,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "11361",
+      "title": "Te saeculorum principem",
+      "page": 122,
+      "category": "christus-rex",
+      "hour": "v"
+    },
+    {
+      "id": "16103",
+      "title": "Iesum Christum, regem regum",
+      "page": 124,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16104",
+      "title": "Iesu rex admirabilis",
+      "page": 124,
+      "category": "christus-rex",
+      "hour": "ol"
+    },
+    {
+      "id": "16110",
+      "title": "Aetérna imágo",
+      "page": 125,
+      "category": "christus-rex",
+      "hour": "l"
+    },
+    {
+      "id": "20348",
+      "title": "Aeterna imago Altissimi",
+      "page": 125,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20352",
+      "title": "Dies irae, Ad Officium Lectionis Heb. XXXIV",
+      "page": 126,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16848",
+      "title": "Quid sum",
+      "page": 128,
+      "category": "hebdomada-34",
+      "hour": "l"
+    },
+    {
+      "id": "20353",
+      "title": "Dies irae, ad Laudes  Quid sum miser...",
+      "page": 128,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16849",
+      "title": "Peccatricem qui solvisti",
+      "page": 129,
+      "category": "hebdomada-34",
+      "hour": "v"
+    },
+    {
+      "id": "20354",
+      "title": "Dies irae, ad Vesperas, Peccatricem qui solvisti",
+      "page": 129,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8218",
+      "title": "Venite exsultemus II",
+      "page": 133,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10397",
+      "title": "Venite exsultemus III",
+      "page": 135,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15508",
+      "title": "Venite exsultemus IV",
+      "page": 138,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "7669",
+      "title": "Venite exsultemus IV*",
+      "page": 141,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16592",
+      "title": "Venite exsultemus IV* (ad lib)",
+      "page": 144,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10248",
+      "title": "Venite exsultemus V",
+      "page": 146,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "9664",
+      "title": "Venite exsultemus VI",
+      "page": 149,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10035",
+      "title": "Venite exsultemus VI*",
+      "page": 154,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15059",
+      "title": "Venite exsultemus VI**",
+      "page": 157,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "9834",
+      "title": "Venite exsultemus VII",
+      "page": 160,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "9707",
+      "title": "Venite exsultemus D",
+      "page": 165,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "9642",
+      "title": "Venite exsultemus E",
+      "page": 168,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4666",
+      "title": "Iubilemus Deo",
+      "page": 179,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15595",
+      "title": "Venite exsultemus",
+      "page": 179,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15596",
+      "title": "Regem magnum",
+      "page": 179,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15597",
+      "title": "Dominum qui fecit nos",
+      "page": 179,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "14205",
+      "title": "Populus Domini",
+      "page": 180,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15598",
+      "title": "Adoremus Dominum qui fecit",
+      "page": 180,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15599",
+      "title": "Dominum Deum nostrum",
+      "page": 180,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15600",
+      "title": "Populus Domini",
+      "page": 180,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "7367",
+      "title": "Deus creator omnium",
+      "page": 181,
+      "category": "pa-13-dom",
+      "hour": "v1"
+    },
+    {
+      "id": "4556",
+      "title": "Primo dierum",
+      "page": 182,
+      "category": "pa-13-dom",
+      "hour": "ol"
+    },
+    {
+      "id": "15628",
+      "title": "Dies aetasque (+rhythmic signs)",
+      "page": 183,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10515",
+      "title": "Dies aetasque",
+      "page": 183,
+      "category": "pa-13-dom",
+      "hour": "ol"
+    },
+    {
+      "id": "15601",
+      "title": "Aeterne rerum ... noctem",
+      "page": 184,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19477",
+      "title": "Aeterne rerum Conditor (Dox£. Deo Patri)",
+      "page": 184,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15602",
+      "title": "Nunc Sancte (dom.)",
+      "page": 185,
+      "category": "pa-13-dom",
+      "hour": "t"
+    },
+    {
+      "id": "15603",
+      "title": "Rector potens (dom.)",
+      "page": 186,
+      "category": "pa-13-dom",
+      "hour": "s"
+    },
+    {
+      "id": "20935",
+      "title": "Nunc Sancte (In Solemnitatibus)",
+      "page": 186,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15604",
+      "title": "Rerum Deus tenax (dom.)",
+      "page": 187,
+      "category": "pa-13-dom",
+      "hour": "n"
+    },
+    {
+      "id": "18013",
+      "title": "Rector potens (soll.)",
+      "page": 187,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15605",
+      "title": "Lucis creator",
+      "page": 188,
+      "category": "pa-13-dom",
+      "hour": "v2"
+    },
+    {
+      "id": "20295",
+      "title": "Rerum, Deus, tenax",
+      "page": 188,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19357",
+      "title": "Lucis creator",
+      "page": 188,
+      "category": "pa-13-dom",
+      "hour": "v2"
+    },
+    {
+      "id": "4629",
+      "title": "Rerum Deus (In Solemnitatibus)",
+      "page": 188,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4558",
+      "title": "Somno refectis",
+      "page": 190,
+      "category": "pa-13-f2",
+      "hour": "ol"
+    },
+    {
+      "id": "15627",
+      "title": "Somno refectis (+rhythmic signs)",
+      "page": 190,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15607",
+      "title": "Aeterna lux divinitas",
+      "page": 190,
+      "category": "pa-13-f2",
+      "hour": "ol"
+    },
+    {
+      "id": "15608",
+      "title": "Splendor paternae",
+      "page": 191,
+      "category": "pa-13-f2",
+      "hour": "l"
+    },
+    {
+      "id": "18011",
+      "title": "Nunc Sancte (in Memoriis)",
+      "page": 192,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4557",
+      "title": "Nunc Sancte nobis (in Feriis per annum)",
+      "page": 192,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15609",
+      "title": "Rector potens verax Deus (In Feriis per annum)",
+      "page": 193,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19203",
+      "title": "Rector potens verax Deus (In Festis)",
+      "page": 193,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19852",
+      "title": "Rector potens verax deus (in memoriis)",
+      "page": 193,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15610",
+      "title": "Rerum Deus tenax vigor (In Feriis per annum)",
+      "page": 194,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19853",
+      "title": "Rerum Deus tenax vigor (in memoriis)",
+      "page": 194,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19204",
+      "title": "Rerum Deus tenax vigor (In Festis)",
+      "page": 194,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15611",
+      "title": "Immense caeli",
+      "page": 195,
+      "category": "pa-13-f2",
+      "hour": "v"
+    },
+    {
+      "id": "4559",
+      "title": "Consors paterni",
+      "page": 196,
+      "category": "pa-13-f3",
+      "hour": "ol"
+    },
+    {
+      "id": "15616",
+      "title": "Consors paterni (+rhythmic signs)",
+      "page": 196,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15617",
+      "title": "O sacrosancta Trinitas",
+      "page": 196,
+      "category": "pa-13-f3",
+      "hour": "ol"
+    },
+    {
+      "id": "15629",
+      "title": "Pergrata mundo",
+      "page": 197,
+      "category": "pa-13-f3",
+      "hour": "l"
+    },
+    {
+      "id": "19840",
+      "title": "Rerum creator optime",
+      "page": 198,
+      "category": "pa-13-f4",
+      "hour": "ol"
+    },
+    {
+      "id": "4560",
+      "title": "Rerum creator optime",
+      "page": 198,
+      "category": "pa-13-f4",
+      "hour": "ol"
+    },
+    {
+      "id": "15635",
+      "title": "Telluris ingens conditor",
+      "page": 198,
+      "category": "pa-13-f3",
+      "hour": "v"
+    },
+    {
+      "id": "15618",
+      "title": "Rerum creator (+rhythmic signs)",
+      "page": 198,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15619",
+      "title": "Scientiarum Domino",
+      "page": 199,
+      "category": "pa-13-f4",
+      "hour": "ol"
+    },
+    {
+      "id": "15630",
+      "title": "Nox et tenebrae",
+      "page": 199,
+      "category": "pa-13-f4",
+      "hour": "l"
+    },
+    {
+      "id": "15636",
+      "title": "Caeli Deus",
+      "page": 200,
+      "category": "pa-13-f4",
+      "hour": "v"
+    },
+    {
+      "id": "4561",
+      "title": "Nox atra rerum",
+      "page": 201,
+      "category": "pa-13-f5",
+      "hour": "ol"
+    },
+    {
+      "id": "15620",
+      "title": "Nox atra rerum (+rhythmic signs)",
+      "page": 201,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15621",
+      "title": "Christe precamur",
+      "page": 201,
+      "category": "pa-13-f5",
+      "hour": "ol"
+    },
+    {
+      "id": "15631",
+      "title": "Sol ecce surgit",
+      "page": 202,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15637",
+      "title": "Magnae Deus potentiae",
+      "page": 202,
+      "category": "pa-13-f5",
+      "hour": "v"
+    },
+    {
+      "id": "15622",
+      "title": "Tu Trinitatis (+rhythmic signs)",
+      "page": 203,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4562",
+      "title": "Tu Trinitatis Unitas",
+      "page": 203,
+      "category": "pa-13-f6",
+      "hour": "ol"
+    },
+    {
+      "id": "15623",
+      "title": "Adesto Christe (+rhythmic signs)",
+      "page": 204,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10449",
+      "title": "Adesto Christe cordibus",
+      "page": 204,
+      "category": "pa-13-f6",
+      "hour": "ol"
+    },
+    {
+      "id": "15632",
+      "title": "Aeterna caeli gloria",
+      "page": 204,
+      "category": "pa-13-f6",
+      "hour": "l"
+    },
+    {
+      "id": "15638",
+      "title": "Plasmator hominis",
+      "page": 205,
+      "category": "pa-13-f6",
+      "hour": "v"
+    },
+    {
+      "id": "4563",
+      "title": "Summae Deus clementiae",
+      "page": 206,
+      "category": "pa-13-sab",
+      "hour": "ol"
+    },
+    {
+      "id": "15625",
+      "title": "Summae Deus (+rhythmic signs)",
+      "page": 206,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15624",
+      "title": "Auctor perennis",
+      "page": 206,
+      "category": "pa-13-sab",
+      "hour": "ol"
+    },
+    {
+      "id": "15633",
+      "title": "Aurora iam",
+      "page": 207,
+      "category": "pa-13-sab",
+      "hour": "l"
+    },
+    {
+      "id": "4637",
+      "title": "Rerum Deus fons",
+      "page": 208,
+      "category": "pa-24-dom",
+      "hour": "v1"
+    },
+    {
+      "id": "4610",
+      "title": "Mediae noctis",
+      "page": 209,
+      "category": "pa-24-dom",
+      "hour": "ol"
+    },
+    {
+      "id": "10458",
+      "title": "Salve dies dierum",
+      "page": 210,
+      "category": "pa-24-dom",
+      "hour": "ol"
+    },
+    {
+      "id": "19480",
+      "title": "Ecce iam noctis",
+      "page": 212,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16812",
+      "title": "Certum tenentes (In dominicis per annum)",
+      "page": 213,
+      "category": "pa-24-dom",
+      "hour": "t"
+    },
+    {
+      "id": "16813",
+      "title": "Certum tenentes (In Sollemnitatibus)",
+      "page": 213,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16817",
+      "title": "Dicamus laudes (In dominicis)",
+      "page": 214,
+      "category": "pa-24-dom",
+      "hour": "s"
+    },
+    {
+      "id": "16819",
+      "title": "Dicamus laudes (In sollemnitatibus)",
+      "page": 214,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16829",
+      "title": "Ternis horarum (In sollemnitatibus)",
+      "page": 215,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16827",
+      "title": "Ternis horarum (In dominicis per annum)",
+      "page": 215,
+      "category": "pa-24-dom",
+      "hour": "n"
+    },
+    {
+      "id": "19491",
+      "title": "Ipsum nunc nobis tempus est (textus amplior)",
+      "page": 217,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4615",
+      "title": "Ipsum nunc nobis",
+      "page": 217,
+      "category": "pa-24-f2",
+      "hour": "ol"
+    },
+    {
+      "id": "16745",
+      "title": "Vita sanctorum",
+      "page": 217,
+      "category": "pa-24-f2",
+      "hour": "ol"
+    },
+    {
+      "id": "7502",
+      "title": "Lucis Largitor",
+      "page": 218,
+      "category": "pa-24-f2",
+      "hour": "l"
+    },
+    {
+      "id": "16814",
+      "title": "Certum tenentes (In feriis per annum)",
+      "page": 219,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16815",
+      "title": "Certum tenentes (In memoriis)",
+      "page": 219,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16816",
+      "title": "Certum tenentes (In festis)",
+      "page": 220,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16820",
+      "title": "Dicamus laudes (In feriis)",
+      "page": 220,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16830",
+      "title": "Ternis horarum (In feriis per annum)",
+      "page": 221,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16825",
+      "title": "Dicamus laudes (In festis)",
+      "page": 221,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16824",
+      "title": "Dicamus laudes (In memoriis)",
+      "page": 221,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16831",
+      "title": "Ternis horarum (In memoriis)",
+      "page": 222,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16832",
+      "title": "Ternis horarum (In festis)",
+      "page": 222,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15699",
+      "title": "Luminis fons",
+      "page": 223,
+      "category": "pa-24-f2",
+      "hour": "v"
+    },
+    {
+      "id": "4616",
+      "title": "Nocte surgentes",
+      "page": 224,
+      "category": "pa-24-f3",
+      "hour": "ol"
+    },
+    {
+      "id": "10445",
+      "title": "Ad preces nostras",
+      "page": 225,
+      "category": "pa-24-f3",
+      "hour": "ol"
+    },
+    {
+      "id": "16710",
+      "title": "Aeterne lucis conditor",
+      "page": 226,
+      "category": "pa-24-f3",
+      "hour": "l"
+    },
+    {
+      "id": "16712",
+      "title": "Sator princépsque témporum",
+      "page": 227,
+      "category": "pa-24-f3",
+      "hour": "v"
+    },
+    {
+      "id": "4617",
+      "title": "O sator rerum",
+      "page": 228,
+      "category": "pa-24-f4",
+      "hour": "ol"
+    },
+    {
+      "id": "10444",
+      "title": "Christe lux vera",
+      "page": 229,
+      "category": "pa-24-f4",
+      "hour": "ol"
+    },
+    {
+      "id": "14141",
+      "title": "Fulgentis auctor aetheris",
+      "page": 230,
+      "category": "pa-24-f4",
+      "hour": "l"
+    },
+    {
+      "id": "16746",
+      "title": "Sol ecce lentus",
+      "page": 231,
+      "category": "pa-24-f4",
+      "hour": "v"
+    },
+    {
+      "id": "4618",
+      "title": "Ales diei nuntius",
+      "page": 232,
+      "category": "pa-24-f5",
+      "hour": "ol"
+    },
+    {
+      "id": "10447",
+      "title": "Amoris sensus erige",
+      "page": 232,
+      "category": "pa-24-f5",
+      "hour": "ol"
+    },
+    {
+      "id": "16747",
+      "title": "Deus qui claro lúmine",
+      "page": 233,
+      "category": "pa-24-f5",
+      "hour": "v"
+    },
+    {
+      "id": "15509",
+      "title": "Iam lucis orto sidere",
+      "page": 233,
+      "category": "pa-24-f5",
+      "hour": "l"
+    },
+    {
+      "id": "4620",
+      "title": "Galli cantu",
+      "page": 234,
+      "category": "pa-24-f6",
+      "hour": "ol"
+    },
+    {
+      "id": "16749",
+      "title": "Adesto rerum conditor",
+      "page": 235,
+      "category": "pa-24-f6",
+      "hour": "ol"
+    },
+    {
+      "id": "16748",
+      "title": "Deus qui caeli lumen es",
+      "page": 236,
+      "category": "pa-24-f6",
+      "hour": "l"
+    },
+    {
+      "id": "15693",
+      "title": "Horis peractis undecim",
+      "page": 236,
+      "category": "pa-24-f6",
+      "hour": "v"
+    },
+    {
+      "id": "4621",
+      "title": "Lux aeterna",
+      "page": 237,
+      "category": "pa-24-sab",
+      "hour": "ol"
+    },
+    {
+      "id": "16750",
+      "title": "Deus de nullo veniens",
+      "page": 238,
+      "category": "pa-24-sab",
+      "hour": "ol"
+    },
+    {
+      "id": "16058",
+      "title": "Diei luce reddita",
+      "page": 239,
+      "category": "pa-24-sab",
+      "hour": "l"
+    },
+    {
+      "id": "4680",
+      "title": "Te lucis ante terminum (In Feriis per Annum)",
+      "page": 241,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4681",
+      "title": "Te lucis ante terminum (In Memoriis)",
+      "page": 241,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4682",
+      "title": "Te lucis ante terminum (In Festis)",
+      "page": 241,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4677",
+      "title": "Te lucis ante terminum (In Dominicis per Annum)",
+      "page": 242,
+      "category": "pa-compl",
+      "hour": "c"
+    },
+    {
+      "id": "4683",
+      "title": "Te lucis ante terminum (In Solemnitatibus)",
+      "page": 242,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "7519",
+      "title": "Christe qui splendor et dies (in feriis per annum)",
+      "page": 243,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "7518",
+      "title": "Christe qui splendor (in memoriis)",
+      "page": 243,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "7517",
+      "title": "Christe qui splendor (in festis)",
+      "page": 243,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "7515",
+      "title": "Christe qui splendor et dies (in dominicis per annum)",
+      "page": 244,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16706",
+      "title": "Christe qui splendor et dies (in sollemnitatibus)",
+      "page": 244,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8240",
+      "title": "Urbs Ierusalem beata",
+      "page": 247,
+      "category": "c-dedicatio",
+      "hour": "v12"
+    },
+    {
+      "id": "17954",
+      "title": "Christe cunctorum dominator",
+      "page": 249,
+      "category": "c-dedicatio",
+      "hour": "ol"
+    },
+    {
+      "id": "17932",
+      "title": "Christe cunctorum dominator^^",
+      "page": 249,
+      "category": "c-dedicatio",
+      "hour": "ol"
+    },
+    {
+      "id": "20293",
+      "title": "Angularis fundamentum",
+      "page": 251,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16851",
+      "title": "Maria quae mortalium",
+      "page": 253,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20911",
+      "title": "Christum Mariae Filium",
+      "page": 254,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20913",
+      "title": "Festivitatem Virginis Mariae",
+      "page": 255,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20912",
+      "title": "Christum Mariae Filium (TP)",
+      "page": 255,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "18747",
+      "title": "Quem terra pontus aethera",
+      "page": 255,
+      "category": "c-bmv-commune",
+      "hour": "ol"
+    },
+    {
+      "id": "16852",
+      "title": "O gloriosa Domina",
+      "page": 257,
+      "category": "c-bmv-commune",
+      "hour": "l"
+    },
+    {
+      "id": "8878",
+      "title": "Ave, Maris Stella(In Solemnitatibus)",
+      "page": 258,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10617",
+      "title": "Ave maris stella (in festis)",
+      "page": 259,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20950",
+      "title": "Ave Maris Stella (in memoriis)",
+      "page": 260,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16850",
+      "title": "O virgo mater",
+      "page": 263,
+      "category": "c-bmv-sabbato",
+      "hour": "ol"
+    },
+    {
+      "id": "20305",
+      "title": "O virgo mater filia",
+      "page": 263,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "9831",
+      "title": "Quae caritatis",
+      "page": 264,
+      "category": "c-bmv-sabbato",
+      "hour": "l"
+    },
+    {
+      "id": "20880",
+      "title": "Regem Apostolorum (Tempore paschali)",
+      "page": 266,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10398",
+      "title": "Regem Apostolorum",
+      "page": 266,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16675",
+      "title": "Regem Apostolorum (mode IV*)",
+      "page": 266,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10482",
+      "title": "O sempiternae curiae",
+      "page": 267,
+      "category": "c-apostoli",
+      "hour": "ol"
+    },
+    {
+      "id": "16685",
+      "title": "Exsultet caelum laudibus",
+      "page": 270,
+      "category": "c-apostoli",
+      "hour": "v2"
+    },
+    {
+      "id": "10558",
+      "title": "Regem martyrum Dominum",
+      "page": 273,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20901",
+      "title": "Regem martyrum Dominum (memoria)",
+      "page": 273,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4547",
+      "title": "Rex gloriose martyrum",
+      "page": 274,
+      "category": "c-martyres-plures",
+      "hour": "ol"
+    },
+    {
+      "id": "17919",
+      "title": "Aeterna Christi munera",
+      "page": 275,
+      "category": "c-martyres-plures",
+      "hour": "l"
+    },
+    {
+      "id": "20600",
+      "title": "Sanctorum meritis",
+      "page": 277,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "18017",
+      "title": "Sanctorum meritis 2",
+      "page": 279,
+      "category": "c-martyres-plures",
+      "hour": "v"
+    },
+    {
+      "id": "17328",
+      "title": "Beate martyr, prospera",
+      "page": 281,
+      "category": "c-martyr-unus",
+      "hour": "ol"
+    },
+    {
+      "id": "17920",
+      "title": "Christe flos convallium",
+      "page": 282,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20298",
+      "title": "Martyr Dei, qui unicum",
+      "page": 283,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8827",
+      "title": "O castitatis signifer",
+      "page": 284,
+      "category": "c-martyr-unus",
+      "hour": "l"
+    },
+    {
+      "id": "20192",
+      "title": "Deus tuorum militum",
+      "page": 286,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "18024",
+      "title": "Virginis proles",
+      "page": 288,
+      "category": "c-martyr-unus",
+      "hour": "v"
+    },
+    {
+      "id": "14154",
+      "title": "Christum pastorum principem",
+      "page": 289,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8820",
+      "title": "Christe pastorum (Pro Papa)",
+      "page": 290,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8819",
+      "title": "Christe pastorum (Pro Episcopo)",
+      "page": 290,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8818",
+      "title": "Christe pastorum (Pro Presbytero)",
+      "page": 290,
+      "category": "c-pastores",
+      "hour": "ol"
+    },
+    {
+      "id": "8701",
+      "title": "Dum sacerdotum celebrant fideles",
+      "page": 292,
+      "category": "c-pastores",
+      "hour": "ol"
+    },
+    {
+      "id": "8816",
+      "title": "Inclitus rector (Pro Episcopo)",
+      "page": 293,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8815",
+      "title": "Inclitus rector (Pro Papa)",
+      "page": 293,
+      "category": "c-pastores",
+      "hour": "l"
+    },
+    {
+      "id": "8817",
+      "title": "Inclitus rector (Pro Presbytero)",
+      "page": 293,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17985",
+      "title": "Hi sacerdotes",
+      "page": 296,
+      "category": "c-pastores",
+      "hour": "l"
+    },
+    {
+      "id": "17946",
+      "title": "Vir celse forma fulgida",
+      "page": 297,
+      "category": "c-pastores",
+      "hour": "v"
+    },
+    {
+      "id": "20004",
+      "title": "Vir celse (Pro presbytero)",
+      "page": 297,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20001",
+      "title": "Vir celse (pro Episcopo)",
+      "page": 297,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20002",
+      "title": "Vir celse (Pro papa)",
+      "page": 297,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20003",
+      "title": "Vir celse (Pro resbytero)",
+      "page": 297,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17945",
+      "title": "Vir celse forma fulgida",
+      "page": 298,
+      "category": "c-pastores",
+      "hour": "v"
+    },
+    {
+      "id": "17944",
+      "title": "Vir celse forma fulgida",
+      "page": 298,
+      "category": "c-pastores",
+      "hour": "v"
+    },
+    {
+      "id": "17949",
+      "title": "Sacrata nobis gaudia",
+      "page": 299,
+      "category": "c-pastores",
+      "hour": "v"
+    },
+    {
+      "id": "20870",
+      "title": "Fontem sapientiae",
+      "page": 301,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17964",
+      "title": "Doctor aeternus",
+      "page": 302,
+      "category": "c-doctores",
+      "hour": "l"
+    },
+    {
+      "id": "8821",
+      "title": "Aeterne sol qui lumine",
+      "page": 303,
+      "category": "c-doctores",
+      "hour": "v"
+    },
+    {
+      "id": "15287",
+      "title": "Dulci depromat",
+      "page": 306,
+      "category": "c-virgines",
+      "hour": "ol"
+    },
+    {
+      "id": "17974",
+      "title": "Gaudentes festum",
+      "page": 307,
+      "category": "c-virgines",
+      "hour": "ol"
+    },
+    {
+      "id": "15288",
+      "title": "Aptata virgo",
+      "page": 308,
+      "category": "c-virgines",
+      "hour": "l"
+    },
+    {
+      "id": "15289",
+      "title": "Iesu corona virginum",
+      "page": 310,
+      "category": "c-virgines",
+      "hour": "v"
+    },
+    {
+      "id": "20882",
+      "title": "Mirabilem in sanctis",
+      "page": 311,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8829",
+      "title": "Beata caeli gaudia",
+      "page": 313,
+      "category": "c-viri",
+      "hour": "l"
+    },
+    {
+      "id": "4603",
+      "title": "Inclitos Christi",
+      "page": 316,
+      "category": "c-viri",
+      "hour": "v"
+    },
+    {
+      "id": "8841",
+      "title": "Inclytos Christi",
+      "page": 316,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20036",
+      "title": "Haec femina laudabilis",
+      "page": 318,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17984",
+      "title": "Hae feminae laudabiles",
+      "page": 319,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16057",
+      "title": "Nobilem Christi",
+      "page": 320,
+      "category": "c-mulieres",
+      "hour": "l"
+    },
+    {
+      "id": "17959",
+      "title": "Nobiles Christi",
+      "page": 321,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19205",
+      "title": "Fortem virili pectore",
+      "page": 322,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17955",
+      "title": "Christe cunctorum sator",
+      "page": 323,
+      "category": "c-mulieres",
+      "hour": "v"
+    },
+    {
+      "id": "10561",
+      "title": "O Redemptoris pietas",
+      "page": 325,
+      "category": "c-religiosi",
+      "hour": "l"
+    },
+    {
+      "id": "20035",
+      "title": "LÆti colentes famulam",
+      "page": 326,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8826",
+      "title": "Laeti colentes famulum",
+      "page": 326,
+      "category": "c-religiosi",
+      "hour": "v"
+    },
+    {
+      "id": "18009",
+      "title": "Qui vivis ante",
+      "page": 328,
+      "category": "c-defuncti",
+      "hour": "ol"
+    },
+    {
+      "id": "18007",
+      "title": "Qui lacrimatus",
+      "page": 333,
+      "category": "c-defuncti",
+      "hour": "hm"
+    },
+    {
+      "id": "4636",
+      "title": "Immensae rex potentiae",
+      "page": 334,
+      "category": "c-defuncti",
+      "hour": "v"
+    },
+    {
+      "id": "16975",
+      "title": "Igne divini radians",
+      "page": 340,
+      "category": "s-01-21",
+      "hour": "ol"
+    },
+    {
+      "id": "14293",
+      "title": "Agnes beatae virginis",
+      "page": 341,
+      "category": "s-01-21",
+      "hour": "lv"
+    },
+    {
+      "id": "18005",
+      "title": "Pressi malorum",
+      "page": 342,
+      "category": "s-01-25",
+      "hour": "ol"
+    },
+    {
+      "id": "17971",
+      "title": "Excelsam Pauli",
+      "page": 343,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4273",
+      "title": "Excelsam Pauli gloriam",
+      "page": 343,
+      "category": "s-01-25",
+      "hour": "v"
+    },
+    {
+      "id": "8254",
+      "title": "Adorna Sion Thalamum",
+      "page": 347,
+      "category": "s-02-02",
+      "hour": "l"
+    },
+    {
+      "id": "4307",
+      "title": "Quod chorus",
+      "page": 348,
+      "category": "s-02-02",
+      "hour": "v"
+    },
+    {
+      "id": "17500",
+      "title": "Petrus beatus",
+      "page": 351,
+      "category": "s-02-22",
+      "hour": "l"
+    },
+    {
+      "id": "7483",
+      "title": "Divina vox",
+      "page": 352,
+      "category": "s-02-22",
+      "hour": "v"
+    },
+    {
+      "id": "20562",
+      "title": "Te Ioseph celebrent",
+      "page": 355,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20558",
+      "title": "Iste quem laeti",
+      "page": 357,
+      "category": "s-03-19",
+      "hour": "ol"
+    },
+    {
+      "id": "8264",
+      "title": "Agnoscat omne saeculum",
+      "page": 360,
+      "category": "s-03-25",
+      "hour": "v1"
+    },
+    {
+      "id": "17817",
+      "title": "O vir beate",
+      "page": 365,
+      "category": "s-04-25",
+      "hour": "ol"
+    },
+    {
+      "id": "17997",
+      "title": "Mentibus laetis",
+      "page": 366,
+      "category": "s-04-25",
+      "hour": "lv"
+    },
+    {
+      "id": "18025",
+      "title": "Virgo prudentum",
+      "page": 368,
+      "category": "s-04-29",
+      "hour": "ol"
+    },
+    {
+      "id": "7288",
+      "title": "Te Catharina",
+      "page": 369,
+      "category": "s-04-29",
+      "hour": "lv"
+    },
+    {
+      "id": "15727",
+      "title": "Te pater Ioseph",
+      "page": 370,
+      "category": "s-05-01",
+      "hour": "ol"
+    },
+    {
+      "id": "16105",
+      "title": "Aurora solis nuntia",
+      "page": 371,
+      "category": "s-05-01",
+      "hour": "l"
+    },
+    {
+      "id": "18004",
+      "title": "Philippe summae",
+      "page": 372,
+      "category": "s-05-03",
+      "hour": "ol"
+    },
+    {
+      "id": "10222",
+      "title": "Matthia Sacratissimo",
+      "page": 373,
+      "category": "s-05-14",
+      "hour": "ol"
+    },
+    {
+      "id": "15524",
+      "title": "Veniens Mater Inclitus",
+      "page": 376,
+      "category": "s-05-31",
+      "hour": "l"
+    },
+    {
+      "id": "18023",
+      "title": "Veni præcelsa",
+      "page": 376,
+      "category": "s-05-31",
+      "hour": "ol"
+    },
+    {
+      "id": "17962",
+      "title": "Concito gressu",
+      "page": 377,
+      "category": "s-05-31",
+      "hour": "v"
+    },
+    {
+      "id": "17931",
+      "title": "Barnabae clarum",
+      "page": 380,
+      "category": "s-06-11",
+      "hour": "lv"
+    },
+    {
+      "id": "15660",
+      "title": "Ut queant laxis",
+      "page": 382,
+      "category": "s-06-24",
+      "hour": "v"
+    },
+    {
+      "id": "15664",
+      "title": "Agnum Dei quem laetus;",
+      "page": 384,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "15662",
+      "title": "Antra deserti",
+      "page": 384,
+      "category": "s-06-24",
+      "hour": "ol"
+    },
+    {
+      "id": "15663",
+      "title": "O nimis felix",
+      "page": 386,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19988",
+      "title": "Aurea lucis",
+      "page": 388,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4564",
+      "title": "Felix per omnes",
+      "page": 390,
+      "category": "s-06-29",
+      "hour": "ol"
+    },
+    {
+      "id": "4565",
+      "title": "Apostolorum passio diem",
+      "page": 391,
+      "category": "s-06-29",
+      "hour": "l"
+    },
+    {
+      "id": "10407",
+      "title": "O Roma felix",
+      "page": 392,
+      "category": "s-06-29",
+      "hour": "v2"
+    },
+    {
+      "id": "18008",
+      "title": "Qui luce splendes",
+      "page": 394,
+      "category": "s-07-03",
+      "hour": "l"
+    },
+    {
+      "id": "10412",
+      "title": "Qui luce splendes",
+      "page": 394,
+      "category": "s-07-03",
+      "hour": "l"
+    },
+    {
+      "id": "17990",
+      "title": "Legifer prudens",
+      "page": 395,
+      "category": "s-07-05",
+      "hour": "l"
+    },
+    {
+      "id": "8747",
+      "title": "Aurora surgit lucida",
+      "page": 398,
+      "category": "s-07-22",
+      "hour": "l"
+    },
+    {
+      "id": "9154",
+      "title": "Magdalae sidus",
+      "page": 399,
+      "category": "s-07-22",
+      "hour": "v"
+    },
+    {
+      "id": "10481",
+      "title": "Te nostra laetis",
+      "page": 400,
+      "category": "s-07-25",
+      "hour": "l"
+    },
+    {
+      "id": "20038",
+      "title": "Nocti succedit lucifer",
+      "page": 401,
+      "category": "s-07-26",
+      "hour": "l"
+    },
+    {
+      "id": "18003",
+      "title": "Nocti succedit lucifer",
+      "page": 401,
+      "category": "s-07-26",
+      "hour": "l"
+    },
+    {
+      "id": "17965",
+      "title": "Dum tuas festo",
+      "page": 402,
+      "category": "s-07-26",
+      "hour": "v"
+    },
+    {
+      "id": "18006",
+      "title": "Quas tibi laudes",
+      "page": 404,
+      "category": "s-07-29",
+      "hour": "l"
+    },
+    {
+      "id": "18019",
+      "title": "Te gratulantes",
+      "page": 405,
+      "category": "s-07-29",
+      "hour": "v"
+    },
+    {
+      "id": "17991",
+      "title": "Magnae cohortis principem",
+      "page": 406,
+      "category": "s-07-31",
+      "hour": "lv"
+    },
+    {
+      "id": "20833",
+      "title": "Summum Regem",
+      "page": 408,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10535",
+      "title": "Caelestis formam gloriae",
+      "page": 408,
+      "category": "s-08-06",
+      "hour": "ol"
+    },
+    {
+      "id": "10536",
+      "title": "Dulcis Iesu memoria",
+      "page": 409,
+      "category": "s-08-06",
+      "hour": "l"
+    },
+    {
+      "id": "10537",
+      "title": "O nata lux de lumine",
+      "page": 409,
+      "category": "s-08-06",
+      "hour": "v"
+    },
+    {
+      "id": "17960",
+      "title": "Novus athleta",
+      "page": 410,
+      "category": "s-08-08",
+      "hour": "lv"
+    },
+    {
+      "id": "10556",
+      "title": "In martyris Laurentii",
+      "page": 411,
+      "category": "s-08-10",
+      "hour": "l"
+    },
+    {
+      "id": "10557",
+      "title": "Martyris Christi",
+      "page": 412,
+      "category": "s-08-10",
+      "hour": "v"
+    },
+    {
+      "id": "10573",
+      "title": "Gaudium mundi",
+      "page": 414,
+      "category": "s-08-15",
+      "hour": "v"
+    },
+    {
+      "id": "15774",
+      "title": "Venite adoremus Regem",
+      "page": 415,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10574",
+      "title": "Aurora velut fulgida",
+      "page": 416,
+      "category": "s-08-15",
+      "hour": "ol"
+    },
+    {
+      "id": "10575",
+      "title": "Solis o Virgo",
+      "page": 416,
+      "category": "s-08-15",
+      "hour": "l"
+    },
+    {
+      "id": "4614",
+      "title": "Bernarde gemma caelitum",
+      "page": 418,
+      "category": "s-08-20",
+      "hour": "lv"
+    },
+    {
+      "id": "19273",
+      "title": "O quam glorifica",
+      "page": 420,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4619",
+      "title": "Rerum  supremo",
+      "page": 420,
+      "category": "s-08-22",
+      "hour": "ol"
+    },
+    {
+      "id": "4613",
+      "title": "Mole gravati",
+      "page": 422,
+      "category": "s-08-22",
+      "hour": "v"
+    },
+    {
+      "id": "8822",
+      "title": "Fulget in caelis",
+      "page": 424,
+      "category": "s-08-28",
+      "hour": "lv"
+    },
+    {
+      "id": "4623",
+      "title": "Praecessor almus",
+      "page": 426,
+      "category": "s-08-29",
+      "hour": "olv"
+    },
+    {
+      "id": "20223",
+      "title": "Anglorum iam",
+      "page": 427,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10611",
+      "title": "O sancta mundi domina",
+      "page": 428,
+      "category": "s-09-08",
+      "hour": "l"
+    },
+    {
+      "id": "10612",
+      "title": "Beata Dei genetrix nitor",
+      "page": 429,
+      "category": "s-09-08",
+      "hour": "olv"
+    },
+    {
+      "id": "15702",
+      "title": "Laude te cives",
+      "page": 430,
+      "category": "s-09-13",
+      "hour": "lv"
+    },
+    {
+      "id": "20895",
+      "title": "Christum regem pro nobis",
+      "page": 431,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10642",
+      "title": "Salve crux sancta",
+      "page": 431,
+      "category": "s-09-14",
+      "hour": "ol"
+    },
+    {
+      "id": "4626",
+      "title": "Signum crucis",
+      "page": 432,
+      "category": "s-09-14",
+      "hour": "l"
+    },
+    {
+      "id": "20896",
+      "title": "Salvatorem mundi",
+      "page": 433,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "18018",
+      "title": "Stabat Mater 1",
+      "page": 434,
+      "category": "s-09-15",
+      "hour": "ol"
+    },
+    {
+      "id": "20898",
+      "title": "Stabat Mater",
+      "page": 434,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17970",
+      "title": "Eia mater",
+      "page": 436,
+      "category": "s-09-15",
+      "hour": "l"
+    },
+    {
+      "id": "20900",
+      "title": "Eia Mater (fix)",
+      "page": 436,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17969",
+      "title": "Eia Mater (simplex)",
+      "page": 437,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20897",
+      "title": "Virgo virginum praeclara",
+      "page": 438,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "9132",
+      "title": "Praeclara qua tu gloria",
+      "page": 440,
+      "category": "s-09-21",
+      "hour": "l"
+    },
+    {
+      "id": "7370",
+      "title": "Regem angelorum",
+      "page": 441,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "7373",
+      "title": "Festiva vos archangeli",
+      "page": 442,
+      "category": "s-09-29",
+      "hour": "ol"
+    },
+    {
+      "id": "20936",
+      "title": "Tibi Christe splendor Patris",
+      "page": 443,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17930",
+      "title": "Angelum pacis",
+      "page": 444,
+      "category": "s-09-29",
+      "hour": "v"
+    },
+    {
+      "id": "17972",
+      "title": "Festiva canimus",
+      "page": 446,
+      "category": "s-09-30",
+      "hour": "lv"
+    },
+    {
+      "id": "17929",
+      "title": "Aeterne rerum... qui mare",
+      "page": 448,
+      "category": "s-10-02",
+      "hour": "ol"
+    },
+    {
+      "id": "4630",
+      "title": "Aeterne rerum conditor",
+      "page": 448,
+      "category": "pa-13-dom",
+      "hour": "l"
+    },
+    {
+      "id": "20258",
+      "title": "Orbis patrator",
+      "page": 450,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20261",
+      "title": "Custodes hominum",
+      "page": 451,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17989",
+      "title": "In cælesti collegio",
+      "page": 453,
+      "category": "s-10-04",
+      "hour": "lv"
+    },
+    {
+      "id": "20282",
+      "title": "Te gestientem gaudiis",
+      "page": 454,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19560",
+      "title": "Regis superni nuntia",
+      "page": 455,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16324",
+      "title": "Plausibus Luca",
+      "page": 457,
+      "category": "s-10-18",
+      "hour": "lv"
+    },
+    {
+      "id": "19561",
+      "title": "Haec est dies",
+      "page": 457,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "17961",
+      "title": "Commune vos apostoli",
+      "page": 459,
+      "category": "s-10-28",
+      "hour": "l"
+    },
+    {
+      "id": "11245",
+      "title": "Commune vos apostoli",
+      "page": 459,
+      "category": "s-10-28",
+      "hour": "l"
+    },
+    {
+      "id": "16180",
+      "title": "Christe redemptor omnium conserva",
+      "page": 460,
+      "category": "s-11-01",
+      "hour": "v"
+    },
+    {
+      "id": "16185",
+      "title": "Deum qui glorificatur",
+      "page": 461,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16186",
+      "title": "Christe caelorum habitator alme",
+      "page": 462,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "11256",
+      "title": "Christe caelorum habitator alme",
+      "page": 462,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16213",
+      "title": "Iesu salvator saeculi",
+      "page": 463,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20999",
+      "title": "Martine par apostolis",
+      "page": 466,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20330",
+      "title": "Iste Confessor Domini [S Martini]",
+      "page": 466,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "4329",
+      "title": "Iam bone pastor",
+      "page": 468,
+      "category": "s-11-18",
+      "hour": "lv"
+    },
+    {
+      "id": "18016",
+      "title": "Salve mater",
+      "page": 470,
+      "category": "s-11-21",
+      "hour": "ol"
+    },
+    {
+      "id": "17999",
+      "title": "Maria virgo regia",
+      "page": 471,
+      "category": "s-11-21",
+      "hour": "l"
+    },
+    {
+      "id": "7412",
+      "title": "Captator olim piscium",
+      "page": 472,
+      "category": "s-11-30",
+      "hour": "l"
+    },
+    {
+      "id": "17973",
+      "title": "Fortem piumque",
+      "page": 473,
+      "category": "s-12-07",
+      "hour": "l"
+    },
+    {
+      "id": "16123",
+      "title": "Praeclara custos vírginum",
+      "page": 475,
+      "category": "s-12-08",
+      "hour": "v"
+    },
+    {
+      "id": "16130",
+      "title": "Immaculátam Conceptiónem Vírginis",
+      "page": 476,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8243",
+      "title": "Te dicimus praeconio mater",
+      "page": 476,
+      "category": "s-12-08",
+      "hour": "ol"
+    },
+    {
+      "id": "16157",
+      "title": "In plausu gratia cárminis",
+      "page": 477,
+      "category": "s-12-08",
+      "hour": "l"
+    },
+    {
+      "id": "16620",
+      "title": "Christum natum",
+      "page": 478,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16642",
+      "title": "Festum celebre martyris",
+      "page": 479,
+      "category": "s-12-26",
+      "hour": "ol"
+    },
+    {
+      "id": "8421",
+      "title": "Christus est vita",
+      "page": 479,
+      "category": "s-12-26",
+      "hour": "l"
+    },
+    {
+      "id": "16676",
+      "title": "Virginis virgo",
+      "page": 481,
+      "category": "s-12-27",
+      "hour": "ol"
+    },
+    {
+      "id": "8422",
+      "title": "Cohors beata Seraphim",
+      "page": 483,
+      "category": "s-12-27",
+      "hour": "l"
+    },
+    {
+      "id": "16691",
+      "title": "Christum natum, qui Innocentes",
+      "page": 484,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "11726",
+      "title": "Hymnum canentes martyrum",
+      "page": 484,
+      "category": "s-12-28",
+      "hour": "ol"
+    },
+    {
+      "id": "8423",
+      "title": "Audit tyrannus anxius",
+      "page": 485,
+      "category": "s-12-28",
+      "hour": "l"
+    },
+    {
+      "id": "16139",
+      "title": "Hodie nobis caelorum (Resp.)",
+      "page": 489,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16360",
+      "title": "Hodie nobis de caelo",
+      "page": 490,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16205",
+      "title": "Comedétis carnes",
+      "page": 505,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10360",
+      "title": "Comedetis carnes",
+      "page": 505,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16108",
+      "title": "Ecce apparebit Dominus",
+      "page": 507,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16135",
+      "title": "Nihil inquinatum (Resp)",
+      "page": 524,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8719",
+      "title": "Te Deum (tonus monasticus/antiquus)",
+      "page": 527,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20754",
+      "title": "Te decet laus",
+      "page": 536,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8825",
+      "title": "Iesu corona caelitum",
+      "page": 537,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20328",
+      "title": "Salvete, cedri Libani",
+      "page": 538,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20329",
+      "title": "Fratres, corona cælica",
+      "page": 540,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "8425",
+      "title": "Quos Dei vivax",
+      "page": 542,
+      "category": "s-01-02",
+      "hour": "lv"
+    },
+    {
+      "id": "4251",
+      "title": "Qui te posthabitis",
+      "page": 544,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20462",
+      "title": "Puellus Placidus",
+      "page": 545,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "18971",
+      "title": "Rector ætérni",
+      "page": 555,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "10451",
+      "title": "Laudemus Deum nostrum",
+      "page": 556,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19854",
+      "title": "Fratres alacri pectore",
+      "page": 558,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20622",
+      "title": "Lætus hic noster (S Anselmi)",
+      "page": 559,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19312",
+      "title": "Hugo pius pater,",
+      "page": 565,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19325",
+      "title": "Fecunda sanctis insula",
+      "page": 568,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20697",
+      "title": "Præsulis exsultans",
+      "page": 576,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19941",
+      "title": "Sint tibi laudis, S Bonifatii",
+      "page": 578,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19991",
+      "title": "Gemma cælestis",
+      "page": 584,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19395",
+      "title": "Christum regem Filium David",
+      "page": 586,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20186",
+      "title": "Magno receptans pectore",
+      "page": 588,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20194",
+      "title": "Bernardus doctor ínclitus",
+      "page": 589,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19514",
+      "title": "Fortes cadéndo",
+      "page": 592,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "20241",
+      "title": "Doctor insignis",
+      "page": 593,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "19133",
+      "title": "Christum Dominum pro nobis passum et sepultum",
+      "page": null,
+      "category": null,
+      "hour": null
+    },
+    {
+      "id": "16200",
+      "title": "Panem vitae, Christum Dóminum",
+      "page": null,
+      "category": null,
+      "hour": null
+    }
+  ],
+  "alreadyPresent": [],
+  "failed": [
+    {
+      "id": "4241",
+      "title": "Veni Redemptor gentium",
+      "error": "Error: Invalid or empty GABC"
+    }
+  ]
+}

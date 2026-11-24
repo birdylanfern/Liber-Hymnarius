@@ -1,0 +1,5 @@
+
+> cantus-simplex-hymni@1.0.0 coverage
+> node tools/coverage-report.js
+
+Coverage: 330/429 slots, 491 GABC entries; see COVERAGE.md

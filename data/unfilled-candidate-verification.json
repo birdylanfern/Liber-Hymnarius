@@ -1,0 +1,1150 @@
+{
+  "counts": {
+    "totalUnfilled": 90,
+    "withCandidates": 10,
+    "withoutCandidates": 80,
+    "candidateLinks": 40
+  },
+  "entries": [
+    {
+      "category": "dei-genetrix",
+      "path": "Proprium de Tempore / Tempus Nativitatis / Sollemnitas Sanctae Dei Genetricis Mariae",
+      "hour": "ol",
+      "variant": "",
+      "slot": "ol",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "nativitatis-post-epiph",
+      "path": "Proprium de Tempore / Tempus Nativitatis / A Sollemnitate Epiphaniae",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "hebdomada-sancta",
+      "path": "Proprium de Tempore / Tempus Quadragesimae / Hebdomada Sancta",
+      "hour": "ol",
+      "variant": "",
+      "slot": "ol",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "hebdomada-sancta",
+      "path": "Proprium de Tempore / Tempus Quadragesimae / Hebdomada Sancta",
+      "hour": "hm",
+      "variant": "Dominica in Palmis",
+      "slot": "hm|dominica in palmis",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "triduum-feria6",
+      "path": "Proprium de Tempore / Sacrum Triduum Paschale / Feria sexta",
+      "hour": "t",
+      "variant": "",
+      "slot": "t",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "triduum-feria6",
+      "path": "Proprium de Tempore / Sacrum Triduum Paschale / Feria sexta",
+      "hour": "s",
+      "variant": "",
+      "slot": "s",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "triduum-feria6",
+      "path": "Proprium de Tempore / Sacrum Triduum Paschale / Feria sexta",
+      "hour": "n",
+      "variant": "",
+      "slot": "n",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "triduum-sabbatum",
+      "path": "Proprium de Tempore / Sacrum Triduum Paschale / Sabbato Sancto",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "triduum-sabbatum",
+      "path": "Proprium de Tempore / Sacrum Triduum Paschale / Sabbato Sancto",
+      "hour": "ol",
+      "variant": "",
+      "slot": "ol",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "triduum-sabbatum",
+      "path": "Proprium de Tempore / Sacrum Triduum Paschale / Sabbato Sancto",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "pentecostes",
+      "path": "Proprium de Tempore / Tempus Paschale / Dominica Pentecostes",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "corpus-christi",
+      "path": "Proprium de Tempore / Post Pentecosten / Ss.mi Corporis & Sanguinis Christi",
+      "hour": "v",
+      "variant": "",
+      "slot": "v",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "cor-iesu",
+      "path": "Proprium de Tempore / Post Pentecosten / Sacratissimi Cordis Iesu",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "hebdomada-34",
+      "path": "Proprium de Tempore / Post Pentecosten / Hebdomada XXXIV Per Annum",
+      "hour": "ol",
+      "variant": "",
+      "slot": "ol",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-01-25",
+      "path": "Proprium de Sanctis / Ianuarius / 25 · In Conversione S. Pauli",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-02-02",
+      "path": "Proprium de Sanctis / Februarius / 2 · In Praesentatione Domini",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-02-02",
+      "path": "Proprium de Sanctis / Februarius / 2 · In Praesentatione Domini",
+      "hour": "ol",
+      "variant": "",
+      "slot": "ol",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-02-10",
+      "path": "Proprium de Sanctis / Februarius / 10 · S. Scholasticae",
+      "hour": "vig",
+      "variant": "",
+      "slot": "vig",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-02-10",
+      "path": "Proprium de Sanctis / Februarius / 10 · S. Scholasticae",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-02-10",
+      "path": "Proprium de Sanctis / Februarius / 10 · S. Scholasticae",
+      "hour": "v",
+      "variant": "",
+      "slot": "v",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-02-11",
+      "path": "Proprium de Sanctis / Februarius / 11 · Beatae Mariae Virginis de Lourdes",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-03-19",
+      "path": "Proprium de Sanctis / Martius / 19 · S. Ioseph",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-03-19",
+      "path": "Proprium de Sanctis / Martius / 19 · S. Ioseph",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-03-25",
+      "path": "Proprium de Sanctis / Martius / 25 · In Annuntiatione Domini",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-03-25",
+      "path": "Proprium de Sanctis / Martius / 25 · In Annuntiatione Domini",
+      "hour": "ol",
+      "variant": "",
+      "slot": "ol",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-03-25",
+      "path": "Proprium de Sanctis / Martius / 25 · In Annuntiatione Domini",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-04-21",
+      "path": "Proprium de Sanctis / Aprilis / 21 · S. Anselmi",
+      "hour": "vig",
+      "variant": "",
+      "slot": "vig",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-04-21",
+      "path": "Proprium de Sanctis / Aprilis / 21 · S. Anselmi",
+      "hour": "v",
+      "variant": "",
+      "slot": "v",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-04-25",
+      "path": "Proprium de Sanctis / Aprilis / 25 · S. Marci",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-05-01",
+      "path": "Proprium de Sanctis / Maius / 1 · S. Ioseph Opificis",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-05-26",
+      "path": "Proprium de Sanctis / Maius / 26 · S. Gregorii VII",
+      "hour": "lv",
+      "variant": "",
+      "slot": "lv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-05-27",
+      "path": "Proprium de Sanctis / Maius / 27 · S. Augustini Cantuariensis",
+      "hour": "vv",
+      "variant": "",
+      "slot": "vv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-05-31",
+      "path": "Proprium de Sanctis / Maius / 31 · In Visitatione Beatae Mariae Virginis",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-06-05",
+      "path": "Proprium de Sanctis / Iunius / 5 · S. Bonifatii",
+      "hour": "vig",
+      "variant": "",
+      "slot": "vig",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-06-05",
+      "path": "Proprium de Sanctis / Iunius / 5 · S. Bonifatii",
+      "hour": "lv",
+      "variant": "",
+      "slot": "lv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-07-05",
+      "path": "Proprium de Sanctis / Iulius / 5 · S. Benedicti",
+      "hour": "vig",
+      "variant": "",
+      "slot": "vig",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-07-05",
+      "path": "Proprium de Sanctis / Iulius / 5 · S. Benedicti",
+      "hour": "v",
+      "variant": "",
+      "slot": "v",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-07-26",
+      "path": "Proprium de Sanctis / Iulius / 26 · Ss. Ioachim & Annae",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-07-26",
+      "path": "Proprium de Sanctis / Iulius / 26 · Ss. Ioachim & Annae",
+      "hour": "vig",
+      "variant": "",
+      "slot": "vig",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-08-22",
+      "path": "Proprium de Sanctis / Augustus / 22 · Beatae Mariae Virginis Reginae",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-08-25",
+      "path": "Proprium de Sanctis / Augustus / 25 · S. Ludovici",
+      "hour": "vv",
+      "variant": "",
+      "slot": "vv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-08-25",
+      "path": "Proprium de Sanctis / Augustus / 25 · S. Ludovici",
+      "hour": "ol",
+      "variant": "",
+      "slot": "ol",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-08-25",
+      "path": "Proprium de Sanctis / Augustus / 25 · S. Ludovici",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-08-29",
+      "path": "Proprium de Sanctis / Augustus / 29 · In Passione S. Ioannis Baptistae",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-08-29",
+      "path": "Proprium de Sanctis / Augustus / 29 · In Passione S. Ioannis Baptistae",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-09-03",
+      "path": "Proprium de Sanctis / September / 3 · S. Gregorii Magni",
+      "hour": "vig",
+      "variant": "",
+      "slot": "vig",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-09-03",
+      "path": "Proprium de Sanctis / September / 3 · S. Gregorii Magni",
+      "hour": "lv",
+      "variant": "",
+      "slot": "lv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-09-14",
+      "path": "Proprium de Sanctis / September / 14 · In Exaltatione Sanctae Crucis",
+      "hour": "v",
+      "variant": "",
+      "slot": "v",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-09-15",
+      "path": "Proprium de Sanctis / September / 15 · Beatae Mariae Virginis Perdolentis",
+      "hour": "v",
+      "variant": "",
+      "slot": "v",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20900.gabc",
+          "name": "Eia Mater (fix)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-17969.gabc",
+          "name": "Eia Mater (simplex)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20898.gabc",
+          "name": "Stabat Mater",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20897.gabc",
+          "name": "Virgo virginum praeclara",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-09-15",
+      "path": "Proprium de Sanctis / September / 15 · Beatae Mariae Virginis Perdolentis",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20900.gabc",
+          "name": "Eia Mater (fix)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-17969.gabc",
+          "name": "Eia Mater (simplex)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20898.gabc",
+          "name": "Stabat Mater",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20897.gabc",
+          "name": "Virgo virginum praeclara",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-10-02",
+      "path": "Proprium de Sanctis / October / 2 · Ss. Angelorum Custodum",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-10-02",
+      "path": "Proprium de Sanctis / October / 2 · Ss. Angelorum Custodum",
+      "hour": "v",
+      "variant": "",
+      "slot": "v",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-10-07",
+      "path": "Proprium de Sanctis / October / 7 · Beatae Mariae Virginis a Rosario",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-10-15",
+      "path": "Proprium de Sanctis / October / 15 · S. Teresiae de Avila",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-10-15",
+      "path": "Proprium de Sanctis / October / 15 · S. Teresiae de Avila",
+      "hour": "v",
+      "variant": "",
+      "slot": "v",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-10-18",
+      "path": "Proprium de Sanctis / October / 18 · S. Lucae",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-11-01",
+      "path": "Proprium de Sanctis / November / 1 · Omnium Sanctorum",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-11256.gabc",
+          "name": "Christe caelorum habitator alme",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-16186.gabc",
+          "name": "Christe caelorum habitator alme",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-16213.gabc",
+          "name": "Iesu salvator saeculi",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-11-11",
+      "path": "Proprium de Sanctis / November / 11 · S. Martini, Episcopi",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-11-11",
+      "path": "Proprium de Sanctis / November / 11 · S. Martini, Episcopi",
+      "hour": "vig",
+      "variant": "",
+      "slot": "vig",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-11-11",
+      "path": "Proprium de Sanctis / November / 11 · S. Martini, Episcopi",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-11-11",
+      "path": "Proprium de Sanctis / November / 11 · S. Martini, Episcopi",
+      "hour": "olv",
+      "variant": "",
+      "slot": "olv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-11-22",
+      "path": "Proprium de Sanctis / November / 22 · S. Caeciliae, Virginis & Martyris",
+      "hour": "vig",
+      "variant": "",
+      "slot": "vig",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-11-22",
+      "path": "Proprium de Sanctis / November / 22 · S. Caeciliae, Virginis & Martyris",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-11-22",
+      "path": "Proprium de Sanctis / November / 22 · S. Caeciliae, Virginis & Martyris",
+      "hour": "v",
+      "variant": "",
+      "slot": "v",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "s-12-26",
+      "path": "Proprium de Sanctis / December / 26 · S. Stephani, Protomartyris",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-dedicatio",
+      "path": "Communia Sanctorum / Commune Dedicationis Ecclesiae",
+      "hour": "inv",
+      "variant": "Domum Dei",
+      "slot": "inv|domum dei",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-dedicatio",
+      "path": "Communia Sanctorum / Commune Dedicationis Ecclesiae",
+      "hour": "inv",
+      "variant": "Christum Dominum",
+      "slot": "inv|christum dominum",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-dedicatio",
+      "path": "Communia Sanctorum / Commune Dedicationis Ecclesiae",
+      "hour": "inv",
+      "variant": "Christum Dominum, in tempore paschali",
+      "slot": "inv|christum dominum in tempore paschali",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-bmv-commune",
+      "path": "Communia Sanctorum / Commune Beatae Mariae Virginis / Commune",
+      "hour": "v1",
+      "variant": "",
+      "slot": "v1",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-bmv-commune",
+      "path": "Communia Sanctorum / Commune Beatae Mariae Virginis / Commune",
+      "hour": "v2",
+      "variant": "",
+      "slot": "v2",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-apostoli",
+      "path": "Communia Sanctorum / Commune Apostolorum",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-martyres-plures",
+      "path": "Communia Sanctorum / Commune Martyrum / Pro pluribus martyribus",
+      "hour": "inv",
+      "variant": "in tempore paschali",
+      "slot": "inv|in tempore paschali",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-10558.gabc",
+          "name": "Regem martyrum Dominum",
+          "kind": "same-hour",
+          "sourceVariant": "in sollemnitatibus et festis",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20901.gabc",
+          "name": "Regem martyrum Dominum (memoria)",
+          "kind": "same-hour",
+          "sourceVariant": "in memoriis",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20600.gabc",
+          "name": "Sanctorum meritis",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-pastores",
+      "path": "Communia Sanctorum / Commune Pastorum",
+      "hour": "inv",
+      "variant": "Christum, pastorum",
+      "slot": "inv|christum pastorum",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8819.gabc",
+          "name": "Christe pastorum (Pro Episcopo)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8820.gabc",
+          "name": "Christe pastorum (Pro Papa)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8816.gabc",
+          "name": "Inclitus rector (Pro Episcopo)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8817.gabc",
+          "name": "Inclitus rector (Pro Presbytero)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20001.gabc",
+          "name": "Vir celse (pro Episcopo)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20002.gabc",
+          "name": "Vir celse (Pro papa)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20004.gabc",
+          "name": "Vir celse (Pro presbytero)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20003.gabc",
+          "name": "Vir celse (Pro resbytero)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-pastores",
+      "path": "Communia Sanctorum / Commune Pastorum",
+      "hour": "inv",
+      "variant": "Christum, pastorum, in tempore paschali",
+      "slot": "inv|christum pastorum in tempore paschali",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8819.gabc",
+          "name": "Christe pastorum (Pro Episcopo)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8820.gabc",
+          "name": "Christe pastorum (Pro Papa)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8816.gabc",
+          "name": "Inclitus rector (Pro Episcopo)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8817.gabc",
+          "name": "Inclitus rector (Pro Presbytero)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20001.gabc",
+          "name": "Vir celse (pro Episcopo)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20002.gabc",
+          "name": "Vir celse (Pro papa)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20004.gabc",
+          "name": "Vir celse (Pro presbytero)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20003.gabc",
+          "name": "Vir celse (Pro resbytero)",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-doctores",
+      "path": "Communia Sanctorum / Commune Doctorum Ecclesiae",
+      "hour": "inv",
+      "variant": "Fontem sapientiae, in tempore paschali",
+      "slot": "inv|fontem sapientiae in tempore paschali",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+          "name": "Fontem sapientiae",
+          "kind": "same-hour",
+          "sourceVariant": "",
+          "titleOverlap": true,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+          "name": "Fontem sapientiae",
+          "kind": "same-hour",
+          "sourceVariant": "Fontem sapientiae",
+          "titleOverlap": true,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-virgines",
+      "path": "Communia Sanctorum / Commune Virginum",
+      "hour": "inv",
+      "variant": "in sollemnitatibus et festis",
+      "slot": "inv|in sollemnitatibus et festis",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-virgines",
+      "path": "Communia Sanctorum / Commune Virginum",
+      "hour": "inv",
+      "variant": "in memoriis",
+      "slot": "inv|in memoriis",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-virgines",
+      "path": "Communia Sanctorum / Commune Virginum",
+      "hour": "inv",
+      "variant": "in tempore paschali",
+      "slot": "inv|in tempore paschali",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-viri",
+      "path": "Communia Sanctorum / Commune Sanctorum Virorum",
+      "hour": "inv",
+      "variant": "Mirabilem in sanctis, in tempore paschali",
+      "slot": "inv|mirabilem in sanctis in tempore paschali",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+          "name": "Mirabilem in sanctis",
+          "kind": "same-hour",
+          "sourceVariant": "mirabilem in sanctis",
+          "titleOverlap": true,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8841.gabc",
+          "name": "Inclytos Christi",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-viri",
+      "path": "Communia Sanctorum / Commune Sanctorum Virorum",
+      "hour": "l",
+      "variant": "pro uno sancto",
+      "slot": "l|pro uno sancto",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+          "name": "Beata caeli gaudia",
+          "kind": "same-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+          "name": "Beata caeli gaudia",
+          "kind": "same-hour",
+          "sourceVariant": "pro pluribus sanctis",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8841.gabc",
+          "name": "Inclytos Christi",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-viri",
+      "path": "Communia Sanctorum / Commune Sanctorum Virorum",
+      "hour": "v",
+      "variant": "pro uno sancto",
+      "slot": "v|pro uno sancto",
+      "candidates": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+          "name": "Inclitos Christi",
+          "kind": "same-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+          "name": "Inclitos Christi",
+          "kind": "same-hour",
+          "sourceVariant": "pro pluribus sanctis",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        },
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-8841.gabc",
+          "name": "Inclytos Christi",
+          "kind": "missing-hour",
+          "sourceVariant": "",
+          "titleOverlap": false,
+          "needsPrintedRubric": true
+        }
+      ],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-defuncti",
+      "path": "Communia Sanctorum / Officium Defunctorum",
+      "hour": "inv",
+      "variant": "Regem cui",
+      "slot": "inv|regem cui",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-defuncti",
+      "path": "Communia Sanctorum / Officium Defunctorum",
+      "hour": "inv",
+      "variant": "Regem cui, in tempore paschali",
+      "slot": "inv|regem cui in tempore paschali",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "c-defuncti",
+      "path": "Communia Sanctorum / Officium Defunctorum",
+      "hour": "l",
+      "variant": "",
+      "slot": "l",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "pa-inv",
+      "path": "Tempus per Annum / Ad Invitatorium",
+      "hour": "inv",
+      "variant": "Hebdomadae I et III",
+      "slot": "inv|hebdomadae i et iii",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "pa-inv",
+      "path": "Tempus per Annum / Ad Invitatorium",
+      "hour": "inv",
+      "variant": "Hebdomadae II et IV",
+      "slot": "inv|hebdomadae ii et iv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "pa-13-dom",
+      "path": "Tempus per Annum / Hebdomadae I et III / Dominica",
+      "hour": "hm",
+      "variant": "",
+      "slot": "hm",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "pa-24-dom",
+      "path": "Tempus per Annum / Hebdomadae II et IV / Dominica",
+      "hour": "inv",
+      "variant": "",
+      "slot": "inv",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "pa-24-dom",
+      "path": "Tempus per Annum / Hebdomadae II et IV / Dominica",
+      "hour": "hm",
+      "variant": "",
+      "slot": "hm",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    },
+    {
+      "category": "pa-24-dom",
+      "path": "Tempus per Annum / Hebdomadae II et IV / Dominica",
+      "hour": "v2",
+      "variant": "",
+      "slot": "v2",
+      "candidates": [],
+      "warning": "Candidate is not an approved liturgical assignment; verify the printed rubric and exact GABC setting."
+    }
+  ]
+}

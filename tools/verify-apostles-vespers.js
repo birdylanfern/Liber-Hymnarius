@@ -1,0 +1,22 @@
+#!/usr/bin/env node
+const fs=require('fs'),path=require('path');
+const root=path.resolve(__dirname,'..');
+const tax=path.join(root,'tools/taxonomy.js');
+let t=fs.readFileSync(tax,'utf8');
+t=t.replace("slots('c-apostoli', 'Commune Apostolorum', [\n      'inv:","slots('c-apostoli', 'Commune Apostolorum', [\n      'v1', 'inv:");
+fs.writeFileSync(tax,t);
+const p=path.join(root,'data/provisional-slot-aliases.json');
+let aliases=JSON.parse(fs.readFileSync(p,'utf8'));
+aliases=aliases.filter(a=>!(a.category==='c-apostoli'&&a.slot==='v1'));
+aliases.push({category:'c-apostoli',slot:'v1',hour:'v1',variant:'',file:'gabc/hymns/gregobase-liber/gb-16685.gabc',name:'Exsultet caelum laudibus',reason:'Liber Hymnarius printed p. 266 explicitly directs I Vespers to the hymn at II Vespers on p. 270. Source score is gb-16685. The placement is rubric-supported; notes not independently verified.',pdfRubricChecked:true});
+fs.writeFileSync(p,JSON.stringify(aliases,null,2)+'\n');
+const gaps=path.join(root,'data/source-confirmed-gaps.json');
+let g=JSON.parse(fs.readFileSync(gaps,'utf8'));
+g=g.filter(x=>!(x.category==='c-apostoli'&&x.slot==='v2|in tempore paschali'));
+g.push({category:'c-apostoli',slot:'v2|in tempore paschali',expected:'Tristes erant Apostoli',printedPage:270,pdfPage:142,note:'Printed p. 270-271 has a distinct Eastertide hymn, not Exsultet caelum laudibus. No matching GABC found in local catalogue.',status:'no-local-candidate'});
+fs.writeFileSync(gaps,JSON.stringify(g,null,2)+'\n');
+const app=path.join(root,'app.js');let a=fs.readFileSync(app,'utf8');
+const key="'quadragesima-hebd1-5|v|in officio dominicali': 'Audi, benigne Conditor (Liber Hymnarius p. 48; GABC missing)'";
+if(a.includes(key)&&!a.includes("'c-apostoli|v2|in tempore paschali'"))a=a.replace(key,key+",\n    'c-apostoli|v2|in tempore paschali': 'Tristes erant Apostoli (Liber Hymnarius p. 270; GABC missing)'");
+fs.writeFileSync(app,a);
+console.log('Apostles I Vespers cross-reference and Eastertide source gap recorded');

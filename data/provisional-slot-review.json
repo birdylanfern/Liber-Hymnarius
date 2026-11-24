@@ -1,0 +1,114 @@
+{
+  "checked": 10,
+  "supported": [
+    {
+      "category": "c-doctores",
+      "slot": "inv|fontem sapientiae",
+      "hour": "inv",
+      "variant": "Fontem sapientiae",
+      "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+      "name": "Fontem sapientiae",
+      "reason": "Checked against Liber Hymnarius 1983, printed p. 301: Ordinary-time invitatory; Eastertide has a different notated antiphon. Source melody has not been note-by-note verified.",
+      "pdfRubricChecked": true
+    },
+    {
+      "category": "c-viri",
+      "slot": "l|pro pluribus sanctis",
+      "hour": "l",
+      "variant": "pro pluribus sanctis",
+      "file": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+      "name": "Beata caeli gaudia",
+      "reason": "Checked against Liber Hymnarius 1983, printed p. 313: Explicitly printed under Pro pluribus sanctis. Source melody has not been note-by-note verified.",
+      "pdfRubricChecked": true
+    },
+    {
+      "category": "c-viri",
+      "slot": "v|pro pluribus sanctis",
+      "hour": "v",
+      "variant": "pro pluribus sanctis",
+      "file": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+      "name": "Inclitos Christi",
+      "reason": "Checked against Liber Hymnarius 1983, printed p. 316: Explicitly printed under Pro pluribus sanctis. Source melody has not been note-by-note verified.",
+      "pdfRubricChecked": true
+    },
+    {
+      "category": "c-mulieres",
+      "slot": "l|pro una sancta muliere",
+      "hour": "l",
+      "variant": "pro una sancta muliere",
+      "file": "gabc/hymns/gregobase-liber/gb-16057.gabc",
+      "name": "Nobilem Christi",
+      "reason": "Checked against Liber Hymnarius 1983, printed p. 320: Explicitly printed under Pro una sancta muliere. Source melody has not been note-by-note verified.",
+      "pdfRubricChecked": true
+    }
+  ],
+  "rejected": [
+    {
+      "category": "c-doctores",
+      "slot": "inv|fontem sapientiae in tempore paschali",
+      "hour": "inv",
+      "variant": "Fontem sapientiae, in tempore paschali",
+      "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+      "name": "Fontem sapientiae",
+      "reason": "Provisional reuse of a single same-hour source score across rubric variants; not verified against printed edition.",
+      "review": "REJECTED",
+      "evidence": "Eastertide has a distinct antiphon on printed p. 301."
+    },
+    {
+      "category": "c-virgines",
+      "slot": "inv|in sollemnitatibus et festis",
+      "hour": "inv",
+      "variant": "in sollemnitatibus et festis",
+      "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "name": "Mirabilem in sanctis",
+      "reason": "Provisional reuse of a single same-hour source score across rubric variants; not verified against printed edition.",
+      "review": "REJECTED",
+      "evidence": "Printed p. 305 has Regem virginum, not Mirabilem in sanctis; p. 311 places Mirabilem in Common of Holy Men."
+    },
+    {
+      "category": "c-virgines",
+      "slot": "inv|in memoriis",
+      "hour": "inv",
+      "variant": "in memoriis",
+      "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "name": "Mirabilem in sanctis",
+      "reason": "Provisional reuse of a single same-hour source score across rubric variants; not verified against printed edition.",
+      "review": "REJECTED",
+      "evidence": "Printed p. 305 has Regem virginum, not Mirabilem in sanctis; p. 311 places Mirabilem in Common of Holy Men."
+    },
+    {
+      "category": "c-virgines",
+      "slot": "inv|in tempore paschali",
+      "hour": "inv",
+      "variant": "in tempore paschali",
+      "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "name": "Mirabilem in sanctis",
+      "reason": "Provisional reuse of a single same-hour source score across rubric variants; not verified against printed edition.",
+      "review": "REJECTED",
+      "evidence": "Printed p. 305 has Regem virginum, not Mirabilem in sanctis; p. 311 places Mirabilem in Common of Holy Men."
+    },
+    {
+      "category": "c-viri",
+      "slot": "l|pro uno sancto",
+      "hour": "l",
+      "variant": "pro uno sancto",
+      "file": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+      "name": "Beata caeli gaudia",
+      "reason": "Provisional reuse of a single same-hour source score across rubric variants; not verified against printed edition.",
+      "review": "REJECTED",
+      "evidence": "The chosen score is explicitly printed for the other number of saints (pp. 313 or 316)."
+    },
+    {
+      "category": "c-viri",
+      "slot": "v|pro uno sancto",
+      "hour": "v",
+      "variant": "pro uno sancto",
+      "file": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+      "name": "Inclitos Christi",
+      "reason": "Provisional reuse of a single same-hour source score across rubric variants; not verified against printed edition.",
+      "review": "REJECTED",
+      "evidence": "The chosen score is explicitly printed for the other number of saints (pp. 313 or 316)."
+    }
+  ],
+  "note": "Printed rubric checked against scanned PDF; full musical-note verification not performed."
+}

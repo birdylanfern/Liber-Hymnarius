@@ -1,0 +1,108 @@
+# Source integrity and remaining liturgical slots
+
+This is a file-integrity and coverage audit, **not** musical verification.
+
+- catalogueRecords: **495**
+- distinctReferencedFiles: **483**
+- physicalGabcFiles: **486**
+- missingReferencedFiles: **0**
+- unindexedFiles: **0**
+- auxiliaryPsalmScores: **3**
+- missingAuxiliaryPsalmScores: **0**
+- reusedScoreFiles: **11**
+- populatedSlots: **339**
+- totalSlots: **429**
+- emptySlots: **90**
+
+## Missing scores or rubric decisions
+
+- Proprium de Tempore / Tempus Nativitatis / Sollemnitas Sanctae Dei Genetricis Mariae — ol: no-local-candidate; no local candidate
+- Proprium de Tempore / Tempus Nativitatis / A Sollemnitate Epiphaniae — inv: no-local-candidate; no local candidate
+- Proprium de Tempore / Tempus Quadragesimae / Hebdomada Sancta — ol: no-local-candidate; no local candidate
+- Proprium de Tempore / Tempus Quadragesimae / Hebdomada Sancta — hm (Dominica in Palmis): no-local-candidate; no local candidate
+- Proprium de Tempore / Sacrum Triduum Paschale / Feria sexta — t: no-local-candidate; no local candidate
+- Proprium de Tempore / Sacrum Triduum Paschale / Feria sexta — s: no-local-candidate; no local candidate
+- Proprium de Tempore / Sacrum Triduum Paschale / Feria sexta — n: no-local-candidate; no local candidate
+- Proprium de Tempore / Sacrum Triduum Paschale / Sabbato Sancto — inv: no-local-candidate; no local candidate
+- Proprium de Tempore / Sacrum Triduum Paschale / Sabbato Sancto — ol: no-local-candidate; no local candidate
+- Proprium de Tempore / Sacrum Triduum Paschale / Sabbato Sancto — l: no-local-candidate; no local candidate
+- Proprium de Tempore / Tempus Paschale / Dominica Pentecostes — l: no-local-candidate; no local candidate
+- Proprium de Tempore / Post Pentecosten / Ss.mi Corporis & Sanguinis Christi — v: no-local-candidate; no local candidate
+- Proprium de Tempore / Post Pentecosten / Sacratissimi Cordis Iesu — inv: no-local-candidate; no local candidate
+- Proprium de Tempore / Post Pentecosten / Hebdomada XXXIV Per Annum — ol: no-local-candidate; no local candidate
+- Proprium de Sanctis / Ianuarius / 25 · In Conversione S. Pauli — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Februarius / 2 · In Praesentatione Domini — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Februarius / 2 · In Praesentatione Domini — ol: no-local-candidate; no local candidate
+- Proprium de Sanctis / Februarius / 10 · S. Scholasticae — vig: no-local-candidate; no local candidate
+- Proprium de Sanctis / Februarius / 10 · S. Scholasticae — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / Februarius / 10 · S. Scholasticae — v: no-local-candidate; no local candidate
+- Proprium de Sanctis / Februarius / 11 · Beatae Mariae Virginis de Lourdes — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / Martius / 19 · S. Ioseph — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Martius / 19 · S. Ioseph — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / Martius / 25 · In Annuntiatione Domini — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Martius / 25 · In Annuntiatione Domini — ol: no-local-candidate; no local candidate
+- Proprium de Sanctis / Martius / 25 · In Annuntiatione Domini — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / Aprilis / 21 · S. Anselmi — vig: no-local-candidate; no local candidate
+- Proprium de Sanctis / Aprilis / 21 · S. Anselmi — v: no-local-candidate; no local candidate
+- Proprium de Sanctis / Aprilis / 25 · S. Marci — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Maius / 1 · S. Ioseph Opificis — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Maius / 26 · S. Gregorii VII — lv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Maius / 27 · S. Augustini Cantuariensis — vv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Maius / 31 · In Visitatione Beatae Mariae Virginis — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Iunius / 5 · S. Bonifatii — vig: no-local-candidate; no local candidate
+- Proprium de Sanctis / Iunius / 5 · S. Bonifatii — lv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Iulius / 5 · S. Benedicti — vig: no-local-candidate; no local candidate
+- Proprium de Sanctis / Iulius / 5 · S. Benedicti — v: no-local-candidate; no local candidate
+- Proprium de Sanctis / Iulius / 26 · Ss. Ioachim & Annae — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Iulius / 26 · Ss. Ioachim & Annae — vig: no-local-candidate; no local candidate
+- Proprium de Sanctis / Augustus / 22 · Beatae Mariae Virginis Reginae — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Augustus / 25 · S. Ludovici — vv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Augustus / 25 · S. Ludovici — ol: no-local-candidate; no local candidate
+- Proprium de Sanctis / Augustus / 25 · S. Ludovici — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / Augustus / 29 · In Passione S. Ioannis Baptistae — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / Augustus / 29 · In Passione S. Ioannis Baptistae — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / September / 3 · S. Gregorii Magni — vig: no-local-candidate; no local candidate
+- Proprium de Sanctis / September / 3 · S. Gregorii Magni — lv: no-local-candidate; no local candidate
+- Proprium de Sanctis / September / 14 · In Exaltatione Sanctae Crucis — v: no-local-candidate; no local candidate
+- Proprium de Sanctis / September / 15 · Beatae Mariae Virginis Perdolentis — v: needs-hour-identification; Eia Mater (fix), Eia Mater (simplex), Stabat Mater, Virgo virginum praeclara
+- Proprium de Sanctis / September / 15 · Beatae Mariae Virginis Perdolentis — inv: needs-hour-identification; Eia Mater (fix), Eia Mater (simplex), Stabat Mater, Virgo virginum praeclara
+- Proprium de Sanctis / October / 2 · Ss. Angelorum Custodum — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / October / 2 · Ss. Angelorum Custodum — v: no-local-candidate; no local candidate
+- Proprium de Sanctis / October / 7 · Beatae Mariae Virginis a Rosario — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / October / 15 · S. Teresiae de Avila — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / October / 15 · S. Teresiae de Avila — v: no-local-candidate; no local candidate
+- Proprium de Sanctis / October / 18 · S. Lucae — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / November / 1 · Omnium Sanctorum — inv: needs-hour-identification; Christe caelorum habitator alme, Christe caelorum habitator alme, Iesu salvator saeculi
+- Proprium de Sanctis / November / 11 · S. Martini, Episcopi — inv: no-local-candidate; no local candidate
+- Proprium de Sanctis / November / 11 · S. Martini, Episcopi — vig: no-local-candidate; no local candidate
+- Proprium de Sanctis / November / 11 · S. Martini, Episcopi — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / November / 11 · S. Martini, Episcopi — olv: no-local-candidate; no local candidate
+- Proprium de Sanctis / November / 22 · S. Caeciliae, Virginis & Martyris — vig: no-local-candidate; no local candidate
+- Proprium de Sanctis / November / 22 · S. Caeciliae, Virginis & Martyris — l: no-local-candidate; no local candidate
+- Proprium de Sanctis / November / 22 · S. Caeciliae, Virginis & Martyris — v: no-local-candidate; no local candidate
+- Proprium de Sanctis / December / 26 · S. Stephani, Protomartyris — inv: no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Dedicationis Ecclesiae — inv (Domum Dei): no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Dedicationis Ecclesiae — inv (Christum Dominum): no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Dedicationis Ecclesiae — inv (Christum Dominum, in tempore paschali): no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Beatae Mariae Virginis / Commune — v1: no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Beatae Mariae Virginis / Commune — v2: no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Apostolorum — l: no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Martyrum / Pro pluribus martyribus — inv (in tempore paschali): needs-variant-or-rubric; Regem martyrum Dominum, Regem martyrum Dominum (memoria), Sanctorum meritis
+- Communia Sanctorum / Commune Pastorum — inv (Christum, pastorum): needs-hour-identification; Christe pastorum (Pro Episcopo), Christe pastorum (Pro Papa), Inclitus rector (Pro Episcopo), Inclitus rector (Pro Presbytero), Vir celse (pro Episcopo), Vir celse (Pro papa), Vir celse (Pro presbytero), Vir celse (Pro resbytero)
+- Communia Sanctorum / Commune Pastorum — inv (Christum, pastorum, in tempore paschali): needs-hour-identification; Christe pastorum (Pro Episcopo), Christe pastorum (Pro Papa), Inclitus rector (Pro Episcopo), Inclitus rector (Pro Presbytero), Vir celse (pro Episcopo), Vir celse (Pro papa), Vir celse (Pro presbytero), Vir celse (Pro resbytero)
+- Communia Sanctorum / Commune Doctorum Ecclesiae — inv (Fontem sapientiae, in tempore paschali): needs-variant-or-rubric; Fontem sapientiae, Fontem sapientiae
+- Communia Sanctorum / Commune Virginum — inv (in sollemnitatibus et festis): no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Virginum — inv (in memoriis): no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Virginum — inv (in tempore paschali): no-local-candidate; no local candidate
+- Communia Sanctorum / Commune Sanctorum Virorum — inv (Mirabilem in sanctis, in tempore paschali): needs-variant-or-rubric; Mirabilem in sanctis, Inclytos Christi
+- Communia Sanctorum / Commune Sanctorum Virorum — l (pro uno sancto): needs-variant-or-rubric; Beata caeli gaudia, Beata caeli gaudia, Inclytos Christi
+- Communia Sanctorum / Commune Sanctorum Virorum — v (pro uno sancto): needs-variant-or-rubric; Inclitos Christi, Inclitos Christi, Inclytos Christi
+- Communia Sanctorum / Officium Defunctorum — inv (Regem cui): no-local-candidate; no local candidate
+- Communia Sanctorum / Officium Defunctorum — inv (Regem cui, in tempore paschali): no-local-candidate; no local candidate
+- Communia Sanctorum / Officium Defunctorum — l: no-local-candidate; no local candidate
+- Tempus per Annum / Ad Invitatorium — inv (Hebdomadae I et III): no-local-candidate; no local candidate
+- Tempus per Annum / Ad Invitatorium — inv (Hebdomadae II et IV): no-local-candidate; no local candidate
+- Tempus per Annum / Hebdomadae I et III / Dominica — hm: no-local-candidate; no local candidate
+- Tempus per Annum / Hebdomadae II et IV / Dominica — inv: no-local-candidate; no local candidate
+- Tempus per Annum / Hebdomadae II et IV / Dominica — hm: no-local-candidate; no local candidate
+- Tempus per Annum / Hebdomadae II et IV / Dominica — v2: no-local-candidate; no local candidate

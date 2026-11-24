@@ -1,0 +1,86 @@
+[
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-7517.gabc",
+    "name": "Christe qui splendor (in festis)",
+    "variant": "Christe qui splendor",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-7518.gabc",
+    "name": "Christe qui splendor (in memoriis)",
+    "variant": "Christe qui splendor",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-7515.gabc",
+    "name": "Christe qui splendor et dies (in dominicis per annum)",
+    "variant": "Christe qui splendor",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-7519.gabc",
+    "name": "Christe qui splendor et dies (in feriis per annum)",
+    "variant": "Christe qui splendor",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-16706.gabc",
+    "name": "Christe qui splendor et dies (in sollemnitatibus)",
+    "variant": "Christe qui splendor",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-20911.gabc",
+    "name": "Christum Mariae Filium",
+    "variant": "Christum, Mariae Filium",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-20912.gabc",
+    "name": "Christum Mariae Filium (TP)",
+    "variant": "Christum, Mariae Filium, in tempore paschali",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-16685.gabc",
+    "name": "Exsultet caelum laudibus",
+    "variant": "in aliis temporibus",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-20913.gabc",
+    "name": "Festivitatem Virginis Mariae",
+    "variant": "Festivitatem Virginis",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-4677.gabc",
+    "name": "Te lucis ante terminum (In Dominicis per Annum)",
+    "variant": "Te lucis",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-4680.gabc",
+    "name": "Te lucis ante terminum (In Feriis per Annum)",
+    "variant": "Te lucis",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-4682.gabc",
+    "name": "Te lucis ante terminum (In Festis)",
+    "variant": "Te lucis",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-4681.gabc",
+    "name": "Te lucis ante terminum (In Memoriis)",
+    "variant": "Te lucis",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  },
+  {
+    "file": "gabc/hymns/gregobase-liber/gb-4683.gabc",
+    "name": "Te lucis ante terminum (In Solemnitatibus)",
+    "variant": "Te lucis",
+    "basis": "Explicit hymn title or TP abbreviation; not independently checked against printed rubric"
+  }
+]

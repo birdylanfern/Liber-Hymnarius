@@ -1,0 +1,137 @@
+{
+  "notice": "Full Psalm 94 settings found in the project. The printed page and source identify the score, NOT a verified pairing with the currently selected antiphon. Verify each antiphon rubric before treating a selection as authoritative.",
+  "tones": [
+    {
+      "label": "Tonus II",
+      "file": "gabc/hymns/gregobase-liber/gb-8218.gabc",
+      "mode": "2;",
+      "printedPage": 133,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 11
+    },
+    {
+      "label": "Tonus III",
+      "file": "gabc/hymns/gregobase-liber/gb-10397.gabc",
+      "mode": "3;",
+      "printedPage": 135,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 11
+    },
+    {
+      "label": "Tonus IV*",
+      "file": "gabc/common/ps--venite_exsultemus_94--4.gabc",
+      "mode": "4",
+      "source": "existing local Psalm 94 GABC",
+      "verification": "local-unchecked",
+      "printedPage": 141
+    },
+    {
+      "label": "Tonus IV**",
+      "file": "gabc/hymns/gregobase-liber/gb-16356.gabc",
+      "mode": "4;",
+      "printedPage": 16,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 6
+    },
+    {
+      "label": "Tonus IV",
+      "file": "gabc/hymns/gregobase-liber/gb-15508.gabc",
+      "mode": "4;",
+      "printedPage": 138,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 12
+    },
+    {
+      "label": "Tonus IV* (ad lib)",
+      "file": "gabc/hymns/gregobase-liber/gb-16592.gabc",
+      "mode": "4;",
+      "printedPage": 144,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 11
+    },
+    {
+      "label": "Tonus V",
+      "file": "gabc/common/ps--venite_exsultemus_94--5.gabc",
+      "mode": "5",
+      "source": "existing local Psalm 94 GABC",
+      "verification": "local-unchecked",
+      "printedPage": 146
+    },
+    {
+      "label": "Tonus V",
+      "file": "gabc/hymns/gregobase-liber/gb-10248.gabc",
+      "mode": "5;",
+      "printedPage": 146,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 11
+    },
+    {
+      "label": "Tonus VI",
+      "file": "gabc/common/ps--venite_exsultemus_94--6.gabc",
+      "mode": "6",
+      "source": "existing local Psalm 94 GABC",
+      "verification": "local-unchecked",
+      "printedPage": 149
+    },
+    {
+      "label": "Tonus VI",
+      "file": "gabc/hymns/gregobase-liber/gb-9664.gabc",
+      "mode": "6;",
+      "printedPage": 149,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 12
+    },
+    {
+      "label": "Tonus VI*",
+      "file": "gabc/hymns/gregobase-liber/gb-10035.gabc",
+      "mode": "6;",
+      "printedPage": 154,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 11
+    },
+    {
+      "label": "Tonus VI**",
+      "file": "gabc/hymns/gregobase-liber/gb-15059.gabc",
+      "mode": "6;",
+      "printedPage": 157,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 12
+    },
+    {
+      "label": "Tonus VII",
+      "file": "gabc/hymns/gregobase-liber/gb-9834.gabc",
+      "mode": "7;",
+      "printedPage": 160,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 11
+    },
+    {
+      "label": "Tonus D",
+      "file": "gabc/hymns/gregobase-liber/gb-9707.gabc",
+      "mode": "d;",
+      "printedPage": 165,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 11
+    },
+    {
+      "label": "Tonus E",
+      "file": "gabc/hymns/gregobase-liber/gb-9642.gabc",
+      "mode": "e;",
+      "printedPage": 168,
+      "source": "GregoBase (Liber Hymnarius indexed)",
+      "verification": "external-unchecked",
+      "verseEndings": 11
+    }
+  ]
+}

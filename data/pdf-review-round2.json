@@ -1,0 +1,525 @@
+{
+  "corrections": [
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15623.gabc",
+      "name": "Adesto Christe (+rhythmic signs)",
+      "printedPage": 204,
+      "previousSuggestion": "ol",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20348.gabc",
+      "name": "Aeterna imago Altissimi",
+      "printedPage": 125,
+      "previousSuggestion": "ol",
+      "correctedHour": "l",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15601.gabc",
+      "name": "Aeterne rerum ... noctem",
+      "printedPage": 184,
+      "previousSuggestion": "l",
+      "correctedHour": "l",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19477.gabc",
+      "name": "Aeterne rerum Conditor (Dox\u00a3. Deo Patri)",
+      "printedPage": 184,
+      "previousSuggestion": "l",
+      "correctedHour": "l",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15366.gabc",
+      "name": "Alleluia spiritus Domini replevit",
+      "printedPage": 98,
+      "previousSuggestion": "inv",
+      "correctedHour": "inv",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19801.gabc",
+      "name": "Alleluia, Christum Dominum ascendentem in caelum",
+      "printedPage": 91,
+      "previousSuggestion": "inv",
+      "correctedHour": "inv",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19352.gabc",
+      "name": "Auctor salutis",
+      "printedPage": 72,
+      "previousSuggestion": "l",
+      "correctedHour": "v",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16814.gabc",
+      "name": "Certum tenentes (In feriis per annum)",
+      "printedPage": 219,
+      "previousSuggestion": "l",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16816.gabc",
+      "name": "Certum tenentes (In festis)",
+      "printedPage": 220,
+      "previousSuggestion": "t",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16815.gabc",
+      "name": "Certum tenentes (In memoriis)",
+      "printedPage": 219,
+      "previousSuggestion": "l",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16813.gabc",
+      "name": "Certum tenentes (In Sollemnitatibus)",
+      "printedPage": 213,
+      "previousSuggestion": "t",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7291.gabc",
+      "name": "Chorus novae Ierusalem",
+      "printedPage": 83,
+      "previousSuggestion": "l",
+      "correctedHour": "l",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7517.gabc",
+      "name": "Christe qui splendor (in festis)",
+      "printedPage": 243,
+      "previousSuggestion": "c",
+      "correctedHour": "c",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7518.gabc",
+      "name": "Christe qui splendor (in memoriis)",
+      "printedPage": 243,
+      "previousSuggestion": "c",
+      "correctedHour": "c",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7515.gabc",
+      "name": "Christe qui splendor et dies (in dominicis per annum)",
+      "printedPage": 244,
+      "previousSuggestion": "c",
+      "correctedHour": "c",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7519.gabc",
+      "name": "Christe qui splendor et dies (in feriis per annum)",
+      "printedPage": 243,
+      "previousSuggestion": "c",
+      "correctedHour": "c",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16706.gabc",
+      "name": "Christe qui splendor et dies (in sollemnitatibus)",
+      "printedPage": 244,
+      "previousSuggestion": "c",
+      "correctedHour": "c",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19803.gabc",
+      "name": "Christum Filium dilectum",
+      "printedPage": 44,
+      "previousSuggestion": "v",
+      "correctedHour": "inv",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15616.gabc",
+      "name": "Consors paterni (+rhythmic signs)",
+      "printedPage": 196,
+      "previousSuggestion": "ol",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-10171.gabc",
+      "name": "Cor Iesu amore nostri",
+      "printedPage": 118,
+      "previousSuggestion": "v",
+      "correctedHour": "v",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15456.gabc",
+      "name": "Deum verum",
+      "printedPage": 106,
+      "previousSuggestion": "v",
+      "correctedHour": "inv",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16820.gabc",
+      "name": "Dicamus laudes (In feriis)",
+      "printedPage": 220,
+      "previousSuggestion": "t",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16825.gabc",
+      "name": "Dicamus laudes (In festis)",
+      "printedPage": 221,
+      "previousSuggestion": "s",
+      "correctedHour": "s",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16824.gabc",
+      "name": "Dicamus laudes (In memoriis)",
+      "printedPage": 221,
+      "previousSuggestion": "s",
+      "correctedHour": "s",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15628.gabc",
+      "name": "Dies aetasque (+rhythmic signs)",
+      "printedPage": 183,
+      "previousSuggestion": "ol",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20353.gabc",
+      "name": "Dies irae, ad Laudes  Quid sum miser...",
+      "printedPage": 128,
+      "previousSuggestion": "l",
+      "correctedHour": "l",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20352.gabc",
+      "name": "Dies irae, Ad Officium Lectionis Heb. XXXIV",
+      "printedPage": 126,
+      "previousSuggestion": "l",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20354.gabc",
+      "name": "Dies irae, ad Vesperas, Peccatricem qui solvisti",
+      "printedPage": 129,
+      "previousSuggestion": "v",
+      "correctedHour": "v",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19480.gabc",
+      "name": "Ecce iam noctis",
+      "printedPage": 212,
+      "previousSuggestion": "l",
+      "correctedHour": "l",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-17812.gabc",
+      "name": "Iam Christus astra",
+      "printedPage": 101,
+      "previousSuggestion": "t",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15488.gabc",
+      "name": "Iam surgit",
+      "printedPage": 85,
+      "previousSuggestion": "t",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-8737.gabc",
+      "name": "Iesu auctor clementiae",
+      "printedPage": 120,
+      "previousSuggestion": "l",
+      "correctedHour": "l",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15084.gabc",
+      "name": "Iesu redemptor saeculi TP",
+      "printedPage": 77,
+      "previousSuggestion": "c",
+      "correctedHour": "c",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16103.gabc",
+      "name": "Iesum Christum, regem regum",
+      "printedPage": 124,
+      "previousSuggestion": "inv",
+      "correctedHour": "inv",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19491.gabc",
+      "name": "Ipsum nunc nobis tempus est (textus amplior)",
+      "printedPage": 217,
+      "previousSuggestion": "ol",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-10293.gabc",
+      "name": "Laetare caelum desuper",
+      "printedPage": 81,
+      "previousSuggestion": "ol",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-8699.gabc",
+      "name": "Maternitatem Virginis Mariae",
+      "printedPage": 33,
+      "previousSuggestion": "inv",
+      "correctedHour": "inv",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15620.gabc",
+      "name": "Nox atra rerum (+rhythmic signs)",
+      "printedPage": 201,
+      "previousSuggestion": "ol",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-18011.gabc",
+      "name": "Nunc Sancte (in Memoriis)",
+      "printedPage": 192,
+      "previousSuggestion": "t",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20935.gabc",
+      "name": "Nunc Sancte (In Solemnitatibus)",
+      "printedPage": 186,
+      "previousSuggestion": "t",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-4557.gabc",
+      "name": "Nunc Sancte nobis (in Feriis per annum)",
+      "printedPage": 192,
+      "previousSuggestion": "t",
+      "correctedHour": "t",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-10363.gabc",
+      "name": "Panem vitae Christum Dominum",
+      "printedPage": 113,
+      "previousSuggestion": "inv",
+      "correctedHour": "inv",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-8671.gabc",
+      "name": "Pange lingua... Corporis",
+      "printedPage": 110,
+      "previousSuggestion": "v",
+      "correctedHour": "v",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-18013.gabc",
+      "name": "Rector potens (soll.)",
+      "printedPage": 187,
+      "previousSuggestion": "s",
+      "correctedHour": "s",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15609.gabc",
+      "name": "Rector potens verax Deus (In Feriis per annum)",
+      "printedPage": 193,
+      "previousSuggestion": "s",
+      "correctedHour": "s",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19203.gabc",
+      "name": "Rector potens verax Deus (In Festis)",
+      "printedPage": 193,
+      "previousSuggestion": "s",
+      "correctedHour": "s",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19852.gabc",
+      "name": "Rector potens verax deus (in memoriis)",
+      "printedPage": 193,
+      "previousSuggestion": "s",
+      "correctedHour": "s",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15618.gabc",
+      "name": "Rerum creator (+rhythmic signs)",
+      "printedPage": 198,
+      "previousSuggestion": "v",
+      "correctedHour": "v",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-4629.gabc",
+      "name": "Rerum Deus (In Solemnitatibus)",
+      "printedPage": 188,
+      "previousSuggestion": "n",
+      "correctedHour": "n",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15610.gabc",
+      "name": "Rerum Deus tenax vigor (In Feriis per annum)",
+      "printedPage": 194,
+      "previousSuggestion": "n",
+      "correctedHour": "n",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19204.gabc",
+      "name": "Rerum Deus tenax vigor (In Festis)",
+      "printedPage": 194,
+      "previousSuggestion": "n",
+      "correctedHour": "n",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19853.gabc",
+      "name": "Rerum Deus tenax vigor (in memoriis)",
+      "printedPage": 194,
+      "previousSuggestion": "n",
+      "correctedHour": "n",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20295.gabc",
+      "name": "Rerum, Deus, tenax",
+      "printedPage": 188,
+      "previousSuggestion": "n",
+      "correctedHour": "n",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15631.gabc",
+      "name": "Sol ecce surgit",
+      "printedPage": 202,
+      "previousSuggestion": "l",
+      "correctedHour": "l",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15627.gabc",
+      "name": "Somno refectis (+rhythmic signs)",
+      "printedPage": 190,
+      "previousSuggestion": "ol",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15625.gabc",
+      "name": "Summae Deus (+rhythmic signs)",
+      "printedPage": 206,
+      "previousSuggestion": "ol",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7290.gabc",
+      "name": "Surrexit Dominus vere (Inv.)",
+      "printedPage": 79,
+      "previousSuggestion": "inv",
+      "correctedHour": "inv",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16830.gabc",
+      "name": "Ternis horarum (In feriis per annum)",
+      "printedPage": 221,
+      "previousSuggestion": "s",
+      "correctedHour": "s",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16832.gabc",
+      "name": "Ternis horarum (In festis)",
+      "printedPage": 222,
+      "previousSuggestion": "n",
+      "correctedHour": "n",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16831.gabc",
+      "name": "Ternis horarum (In memoriis)",
+      "printedPage": 222,
+      "previousSuggestion": "n",
+      "correctedHour": "n",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16829.gabc",
+      "name": "Ternis horarum (In sollemnitatibus)",
+      "printedPage": 215,
+      "previousSuggestion": "n",
+      "correctedHour": "n",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15622.gabc",
+      "name": "Tu Trinitatis (+rhythmic signs)",
+      "printedPage": 203,
+      "previousSuggestion": "ol",
+      "correctedHour": "ol",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19794.gabc",
+      "name": "Vexilla Regis prodeunt",
+      "printedPage": 58,
+      "previousSuggestion": "n",
+      "correctedHour": "v",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20572.gabc",
+      "name": "Vexilla Regis prodeunt (tempore passionis)",
+      "printedPage": 59,
+      "previousSuggestion": "v",
+      "correctedHour": "v",
+      "basis": "Heading and placement in supplied 1983 PDF; melody not note-verified"
+    }
+  ],
+  "held": [
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16819.gabc",
+      "page": 214,
+      "suggestedHour": "s",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    }
+  ],
+  "note": "Printed-page hour review; source attribution and musical accuracy not independently verified."
+}

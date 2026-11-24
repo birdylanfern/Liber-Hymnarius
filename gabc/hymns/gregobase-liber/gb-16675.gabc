@@ -1,0 +1,14 @@
+variant: Regem Apostolorum A.IV;
+hour: Invitatorium;
+category: c-apostoli;
+classification-method: reviewed-same-page-provisional;
+provenance: gregobase-liber;
+source: https://gregobase.selapa.net/chant.php?id=16675;
+liber-page: 266;
+commentary: GregoBase transcription indexed under Liber Hymnarius (1983); not independently checked against the scan;
+name:Regem Apostolorum (mode IV*);
+office-part:Antiphona;
+mode:4;
+book:Liber Hymnarius, 1983, p. 266;
+%%
+(c4)Re(c@dwefv)gem(e) A(e)pos(e)to(e)ló(e)rum(fg~) Dó(ge)mi(f)num,(deDC) (;) ve(ce@fwg)ní(g)te,(gh) ad(hvGF)ó(g)re(gvFE)mus.(e) (::)

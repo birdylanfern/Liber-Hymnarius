@@ -1,0 +1,1043 @@
+{
+  "summary": {
+    "catalogueRecords": 495,
+    "distinctReferencedFiles": 483,
+    "physicalGabcFiles": 486,
+    "missingReferencedFiles": 0,
+    "unindexedFiles": 0,
+    "auxiliaryPsalmScores": 3,
+    "missingAuxiliaryPsalmScores": 0,
+    "reusedScoreFiles": 11,
+    "populatedSlots": 339,
+    "totalSlots": 429,
+    "emptySlots": 90
+  },
+  "missing": [],
+  "unindexed": [],
+  "auxiliaryPsalmScores": [
+    "gabc/common/ps--venite_exsultemus_94--4.gabc",
+    "gabc/common/ps--venite_exsultemus_94--5.gabc",
+    "gabc/common/ps--venite_exsultemus_94--6.gabc"
+  ],
+  "auxiliaryMissing": [],
+  "reused": [
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+      "placements": [
+        {
+          "name": "Beata caeli gaudia",
+          "category": "c-viri",
+          "hour": "l",
+          "variant": "",
+          "unchecked": false
+        },
+        {
+          "name": "Beata caeli gaudia",
+          "category": "c-viri",
+          "hour": "l",
+          "variant": "pro pluribus sanctis",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-4238.gabc",
+      "placements": [
+        {
+          "name": "Certum tenentes ordinem (T Adventus)",
+          "category": "adventus-post16",
+          "hour": "t",
+          "variant": "",
+          "unchecked": false
+        },
+        {
+          "name": "Certum tenentes ordinem (T Adventus)",
+          "category": "nativitatis-post-epiph",
+          "hour": "t",
+          "variant": "",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-4239.gabc",
+      "placements": [
+        {
+          "name": "Dicamus laudes Domino",
+          "category": "adventus-post16",
+          "hour": "s",
+          "variant": "",
+          "unchecked": false
+        },
+        {
+          "name": "Dicamus laudes Domino",
+          "category": "nativitatis-post-epiph",
+          "hour": "s",
+          "variant": "",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16685.gabc",
+      "placements": [
+        {
+          "name": "Exsultet caelum laudibus",
+          "category": "c-apostoli",
+          "hour": "v2",
+          "variant": "in aliis temporibus",
+          "unchecked": true
+        },
+        {
+          "name": "Exsultet caelum laudibus",
+          "category": "c-apostoli",
+          "hour": "v1",
+          "variant": "",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+      "placements": [
+        {
+          "name": "Fontem sapientiae",
+          "category": "c-doctores",
+          "hour": "inv",
+          "variant": "",
+          "unchecked": true
+        },
+        {
+          "name": "Fontem sapientiae",
+          "category": "c-doctores",
+          "hour": "inv",
+          "variant": "Fontem sapientiae",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+      "placements": [
+        {
+          "name": "Inclitos Christi",
+          "category": "c-viri",
+          "hour": "v",
+          "variant": "",
+          "unchecked": false
+        },
+        {
+          "name": "Inclitos Christi",
+          "category": "c-viri",
+          "hour": "v",
+          "variant": "pro pluribus sanctis",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-8826.gabc",
+      "placements": [
+        {
+          "name": "Laeti colentes famulum",
+          "category": "c-religiosi",
+          "hour": "v2",
+          "variant": "",
+          "unchecked": false
+        },
+        {
+          "name": "Laeti colentes famulum",
+          "category": "c-religiosi",
+          "hour": "v1",
+          "variant": "",
+          "unchecked": true
+        },
+        {
+          "name": "Laeti colentes famulum",
+          "category": "c-religiosi",
+          "hour": "ol",
+          "variant": "",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "placements": [
+        {
+          "name": "Mirabilem in sanctis",
+          "category": "c-viri",
+          "hour": "inv",
+          "variant": "mirabilem in sanctis",
+          "unchecked": false
+        },
+        {
+          "name": "Mirabilem in sanctis",
+          "category": "c-religiosi",
+          "hour": "inv",
+          "variant": "",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16057.gabc",
+      "placements": [
+        {
+          "name": "Nobilem Christi",
+          "category": "c-mulieres",
+          "hour": "l",
+          "variant": "",
+          "unchecked": false
+        },
+        {
+          "name": "Nobilem Christi",
+          "category": "c-mulieres",
+          "hour": "l",
+          "variant": "pro una sancta muliere",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+      "placements": [
+        {
+          "name": "Regem Apostolorum",
+          "category": "c-apostoli",
+          "hour": "inv",
+          "variant": "Regem Apostolorum A.III",
+          "unchecked": false
+        },
+        {
+          "name": "Regem Apostolorum",
+          "category": "s-06-29",
+          "hour": "inv",
+          "variant": "",
+          "unchecked": true
+        }
+      ]
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-4240.gabc",
+      "placements": [
+        {
+          "name": "Ternis horarum terminis",
+          "category": "adventus-post16",
+          "hour": "n",
+          "variant": "",
+          "unchecked": false
+        },
+        {
+          "name": "Ternis horarum terminis",
+          "category": "nativitatis-post-epiph",
+          "hour": "n",
+          "variant": "",
+          "unchecked": true
+        }
+      ]
+    }
+  ],
+  "empty": [
+    {
+      "section": "Proprium de Tempore / Tempus Nativitatis / Sollemnitas Sanctae Dei Genetricis Mariae",
+      "hour": "ol",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Tempus Nativitatis / A Sollemnitate Epiphaniae",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Tempus Quadragesimae / Hebdomada Sancta",
+      "hour": "ol",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Tempus Quadragesimae / Hebdomada Sancta",
+      "hour": "hm",
+      "variant": "Dominica in Palmis",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Sacrum Triduum Paschale / Feria sexta",
+      "hour": "t",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Sacrum Triduum Paschale / Feria sexta",
+      "hour": "s",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Sacrum Triduum Paschale / Feria sexta",
+      "hour": "n",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Sacrum Triduum Paschale / Sabbato Sancto",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Sacrum Triduum Paschale / Sabbato Sancto",
+      "hour": "ol",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Sacrum Triduum Paschale / Sabbato Sancto",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Tempus Paschale / Dominica Pentecostes",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Post Pentecosten / Ss.mi Corporis & Sanguinis Christi",
+      "hour": "v",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Post Pentecosten / Sacratissimi Cordis Iesu",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Tempore / Post Pentecosten / Hebdomada XXXIV Per Annum",
+      "hour": "ol",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Ianuarius / 25 · In Conversione S. Pauli",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Februarius / 2 · In Praesentatione Domini",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Februarius / 2 · In Praesentatione Domini",
+      "hour": "ol",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Februarius / 10 · S. Scholasticae",
+      "hour": "vig",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Februarius / 10 · S. Scholasticae",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Februarius / 10 · S. Scholasticae",
+      "hour": "v",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Februarius / 11 · Beatae Mariae Virginis de Lourdes",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Martius / 19 · S. Ioseph",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Martius / 19 · S. Ioseph",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Martius / 25 · In Annuntiatione Domini",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Martius / 25 · In Annuntiatione Domini",
+      "hour": "ol",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Martius / 25 · In Annuntiatione Domini",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Aprilis / 21 · S. Anselmi",
+      "hour": "vig",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Aprilis / 21 · S. Anselmi",
+      "hour": "v",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Aprilis / 25 · S. Marci",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Maius / 1 · S. Ioseph Opificis",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Maius / 26 · S. Gregorii VII",
+      "hour": "lv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Maius / 27 · S. Augustini Cantuariensis",
+      "hour": "vv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Maius / 31 · In Visitatione Beatae Mariae Virginis",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Iunius / 5 · S. Bonifatii",
+      "hour": "vig",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Iunius / 5 · S. Bonifatii",
+      "hour": "lv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Iulius / 5 · S. Benedicti",
+      "hour": "vig",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Iulius / 5 · S. Benedicti",
+      "hour": "v",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Iulius / 26 · Ss. Ioachim & Annae",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Iulius / 26 · Ss. Ioachim & Annae",
+      "hour": "vig",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Augustus / 22 · Beatae Mariae Virginis Reginae",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Augustus / 25 · S. Ludovici",
+      "hour": "vv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Augustus / 25 · S. Ludovici",
+      "hour": "ol",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Augustus / 25 · S. Ludovici",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Augustus / 29 · In Passione S. Ioannis Baptistae",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / Augustus / 29 · In Passione S. Ioannis Baptistae",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / September / 3 · S. Gregorii Magni",
+      "hour": "vig",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / September / 3 · S. Gregorii Magni",
+      "hour": "lv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / September / 14 · In Exaltatione Sanctae Crucis",
+      "hour": "v",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / September / 15 · Beatae Mariae Virginis Perdolentis",
+      "hour": "v",
+      "variant": "",
+      "status": "needs-hour-identification",
+      "candidates": [
+        {
+          "name": "Eia Mater (fix)",
+          "file": "gabc/hymns/gregobase-liber/gb-20900.gabc"
+        },
+        {
+          "name": "Eia Mater (simplex)",
+          "file": "gabc/hymns/gregobase-liber/gb-17969.gabc"
+        },
+        {
+          "name": "Stabat Mater",
+          "file": "gabc/hymns/gregobase-liber/gb-20898.gabc"
+        },
+        {
+          "name": "Virgo virginum praeclara",
+          "file": "gabc/hymns/gregobase-liber/gb-20897.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Proprium de Sanctis / September / 15 · Beatae Mariae Virginis Perdolentis",
+      "hour": "inv",
+      "variant": "",
+      "status": "needs-hour-identification",
+      "candidates": [
+        {
+          "name": "Eia Mater (fix)",
+          "file": "gabc/hymns/gregobase-liber/gb-20900.gabc"
+        },
+        {
+          "name": "Eia Mater (simplex)",
+          "file": "gabc/hymns/gregobase-liber/gb-17969.gabc"
+        },
+        {
+          "name": "Stabat Mater",
+          "file": "gabc/hymns/gregobase-liber/gb-20898.gabc"
+        },
+        {
+          "name": "Virgo virginum praeclara",
+          "file": "gabc/hymns/gregobase-liber/gb-20897.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Proprium de Sanctis / October / 2 · Ss. Angelorum Custodum",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / October / 2 · Ss. Angelorum Custodum",
+      "hour": "v",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / October / 7 · Beatae Mariae Virginis a Rosario",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / October / 15 · S. Teresiae de Avila",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / October / 15 · S. Teresiae de Avila",
+      "hour": "v",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / October / 18 · S. Lucae",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / November / 1 · Omnium Sanctorum",
+      "hour": "inv",
+      "variant": "",
+      "status": "needs-hour-identification",
+      "candidates": [
+        {
+          "name": "Christe caelorum habitator alme",
+          "file": "gabc/hymns/gregobase-liber/gb-11256.gabc"
+        },
+        {
+          "name": "Christe caelorum habitator alme",
+          "file": "gabc/hymns/gregobase-liber/gb-16186.gabc"
+        },
+        {
+          "name": "Iesu salvator saeculi",
+          "file": "gabc/hymns/gregobase-liber/gb-16213.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Proprium de Sanctis / November / 11 · S. Martini, Episcopi",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / November / 11 · S. Martini, Episcopi",
+      "hour": "vig",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / November / 11 · S. Martini, Episcopi",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / November / 11 · S. Martini, Episcopi",
+      "hour": "olv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / November / 22 · S. Caeciliae, Virginis & Martyris",
+      "hour": "vig",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / November / 22 · S. Caeciliae, Virginis & Martyris",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / November / 22 · S. Caeciliae, Virginis & Martyris",
+      "hour": "v",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Proprium de Sanctis / December / 26 · S. Stephani, Protomartyris",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Dedicationis Ecclesiae",
+      "hour": "inv",
+      "variant": "Domum Dei",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Dedicationis Ecclesiae",
+      "hour": "inv",
+      "variant": "Christum Dominum",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Dedicationis Ecclesiae",
+      "hour": "inv",
+      "variant": "Christum Dominum, in tempore paschali",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Beatae Mariae Virginis / Commune",
+      "hour": "v1",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Beatae Mariae Virginis / Commune",
+      "hour": "v2",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Apostolorum",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Martyrum / Pro pluribus martyribus",
+      "hour": "inv",
+      "variant": "in tempore paschali",
+      "status": "needs-variant-or-rubric",
+      "candidates": [
+        {
+          "name": "Regem martyrum Dominum",
+          "file": "gabc/hymns/gregobase-liber/gb-10558.gabc"
+        },
+        {
+          "name": "Regem martyrum Dominum (memoria)",
+          "file": "gabc/hymns/gregobase-liber/gb-20901.gabc"
+        },
+        {
+          "name": "Sanctorum meritis",
+          "file": "gabc/hymns/gregobase-liber/gb-20600.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Pastorum",
+      "hour": "inv",
+      "variant": "Christum, pastorum",
+      "status": "needs-hour-identification",
+      "candidates": [
+        {
+          "name": "Christe pastorum (Pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-8819.gabc"
+        },
+        {
+          "name": "Christe pastorum (Pro Papa)",
+          "file": "gabc/hymns/gregobase-liber/gb-8820.gabc"
+        },
+        {
+          "name": "Inclitus rector (Pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-8816.gabc"
+        },
+        {
+          "name": "Inclitus rector (Pro Presbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-8817.gabc"
+        },
+        {
+          "name": "Vir celse (pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-20001.gabc"
+        },
+        {
+          "name": "Vir celse (Pro papa)",
+          "file": "gabc/hymns/gregobase-liber/gb-20002.gabc"
+        },
+        {
+          "name": "Vir celse (Pro presbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-20004.gabc"
+        },
+        {
+          "name": "Vir celse (Pro resbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-20003.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Pastorum",
+      "hour": "inv",
+      "variant": "Christum, pastorum, in tempore paschali",
+      "status": "needs-hour-identification",
+      "candidates": [
+        {
+          "name": "Christe pastorum (Pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-8819.gabc"
+        },
+        {
+          "name": "Christe pastorum (Pro Papa)",
+          "file": "gabc/hymns/gregobase-liber/gb-8820.gabc"
+        },
+        {
+          "name": "Inclitus rector (Pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-8816.gabc"
+        },
+        {
+          "name": "Inclitus rector (Pro Presbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-8817.gabc"
+        },
+        {
+          "name": "Vir celse (pro Episcopo)",
+          "file": "gabc/hymns/gregobase-liber/gb-20001.gabc"
+        },
+        {
+          "name": "Vir celse (Pro papa)",
+          "file": "gabc/hymns/gregobase-liber/gb-20002.gabc"
+        },
+        {
+          "name": "Vir celse (Pro presbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-20004.gabc"
+        },
+        {
+          "name": "Vir celse (Pro resbytero)",
+          "file": "gabc/hymns/gregobase-liber/gb-20003.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Doctorum Ecclesiae",
+      "hour": "inv",
+      "variant": "Fontem sapientiae, in tempore paschali",
+      "status": "needs-variant-or-rubric",
+      "candidates": [
+        {
+          "name": "Fontem sapientiae",
+          "file": "gabc/hymns/gregobase-liber/gb-20870.gabc"
+        },
+        {
+          "name": "Fontem sapientiae",
+          "file": "gabc/hymns/gregobase-liber/gb-20870.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Virginum",
+      "hour": "inv",
+      "variant": "in sollemnitatibus et festis",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Virginum",
+      "hour": "inv",
+      "variant": "in memoriis",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Virginum",
+      "hour": "inv",
+      "variant": "in tempore paschali",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Commune Sanctorum Virorum",
+      "hour": "inv",
+      "variant": "Mirabilem in sanctis, in tempore paschali",
+      "status": "needs-variant-or-rubric",
+      "candidates": [
+        {
+          "name": "Mirabilem in sanctis",
+          "file": "gabc/hymns/gregobase-liber/gb-20882.gabc"
+        },
+        {
+          "name": "Inclytos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-8841.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Sanctorum Virorum",
+      "hour": "l",
+      "variant": "pro uno sancto",
+      "status": "needs-variant-or-rubric",
+      "candidates": [
+        {
+          "name": "Beata caeli gaudia",
+          "file": "gabc/hymns/gregobase-liber/gb-8829.gabc"
+        },
+        {
+          "name": "Beata caeli gaudia",
+          "file": "gabc/hymns/gregobase-liber/gb-8829.gabc"
+        },
+        {
+          "name": "Inclytos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-8841.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Commune Sanctorum Virorum",
+      "hour": "v",
+      "variant": "pro uno sancto",
+      "status": "needs-variant-or-rubric",
+      "candidates": [
+        {
+          "name": "Inclitos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-4603.gabc"
+        },
+        {
+          "name": "Inclitos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-4603.gabc"
+        },
+        {
+          "name": "Inclytos Christi",
+          "file": "gabc/hymns/gregobase-liber/gb-8841.gabc"
+        }
+      ]
+    },
+    {
+      "section": "Communia Sanctorum / Officium Defunctorum",
+      "hour": "inv",
+      "variant": "Regem cui",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Officium Defunctorum",
+      "hour": "inv",
+      "variant": "Regem cui, in tempore paschali",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Communia Sanctorum / Officium Defunctorum",
+      "hour": "l",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Tempus per Annum / Ad Invitatorium",
+      "hour": "inv",
+      "variant": "Hebdomadae I et III",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Tempus per Annum / Ad Invitatorium",
+      "hour": "inv",
+      "variant": "Hebdomadae II et IV",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Tempus per Annum / Hebdomadae I et III / Dominica",
+      "hour": "hm",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Tempus per Annum / Hebdomadae II et IV / Dominica",
+      "hour": "inv",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Tempus per Annum / Hebdomadae II et IV / Dominica",
+      "hour": "hm",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    },
+    {
+      "section": "Tempus per Annum / Hebdomadae II et IV / Dominica",
+      "hour": "v2",
+      "variant": "",
+      "status": "no-local-candidate",
+      "candidates": []
+    }
+  ]
+}

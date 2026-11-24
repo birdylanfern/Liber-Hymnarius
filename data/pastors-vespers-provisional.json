@@ -1,0 +1,17 @@
+{
+  "status": "UNCHECKED",
+  "changes": [
+    {
+      "id": 17946,
+      "variant": "pro uno pastore",
+      "page": 297,
+      "reason": "Vir celse forma fulgida addresses one pastor; GregoBase Liber Hymnarius p. 297; exact rubric not independently verified."
+    },
+    {
+      "id": 17949,
+      "variant": "pro pluribus pastoribus",
+      "page": 299,
+      "reason": "Sacrata nobis gaudia addresses duces ovilium (plural); GregoBase Liber Hymnarius p. 299; exact rubric not independently verified."
+    }
+  ]
+}

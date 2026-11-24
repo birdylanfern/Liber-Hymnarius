@@ -1,0 +1,20 @@
+{
+  "catalogueRecords": 508,
+  "uniqueReferencedGabc": 499,
+  "slotRows": 429,
+  "errors": [],
+  "warnings": [
+    "No conventional clef found: gabc/hymns/gregobase-liber/gb-17969.gabc",
+    "No conventional clef found: gabc/hymns/gregobase-liber/gb-16832.gabc",
+    "No conventional clef found: gabc/hymns/verified-crossrefs/ordinary-24-f3-n.gabc",
+    "No conventional clef found: gabc/hymns/verified-crossrefs/ordinary-24-f4-n.gabc",
+    "No conventional clef found: gabc/hymns/verified-crossrefs/ordinary-24-f5-n.gabc",
+    "No conventional clef found: gabc/hymns/verified-crossrefs/ordinary-24-f6-n.gabc",
+    "No final double bar found: gabc/hymns/gregobase-liber/gb-15508.gabc",
+    "No final double bar found: gabc/hymns/gregobase-liber/gb-7669.gabc",
+    "No final double bar found: gabc/hymns/gregobase-liber/gb-16356.gabc",
+    "No final double bar found: gabc/hymns/gregobase-liber/gb-9664.gabc",
+    "No final double bar found: gabc/hymns/gregobase-liber/gb-15059.gabc",
+    "No final double bar found: gabc/common/ps--venite_exsultemus_94--4.gabc"
+  ]
+}

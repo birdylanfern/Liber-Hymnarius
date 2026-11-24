@@ -1,0 +1,16 @@
+
+> cantus-simplex-hymni@1.0.0 reconcile:all
+> node tools/reconcile-all-slots.js
+
+{
+  "sourceFiles": 491,
+  "definedSlots": 429,
+  "populated": 330,
+  "unfilled": 99,
+  "needsVariantOrRubric": 9,
+  "needsHourIdentification": 12,
+  "noLocalCandidate": 78,
+  "assignedFiles": 388,
+  "unassignedFiles": 91,
+  "uncheckedAssignedSlots": 23
+}

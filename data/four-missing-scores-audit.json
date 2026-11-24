@@ -1,0 +1,53 @@
+{
+  "totalScanned": 486,
+  "targets": [
+    {
+      "category": "s-03-19",
+      "slot": "inv",
+      "expected": "Laudemus Deum nostrum in solemnitate beati Ioseph",
+      "page": 357,
+      "localTitleMatches": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-10451.gabc",
+          "name": "Laudemus Deum nostrum",
+          "page": 556
+        }
+      ],
+      "confirmedScore": null,
+      "decision": "NOT IMPORTED: matching title alone is insufficient; compare feast, printed page, and melody."
+    },
+    {
+      "category": "s-03-19",
+      "slot": "l",
+      "expected": "Caelitum Ioseph",
+      "page": 358,
+      "localTitleMatches": [],
+      "confirmedScore": null,
+      "decision": "NOT IMPORTED: matching title alone is insufficient; compare feast, printed page, and melody."
+    },
+    {
+      "category": "pentecostes",
+      "slot": "l",
+      "expected": "Beata nobis gaudia",
+      "page": 99,
+      "localTitleMatches": [],
+      "confirmedScore": null,
+      "decision": "NOT IMPORTED: matching title alone is insufficient; compare feast, printed page, and melody."
+    },
+    {
+      "category": "s-01-25",
+      "slot": "inv",
+      "expected": "Laudemus Deum nostrum in conversione Doctoris gentium",
+      "page": 342,
+      "localTitleMatches": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-10451.gabc",
+          "name": "Laudemus Deum nostrum",
+          "page": 556
+        }
+      ],
+      "confirmedScore": null,
+      "decision": "NOT IMPORTED: matching title alone is insufficient; compare feast, printed page, and melody."
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "category": "pa-13-dom",
+    "name": "Primo dierum",
+    "file": "gabc/hymns/gregobase-liber/gb-4556.gabc",
+    "variant": "noctu",
+    "printedPage": 183,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-dom",
+    "name": "Dies aetasque",
+    "file": "gabc/hymns/gregobase-liber/gb-10515.gabc",
+    "variant": "diurno",
+    "printedPage": 183,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-dom",
+    "name": "Dies aetasque (+rhythmic signs)",
+    "file": "gabc/hymns/gregobase-liber/gb-15628.gabc",
+    "variant": "diurno",
+    "printedPage": 183,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f2",
+    "name": "Somno refectis",
+    "file": "gabc/hymns/gregobase-liber/gb-4558.gabc",
+    "variant": "noctu",
+    "printedPage": 190,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f2",
+    "name": "Somno refectis (+rhythmic signs)",
+    "file": "gabc/hymns/gregobase-liber/gb-15627.gabc",
+    "variant": "noctu",
+    "printedPage": 190,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f2",
+    "name": "Aeterna lux divinitas",
+    "file": "gabc/hymns/gregobase-liber/gb-15607.gabc",
+    "variant": "diurno",
+    "printedPage": 190,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f3",
+    "name": "Consors paterni",
+    "file": "gabc/hymns/gregobase-liber/gb-4559.gabc",
+    "variant": "noctu",
+    "printedPage": 196,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f3",
+    "name": "Consors paterni (+rhythmic signs)",
+    "file": "gabc/hymns/gregobase-liber/gb-15616.gabc",
+    "variant": "noctu",
+    "printedPage": 196,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f3",
+    "name": "O sacrosancta Trinitas",
+    "file": "gabc/hymns/gregobase-liber/gb-15617.gabc",
+    "variant": "diurno",
+    "printedPage": 196,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f4",
+    "name": "Rerum creator (+rhythmic signs)",
+    "file": "gabc/hymns/gregobase-liber/gb-15618.gabc",
+    "variant": "noctu",
+    "printedPage": 198,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f4",
+    "name": "Rerum creator optime",
+    "file": "gabc/hymns/gregobase-liber/gb-19840.gabc",
+    "variant": "noctu",
+    "printedPage": 198,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f4",
+    "name": "Rerum creator optime",
+    "file": "gabc/hymns/gregobase-liber/gb-4560.gabc",
+    "variant": "noctu",
+    "printedPage": 198,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f4",
+    "name": "Scientiarum Domino",
+    "file": "gabc/hymns/gregobase-liber/gb-15619.gabc",
+    "variant": "diurno",
+    "printedPage": 199,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f5",
+    "name": "Nox atra rerum",
+    "file": "gabc/hymns/gregobase-liber/gb-4561.gabc",
+    "variant": "noctu",
+    "printedPage": 201,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f5",
+    "name": "Nox atra rerum (+rhythmic signs)",
+    "file": "gabc/hymns/gregobase-liber/gb-15620.gabc",
+    "variant": "noctu",
+    "printedPage": 201,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f5",
+    "name": "Christe precamur",
+    "file": "gabc/hymns/gregobase-liber/gb-15621.gabc",
+    "variant": "diurno",
+    "printedPage": 201,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f6",
+    "name": "Tu Trinitatis Unitas",
+    "file": "gabc/hymns/gregobase-liber/gb-4562.gabc",
+    "variant": "noctu",
+    "printedPage": 203,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f6",
+    "name": "Adesto Christe (+rhythmic signs)",
+    "file": "gabc/hymns/gregobase-liber/gb-15623.gabc",
+    "variant": "diurno",
+    "printedPage": 204,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-f6",
+    "name": "Adesto Christe cordibus",
+    "file": "gabc/hymns/gregobase-liber/gb-10449.gabc",
+    "variant": "diurno",
+    "printedPage": 204,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-sab",
+    "name": "Summae Deus (+rhythmic signs)",
+    "file": "gabc/hymns/gregobase-liber/gb-15625.gabc",
+    "variant": "noctu",
+    "printedPage": 206,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-sab",
+    "name": "Summae Deus clementiae",
+    "file": "gabc/hymns/gregobase-liber/gb-4563.gabc",
+    "variant": "noctu",
+    "printedPage": 206,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-13-sab",
+    "name": "Auctor perennis",
+    "file": "gabc/hymns/gregobase-liber/gb-15624.gabc",
+    "variant": "diurno",
+    "printedPage": 206,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-dom",
+    "name": "Mediae noctis",
+    "file": "gabc/hymns/gregobase-liber/gb-4610.gabc",
+    "variant": "noctu",
+    "printedPage": 209,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-dom",
+    "name": "Salve dies dierum",
+    "file": "gabc/hymns/gregobase-liber/gb-10458.gabc",
+    "variant": "diurno",
+    "printedPage": 210,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f2",
+    "name": "Ipsum nunc nobis",
+    "file": "gabc/hymns/gregobase-liber/gb-4615.gabc",
+    "variant": "noctu",
+    "printedPage": 217,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f2",
+    "name": "Ipsum nunc nobis tempus est (textus amplior)",
+    "file": "gabc/hymns/gregobase-liber/gb-19491.gabc",
+    "variant": "noctu",
+    "printedPage": 217,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f2",
+    "name": "Vita sanctorum",
+    "file": "gabc/hymns/gregobase-liber/gb-16745.gabc",
+    "variant": "diurno",
+    "printedPage": 217,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f3",
+    "name": "Nocte surgentes",
+    "file": "gabc/hymns/gregobase-liber/gb-4616.gabc",
+    "variant": "noctu",
+    "printedPage": 224,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f3",
+    "name": "Ad preces nostras",
+    "file": "gabc/hymns/gregobase-liber/gb-10445.gabc",
+    "variant": "diurno",
+    "printedPage": 225,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f4",
+    "name": "O sator rerum",
+    "file": "gabc/hymns/gregobase-liber/gb-4617.gabc",
+    "variant": "noctu",
+    "printedPage": 228,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f4",
+    "name": "Christe lux vera",
+    "file": "gabc/hymns/gregobase-liber/gb-10444.gabc",
+    "variant": "diurno",
+    "printedPage": 229,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f5",
+    "name": "Ales diei nuntius",
+    "file": "gabc/hymns/gregobase-liber/gb-4618.gabc",
+    "variant": "noctu",
+    "printedPage": 232,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f5",
+    "name": "Amoris sensus erige",
+    "file": "gabc/hymns/gregobase-liber/gb-10447.gabc",
+    "variant": "diurno",
+    "printedPage": 233,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f6",
+    "name": "Galli cantu",
+    "file": "gabc/hymns/gregobase-liber/gb-4620.gabc",
+    "variant": "noctu",
+    "printedPage": 234,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-f6",
+    "name": "Adesto rerum conditor",
+    "file": "gabc/hymns/gregobase-liber/gb-16749.gabc",
+    "variant": "diurno",
+    "printedPage": 235,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-sab",
+    "name": "Lux aeterna",
+    "file": "gabc/hymns/gregobase-liber/gb-4621.gabc",
+    "variant": "noctu",
+    "printedPage": 237,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  },
+  {
+    "category": "pa-24-sab",
+    "name": "Deus de nullo veniens",
+    "file": "gabc/hymns/gregobase-liber/gb-16750.gabc",
+    "variant": "diurno",
+    "printedPage": 238,
+    "source": "Liber Hymnarius 1983 printed rubric"
+  }
+]

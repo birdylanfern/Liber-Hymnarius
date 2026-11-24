@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-11-23",
+  "results": [
+    {
+      "slot": "St Joseph — Invitatory",
+      "page": 357,
+      "filename": "joseph-invitatory.gabc",
+      "status": "Feast-specific text required; source ID not verified",
+      "sourceUrl": null,
+      "localFile": "gabc/hymns/gregobase-external/candidate-joseph-invitatory.gabc",
+      "imported": false
+    },
+    {
+      "slot": "St Joseph — Lauds",
+      "page": 358,
+      "filename": "joseph-lauds.gabc",
+      "gregobaseId": 17643,
+      "sourceEdition": "Liber Hymnarius 2019",
+      "status": "1983 melody comparison required",
+      "sourceUrl": "https://gregobase.selapa.net/chant.php?id=17643",
+      "localFile": "gabc/hymns/gregobase-external/candidate-joseph-lauds.gabc",
+      "imported": false
+    },
+    {
+      "slot": "Pentecost — Lauds",
+      "page": 99,
+      "filename": "pentecost-lauds.gabc",
+      "gregobaseId": 11858,
+      "alternateId": 9146,
+      "sourceEdition": "Liber Usualis 1961 / Antiphonale Monasticum 1934",
+      "status": "1983 melody comparison required",
+      "sourceUrl": "https://gregobase.selapa.net/chant.php?id=11858",
+      "localFile": "gabc/hymns/gregobase-external/candidate-pentecost-lauds.gabc",
+      "imported": false
+    },
+    {
+      "slot": "Conversion of St Paul — Invitatory",
+      "page": 342,
+      "filename": "paul-invitatory.gabc",
+      "status": "Feast-specific text required; source ID not verified",
+      "sourceUrl": null,
+      "localFile": "gabc/hymns/gregobase-external/candidate-paul-invitatory.gabc",
+      "imported": false
+    }
+  ]
+}

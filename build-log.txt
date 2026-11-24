@@ -1,0 +1,19 @@
+
+> cantus-simplex-hymni@1.0.0 build
+> node tools/build-index.js
+
+warning: hymns/gregobase-liber/gb-14258.gabc: "v" has several variants in "paschale-post-asc"; add a variant: field
+warning: hymns/gregobase-liber/gb-15622.gabc: "ol" has several variants in "pa-13-f6"; add a variant: field
+warning: hymns/gregobase-liber/gb-16057.gabc: "l" has several variants in "c-mulieres"; add a variant: field
+warning: hymns/gregobase-liber/gb-16123.gabc: "s-12-08" has no v slot (listed there anyway)
+warning: hymns/gregobase-liber/gb-16851.gabc: "v" has several variants in "c-bmv-commune"; add a variant: field
+warning: hymns/gregobase-liber/gb-17946.gabc: "v" has several variants in "c-pastores"; add a variant: field
+warning: hymns/gregobase-liber/gb-19794.gabc: "v" has several variants in "quadragesima-hebd1-5"; add a variant: field
+warning: hymns/gregobase-liber/gb-20572.gabc: "v" has several variants in "quadragesima-hebd1-5"; add a variant: field
+warning: hymns/gregobase-liber/gb-20870.gabc: "inv" has several variants in "c-doctores"; add a variant: field
+warning: hymns/gregobase-liber/gb-20895.gabc: "s-09-14" has no inv slot (listed there anyway)
+warning: hymns/gregobase-liber/gb-4515.gabc: "v" has several variants in "paschale-post-asc"; add a variant: field
+warning: hymns/gregobase-liber/gb-4603.gabc: "v" has several variants in "c-viri"; add a variant: field
+warning: hymns/gregobase-liber/gb-8243.gabc: "s-12-08" has no ol slot (listed there anyway)
+warning: hymns/gregobase-liber/gb-8829.gabc: "l" has several variants in "c-viri"; add a variant: field
+Indexed 0 Graduale Simplex chants and 491 hymns → data/index.json

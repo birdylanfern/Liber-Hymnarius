@@ -1,0 +1,26 @@
+{
+  "explicit_psalm94_scores": [
+    "gabc/common/ps--venite_exsultemus_94--4.gabc",
+    "gabc/common/ps--venite_exsultemus_94--5.gabc",
+    "gabc/common/ps--venite_exsultemus_94--6.gabc"
+  ],
+  "other_files_containing_venite_and_exsul": [
+    "gabc/hymns/gregobase-liber/gb-15059.gabc",
+    "gabc/hymns/gregobase-liber/gb-10397.gabc",
+    "gabc/hymns/gregobase-liber/gb-16685.gabc",
+    "gabc/hymns/gregobase-liber/gb-9707.gabc",
+    "gabc/hymns/gregobase-liber/gb-20697.gabc",
+    "gabc/hymns/gregobase-liber/gb-10035.gabc",
+    "gabc/hymns/gregobase-liber/gb-16592.gabc",
+    "gabc/hymns/gregobase-liber/gb-7669.gabc",
+    "gabc/hymns/gregobase-liber/gb-9664.gabc",
+    "gabc/hymns/gregobase-liber/gb-8218.gabc",
+    "gabc/hymns/gregobase-liber/gb-9642.gabc",
+    "gabc/hymns/gregobase-liber/gb-15508.gabc",
+    "gabc/hymns/gregobase-liber/gb-10248.gabc",
+    "gabc/hymns/gregobase-liber/gb-15595.gabc",
+    "gabc/hymns/gregobase-liber/gb-16356.gabc",
+    "gabc/hymns/gregobase-liber/gb-9834.gabc"
+  ],
+  "caution": "Other files may contain antiphon phrases, not complete psalm tones."
+}

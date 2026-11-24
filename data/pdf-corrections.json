@@ -1,0 +1,487 @@
+{
+  "reference": "1983 Liber Hymnarius scanned PDF",
+  "corrections": [
+    {
+      "name": "Certum tenentes ordinem (T Adventus)",
+      "page": 12,
+      "previousHour": "",
+      "newHour": "t",
+      "file": "gabc/hymns/gregobase-liber/gb-4238.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "Christe qui splendor (Tempore Adventus post diem 16 decembris)",
+      "page": 9,
+      "previousHour": "",
+      "newHour": "c",
+      "file": "gabc/hymns/gregobase-liber/gb-4685.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "Christus natus est nobis",
+      "page": 16,
+      "previousHour": "",
+      "newHour": "inv",
+      "file": "gabc/hymns/gregobase-liber/gb-18100.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "Christus natus est nobis",
+      "page": 19,
+      "previousHour": "",
+      "newHour": "inv",
+      "file": "gabc/hymns/gregobase-liber/gb-19800.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "Hodie scietis (ad invitatorium)",
+      "page": 10,
+      "previousHour": "",
+      "newHour": "inv",
+      "file": "gabc/hymns/gregobase-liber/gb-16079.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "O lux beata Caelitum",
+      "page": 26,
+      "previousHour": "",
+      "newHour": "v",
+      "file": "gabc/hymns/gregobase-liber/gb-14250.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "Prope est iam Dominus (In dominica)",
+      "page": 10,
+      "previousHour": "",
+      "newHour": "inv",
+      "file": "gabc/hymns/gregobase-liber/gb-19798.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "Prope est iam Dominus (In feriis)",
+      "page": 10,
+      "previousHour": "",
+      "newHour": "inv",
+      "file": "gabc/hymns/gregobase-liber/gb-19799.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "Rerum Deus tenax vigor (tempus nativitas)",
+      "page": 25,
+      "previousHour": "",
+      "newHour": "n",
+      "file": "gabc/hymns/gregobase-liber/gb-19802.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "Te lucis ante terminum (In Nativitate Domini)",
+      "page": 16,
+      "previousHour": "",
+      "newHour": "c",
+      "file": "gabc/hymns/gregobase-liber/gb-8892.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    },
+    {
+      "name": "Verbum salutis omnium",
+      "page": 9,
+      "previousHour": "",
+      "newHour": "v",
+      "file": "gabc/hymns/gregobase-liber/gb-14187.gabc",
+      "basis": "Printed PDF page and hymn heading"
+    }
+  ],
+  "remainingPageSuggestions": [
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15623.gabc",
+      "page": 204,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20348.gabc",
+      "page": 125,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15601.gabc",
+      "page": 184,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19477.gabc",
+      "page": 184,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15366.gabc",
+      "page": 98,
+      "suggestedHour": "inv",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19801.gabc",
+      "page": 91,
+      "suggestedHour": "inv",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19352.gabc",
+      "page": 72,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16814.gabc",
+      "page": 219,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16816.gabc",
+      "page": 220,
+      "suggestedHour": "t",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16815.gabc",
+      "page": 219,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16813.gabc",
+      "page": 213,
+      "suggestedHour": "t",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7291.gabc",
+      "page": 83,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7517.gabc",
+      "page": 243,
+      "suggestedHour": "c",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7518.gabc",
+      "page": 243,
+      "suggestedHour": "c",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7515.gabc",
+      "page": 244,
+      "suggestedHour": "c",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7519.gabc",
+      "page": 243,
+      "suggestedHour": "c",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16706.gabc",
+      "page": 244,
+      "suggestedHour": "c",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19803.gabc",
+      "page": 44,
+      "suggestedHour": "v",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15616.gabc",
+      "page": 196,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-10171.gabc",
+      "page": 118,
+      "suggestedHour": "v",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15456.gabc",
+      "page": 106,
+      "suggestedHour": "v",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16820.gabc",
+      "page": 220,
+      "suggestedHour": "t",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16825.gabc",
+      "page": 221,
+      "suggestedHour": "s",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16824.gabc",
+      "page": 221,
+      "suggestedHour": "s",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16819.gabc",
+      "page": 214,
+      "suggestedHour": "s",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15628.gabc",
+      "page": 183,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20353.gabc",
+      "page": 128,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20352.gabc",
+      "page": 126,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20354.gabc",
+      "page": 129,
+      "suggestedHour": "v",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19480.gabc",
+      "page": 212,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-17812.gabc",
+      "page": 101,
+      "suggestedHour": "t",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15488.gabc",
+      "page": 85,
+      "suggestedHour": "t",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-8737.gabc",
+      "page": 120,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15084.gabc",
+      "page": 77,
+      "suggestedHour": "c",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16103.gabc",
+      "page": 124,
+      "suggestedHour": "inv",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19491.gabc",
+      "page": 217,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-10293.gabc",
+      "page": 81,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-8699.gabc",
+      "page": 33,
+      "suggestedHour": "inv",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15620.gabc",
+      "page": 201,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-18011.gabc",
+      "page": 192,
+      "suggestedHour": "t",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20935.gabc",
+      "page": 186,
+      "suggestedHour": "t",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-4557.gabc",
+      "page": 192,
+      "suggestedHour": "t",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-10363.gabc",
+      "page": 113,
+      "suggestedHour": "inv",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-8671.gabc",
+      "page": 110,
+      "suggestedHour": "v",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-18013.gabc",
+      "page": 187,
+      "suggestedHour": "s",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15609.gabc",
+      "page": 193,
+      "suggestedHour": "s",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19203.gabc",
+      "page": 193,
+      "suggestedHour": "s",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19852.gabc",
+      "page": 193,
+      "suggestedHour": "s",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15618.gabc",
+      "page": 198,
+      "suggestedHour": "v",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-4629.gabc",
+      "page": 188,
+      "suggestedHour": "n",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15610.gabc",
+      "page": 194,
+      "suggestedHour": "n",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19204.gabc",
+      "page": 194,
+      "suggestedHour": "n",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19853.gabc",
+      "page": 194,
+      "suggestedHour": "n",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20295.gabc",
+      "page": 188,
+      "suggestedHour": "n",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15631.gabc",
+      "page": 202,
+      "suggestedHour": "l",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15627.gabc",
+      "page": 190,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15625.gabc",
+      "page": 206,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7290.gabc",
+      "page": 79,
+      "suggestedHour": "inv",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16830.gabc",
+      "page": 221,
+      "suggestedHour": "s",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16832.gabc",
+      "page": 222,
+      "suggestedHour": "n",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16831.gabc",
+      "page": 222,
+      "suggestedHour": "n",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16829.gabc",
+      "page": 215,
+      "suggestedHour": "n",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15622.gabc",
+      "page": 203,
+      "suggestedHour": "ol",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19794.gabc",
+      "page": 58,
+      "suggestedHour": "n",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20572.gabc",
+      "page": 59,
+      "suggestedHour": "v",
+      "reason": "Page-level suggestion only; not applied without title verification"
+    }
+  ],
+  "removedProvisionalPlaceholders": 200,
+  "policy": "Do not fill empty liturgical slots with unrelated scores; show missing entries explicitly. PDF page numbers alone are insufficient for verification."
+}

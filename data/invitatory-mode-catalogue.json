@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Adoremus Dominum qui fecit",
+    "id": "hymns/gregobase-liber/gb-15598",
+    "file": "gabc/hymns/gregobase-liber/gb-15598.gabc",
+    "original_mode": "e",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 180"
+  },
+  {
+    "name": "Agnum Dei quem laetus;",
+    "id": "hymns/gregobase-liber/gb-15664",
+    "file": "gabc/hymns/gregobase-liber/gb-15664.gabc",
+    "original_mode": "7",
+    "mode_family": "7",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 384"
+  },
+  {
+    "name": "Alleluia spiritus Domini replevit",
+    "id": "hymns/gregobase-liber/gb-15366",
+    "file": "gabc/hymns/gregobase-liber/gb-15366.gabc",
+    "original_mode": "5",
+    "mode_family": "5",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 98"
+  },
+  {
+    "name": "Alleluia, Christum Dominum ascendentem in caelum",
+    "id": "hymns/gregobase-liber/gb-19801",
+    "file": "gabc/hymns/gregobase-liber/gb-19801.gabc",
+    "original_mode": "5",
+    "mode_family": "5",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 91"
+  },
+  {
+    "name": "Christum Dei Filium qui suo",
+    "id": "hymns/gregobase-liber/gb-16425",
+    "file": "gabc/hymns/gregobase-liber/gb-16425.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 67"
+  },
+  {
+    "name": "Christum Dei Filium qui suo",
+    "id": "hymns/gregobase-liber/gb-7281",
+    "file": "gabc/hymns/gregobase-liber/gb-7281.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 67"
+  },
+  {
+    "name": "Christum Dominum",
+    "id": "hymns/gregobase-liber/gb-7270",
+    "file": "gabc/hymns/gregobase-liber/gb-7270.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 52"
+  },
+  {
+    "name": "Christum Dominum pro nobis passum et sepultum",
+    "id": "hymns/christum-dominum-passum-user-supplied",
+    "file": "gabc/hymns/christum-dominum-passum-user-supplied.gabc",
+    "original_mode": "4 *",
+    "mode_family": "IV",
+    "variant": "starred",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 69"
+  },
+  {
+    "name": "Christum Filium dilectum",
+    "id": "hymns/gregobase-liber/gb-19803",
+    "file": "gabc/hymns/gregobase-liber/gb-19803.gabc",
+    "original_mode": "7",
+    "mode_family": "7",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 44"
+  },
+  {
+    "name": "Christum Mariae Filium",
+    "id": "hymns/gregobase-liber/gb-20911",
+    "file": "gabc/hymns/gregobase-liber/gb-20911.gabc",
+    "original_mode": "5",
+    "mode_family": "5",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 254"
+  },
+  {
+    "name": "Christum Mariae Filium (TP)",
+    "id": "hymns/gregobase-liber/gb-20912",
+    "file": "gabc/hymns/gregobase-liber/gb-20912.gabc",
+    "original_mode": "6",
+    "mode_family": "6",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 255"
+  },
+  {
+    "name": "Christum natum, qui Innocentes",
+    "id": "hymns/gregobase-liber/gb-16691",
+    "file": "gabc/hymns/gregobase-liber/gb-16691.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 484"
+  },
+  {
+    "name": "Christum regem pro nobis",
+    "id": "hymns/gregobase-liber/gb-20895",
+    "file": "gabc/hymns/gregobase-liber/gb-20895.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 431"
+  },
+  {
+    "name": "Christus natus est nobis",
+    "id": "hymns/gregobase-liber/gb-18100",
+    "file": "gabc/hymns/gregobase-liber/gb-18100.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 16"
+  },
+  {
+    "name": "Christus natus est nobis",
+    "id": "hymns/gregobase-liber/gb-19800",
+    "file": "gabc/hymns/gregobase-liber/gb-19800.gabc",
+    "original_mode": "e",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 19"
+  },
+  {
+    "name": "Cor Iesu amore nostri vulneratum",
+    "id": "hymns/cor-iesu-invitatory-user-supplied",
+    "file": "gabc/hymns/cor-iesu-invitatory-user-supplied.gabc",
+    "original_mode": "4*",
+    "mode_family": "IV",
+    "variant": "starred",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 118"
+  },
+  {
+    "name": "Deum verum",
+    "id": "hymns/gregobase-liber/gb-15456",
+    "file": "gabc/hymns/gregobase-liber/gb-15456.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 106"
+  },
+  {
+    "name": "Dominum Deum nostrum",
+    "id": "hymns/gregobase-liber/gb-15599",
+    "file": "gabc/hymns/gregobase-liber/gb-15599.gabc",
+    "original_mode": "e",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 180"
+  },
+  {
+    "name": "Dominum qui fecit nos",
+    "id": "hymns/gregobase-liber/gb-15597",
+    "file": "gabc/hymns/gregobase-liber/gb-15597.gabc",
+    "original_mode": "6",
+    "mode_family": "6",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 179"
+  },
+  {
+    "name": "Festivitatem Virginis Mariae",
+    "id": "hymns/gregobase-liber/gb-20913",
+    "file": "gabc/hymns/gregobase-liber/gb-20913.gabc",
+    "original_mode": "2",
+    "mode_family": "2",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 255"
+  },
+  {
+    "name": "Fontem sapientiae",
+    "id": "hymns/gregobase-liber/gb-20870",
+    "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 301"
+  },
+  {
+    "name": "Hodie scietis (ad invitatorium)",
+    "id": "hymns/gregobase-liber/gb-16079",
+    "file": "gabc/hymns/gregobase-liber/gb-16079.gabc",
+    "original_mode": "",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 10"
+  },
+  {
+    "name": "Hodie si vocem Domini",
+    "id": "hymns/gregobase-liber/gb-7276",
+    "file": "gabc/hymns/gregobase-liber/gb-7276.gabc",
+    "original_mode": "e",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 52"
+  },
+  {
+    "name": "Iesum Christum, regem regum",
+    "id": "hymns/gregobase-liber/gb-16103",
+    "file": "gabc/hymns/gregobase-liber/gb-16103.gabc",
+    "original_mode": "7",
+    "mode_family": "7",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 124"
+  },
+  {
+    "name": "Iubilemus Deo",
+    "id": "hymns/gregobase-liber/gb-4666",
+    "file": "gabc/hymns/gregobase-liber/gb-4666.gabc",
+    "original_mode": "6",
+    "mode_family": "6",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 179"
+  },
+  {
+    "name": "Laudemus Deum nostrum in conversione Doctoris gentium",
+    "id": "hymns/laudemus-deum-conversione-pauli-user-supplied",
+    "file": "gabc/hymns/laudemus-deum-conversione-pauli-user-supplied.gabc",
+    "original_mode": "2",
+    "mode_family": "2",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 342"
+  },
+  {
+    "name": "Laudemus Deum nostrum in sollemnitate beati Ioseph",
+    "id": "hymns/laudemus-deum-ioseph-user-supplied",
+    "file": "gabc/hymns/laudemus-deum-ioseph-user-supplied.gabc",
+    "original_mode": "2",
+    "mode_family": "2",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 357"
+  },
+  {
+    "name": "Maternitatem Virginis Mariae",
+    "id": "hymns/gregobase-liber/gb-8699",
+    "file": "gabc/hymns/gregobase-liber/gb-8699.gabc",
+    "original_mode": "2",
+    "mode_family": "2",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 33"
+  },
+  {
+    "name": "Mirabilem in sanctis",
+    "id": "hymns/gregobase-liber/gb-20882",
+    "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 311"
+  },
+  {
+    "name": "Panem vitae Christum Dominum",
+    "id": "hymns/gregobase-liber/gb-10363",
+    "file": "gabc/hymns/gregobase-liber/gb-10363.gabc",
+    "original_mode": "7",
+    "mode_family": "7",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 113"
+  },
+  {
+    "name": "Populus Domini",
+    "id": "hymns/gregobase-liber/gb-14205",
+    "file": "gabc/hymns/gregobase-liber/gb-14205.gabc",
+    "original_mode": "d",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 180"
+  },
+  {
+    "name": "Populus Domini",
+    "id": "hymns/gregobase-liber/gb-15600",
+    "file": "gabc/hymns/gregobase-liber/gb-15600.gabc",
+    "original_mode": "d",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 180"
+  },
+  {
+    "name": "Prope est iam Dominus (In dominica)",
+    "id": "hymns/gregobase-liber/gb-19798",
+    "file": "gabc/hymns/gregobase-liber/gb-19798.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 10"
+  },
+  {
+    "name": "Prope est iam Dominus (In feriis)",
+    "id": "hymns/gregobase-liber/gb-19799",
+    "file": "gabc/hymns/gregobase-liber/gb-19799.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 10"
+  },
+  {
+    "name": "Regem Apostolorum",
+    "id": "hymns/gregobase-liber/gb-10398",
+    "file": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+    "original_mode": "3",
+    "mode_family": "3",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 266"
+  },
+  {
+    "name": "Regem Apostolorum (mode IV*)",
+    "id": "hymns/gregobase-liber/gb-16675",
+    "file": "gabc/hymns/gregobase-liber/gb-16675.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 266"
+  },
+  {
+    "name": "Regem Apostolorum (Tempore paschali)",
+    "id": "hymns/gregobase-liber/gb-20880",
+    "file": "gabc/hymns/gregobase-liber/gb-20880.gabc",
+    "original_mode": "6",
+    "mode_family": "6",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 266"
+  },
+  {
+    "name": "Regem magnum",
+    "id": "hymns/gregobase-liber/gb-15596",
+    "file": "gabc/hymns/gregobase-liber/gb-15596.gabc",
+    "original_mode": "e",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 179"
+  },
+  {
+    "name": "Regem martyrum Dominum",
+    "id": "hymns/gregobase-liber/gb-10558",
+    "file": "gabc/hymns/gregobase-liber/gb-10558.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 273"
+  },
+  {
+    "name": "Regem martyrum Dominum (memoria)",
+    "id": "hymns/gregobase-liber/gb-20901",
+    "file": "gabc/hymns/gregobase-liber/gb-20901.gabc",
+    "original_mode": "e",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 273"
+  },
+  {
+    "name": "Regem venturum Dominum (In dominica)",
+    "id": "hymns/gregobase-liber/gb-8225",
+    "file": "gabc/hymns/gregobase-liber/gb-8225.gabc",
+    "original_mode": "5",
+    "mode_family": "5",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 4"
+  },
+  {
+    "name": "Regem venturum Dominum (In feriis)",
+    "id": "hymns/gregobase-liber/gb-8226",
+    "file": "gabc/hymns/gregobase-liber/gb-8226.gabc",
+    "original_mode": "6",
+    "mode_family": "6",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 4"
+  },
+  {
+    "name": "Summum Regem",
+    "id": "hymns/gregobase-liber/gb-20833",
+    "file": "gabc/hymns/gregobase-liber/gb-20833.gabc",
+    "original_mode": "5",
+    "mode_family": "5",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 408"
+  },
+  {
+    "name": "Surrexit Dominus vere (Inv.)",
+    "id": "hymns/gregobase-liber/gb-7290",
+    "file": "gabc/hymns/gregobase-liber/gb-7290.gabc",
+    "original_mode": "6",
+    "mode_family": "6",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 79"
+  },
+  {
+    "name": "Venite adoremus Regem",
+    "id": "hymns/gregobase-liber/gb-15774",
+    "file": "gabc/hymns/gregobase-liber/gb-15774.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 415"
+  },
+  {
+    "name": "Venite exsultemus",
+    "id": "hymns/gregobase-liber/gb-15595",
+    "file": "gabc/hymns/gregobase-liber/gb-15595.gabc",
+    "original_mode": "e",
+    "mode_family": "unclassified",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 179"
+  },
+  {
+    "name": "Fontem sapientiae",
+    "id": "hymns/gregobase-liber/gb-20870--provisional-0",
+    "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 301"
+  },
+  {
+    "name": "Mirabilem in sanctis",
+    "id": "hymns/gregobase-liber/gb-20882--provisional-6",
+    "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+    "original_mode": "4",
+    "mode_family": "IV",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 311"
+  },
+  {
+    "name": "Regem Apostolorum",
+    "id": "hymns/gregobase-liber/gb-10398--provisional-7",
+    "file": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+    "original_mode": "3",
+    "mode_family": "3",
+    "variant": "unspecified",
+    "psalm94_pairing": "not independently verified",
+    "book": "Liber Hymnarius, 1983, p. 266"
+  }
+]

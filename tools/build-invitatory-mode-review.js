@@ -1,0 +1,5 @@
+const fs=require('fs'),path=require('path');
+const root=path.join(__dirname,'..');const data=JSON.parse(fs.readFileSync(path.join(root,'data/index.json')));
+const tones={'4':{label:'IV*',file:'gabc/common/ps--venite_exsultemus_94--4.gabc'},'5':{label:'V',file:'gabc/common/ps--venite_exsultemus_94--5.gabc'},'6':{label:'VI',file:'gabc/common/ps--venite_exsultemus_94--6.gabc'}};
+const entries=data.hymns.filter(x=>x.hour==='inv').map(x=>{const m=String(x.mode||'').match(/^([456])(?:\*|$)/);return {id:x.id,name:x.name,antiphonMode:x.mode||'',suggestedTone:m?tones[m[1]].label:null,sourceFile:x.file||'',status:m?'MODE-BASED CANDIDATE ONLY':'NO MATCHING LOCAL TONE'};});
+const out={notice:'A matching mode does not establish a liturgically correct psalm tone. These are suggestions only, not verified pairings.',total:entries.length,modeCandidates:entries.filter(x=>x.suggestedTone).length,entries};fs.writeFileSync(path.join(root,'data/invitatory-mode-review.json'),JSON.stringify(out,null,2)+'\n');console.log(out.total,out.modeCandidates);

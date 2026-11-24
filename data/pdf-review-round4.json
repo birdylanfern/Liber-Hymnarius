@@ -1,0 +1,26 @@
+{
+  "taxonomy_added": [
+    "triduum-feria6:inv",
+    "triduum-sabbatum:inv",
+    "c-bmv-commune:v:in sollemnitatibus",
+    "c-bmv-commune:v:in festis",
+    "c-bmv-commune:v:in memoriis"
+  ],
+  "variant_updates": [
+    {
+      "file": "gb-8878.gabc",
+      "variant": "in sollemnitatibus",
+      "printed_page": 258
+    },
+    {
+      "file": "gb-10617.gabc",
+      "variant": "in festis",
+      "printed_page": 259
+    },
+    {
+      "file": "gb-20950.gabc",
+      "variant": "in memoriis",
+      "printed_page": 260
+    }
+  ]
+}

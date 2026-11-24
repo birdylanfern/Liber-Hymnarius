@@ -1,0 +1,22 @@
+{
+  "changes": [
+    {
+      "gabc": "gb-14250.gabc",
+      "category": "sacra-familia",
+      "hour": "v12",
+      "printed_page": 26
+    },
+    {
+      "gabc": "gb-8699.gabc",
+      "category": "dei-genetrix",
+      "hour": "inv",
+      "printed_page": 33
+    }
+  ],
+  "taxonomy": [
+    "Holy Family: Vespers -> I et II Vesperae",
+    "Mother of God: Invitatory slot added",
+    "Remove artificial Hora media slots from generic seasonal DAY8 categories (retain Tertia, Sexta, Nona)"
+  ],
+  "evidence": "PDF printed pp. 26, 31-33 and seasonal headings on pp. 3-42"
+}

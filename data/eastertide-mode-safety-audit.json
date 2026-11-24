@@ -1,0 +1,24 @@
+{
+  "reference": "Liber Hymnarius 1983 printed pp. 301 and 311-312",
+  "rule": "Distinct Eastertide mode VI* with Alleluia; mode IV ordinary setting is not interchangeable",
+  "results": [
+    {
+      "cat": "c-doctores",
+      "slot": "inv|fontem sapientiae in tempore paschali",
+      "title": "Fontem sapientiae",
+      "mode": "6",
+      "page": 301,
+      "status": "MISSING GABC",
+      "matches": []
+    },
+    {
+      "cat": "c-viri",
+      "slot": "inv|mirabilem in sanctis in tempore paschali",
+      "title": "Mirabilem in sanctis",
+      "mode": "6",
+      "page": 311,
+      "status": "MISSING GABC",
+      "matches": []
+    }
+  ]
+}

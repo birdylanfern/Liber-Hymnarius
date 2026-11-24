@@ -1,0 +1,27 @@
+hour: inv;
+category: pa-13-dom;
+provenance: gregobase-liber;
+source: https://gregobase.selapa.net/chant.php?id=15599;
+liber-page: 180;
+commentary: GregoBase transcription indexed under Liber Hymnarius (1983); not independently checked against the scan;
+name:Dominum Deum nostrum;
+office-part:Antiphona;
+mode:e;
+book:Liber Hymnarius, 1983, p. 180;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Dominum Deum nsotrum;
+book: Liber Hymnarius p. 180;
+occasion: Tempore Per Annum in Feriis VI;
+office-part: Ad Invitatorium;
+user-notes: ;
+commentary: ;
+annotation: E;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(f3) DO(e)mi(fg)num(g) De(gh)um(g) no(h)strum,(fgF_E_) (;) ve(gh)ní(i)te,(h) ad(ih)o(fg)ré(g.)mus.(g.) (::)

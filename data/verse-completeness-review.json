@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Adoremus Dominum qui fecit",
+    "id": "hymns/gregobase-liber/gb-15598",
+    "file": "gabc/hymns/gregobase-liber/gb-15598.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Agnum Dei quem laetus;",
+    "id": "hymns/gregobase-liber/gb-15664",
+    "file": "gabc/hymns/gregobase-liber/gb-15664.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Alleluia spiritus Domini replevit",
+    "id": "hymns/gregobase-liber/gb-15366",
+    "file": "gabc/hymns/gregobase-liber/gb-15366.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Alleluia, Christum Dominum ascendentem in caelum",
+    "id": "hymns/gregobase-liber/gb-19801",
+    "file": "gabc/hymns/gregobase-liber/gb-19801.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum Dei Filium qui suo",
+    "id": "hymns/gregobase-liber/gb-16425",
+    "file": "gabc/hymns/gregobase-liber/gb-16425.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum Dei Filium qui suo",
+    "id": "hymns/gregobase-liber/gb-7281",
+    "file": "gabc/hymns/gregobase-liber/gb-7281.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum Dominum",
+    "id": "hymns/gregobase-liber/gb-7270",
+    "file": "gabc/hymns/gregobase-liber/gb-7270.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum Dominum pro nobis passum et sepultum",
+    "id": "hymns/gregobase-liber/gb-19133",
+    "file": "gabc/hymns/gregobase-liber/gb-19133.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum Filium dilectum",
+    "id": "hymns/gregobase-liber/gb-19803",
+    "file": "gabc/hymns/gregobase-liber/gb-19803.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum Mariae Filium",
+    "id": "hymns/gregobase-liber/gb-20911",
+    "file": "gabc/hymns/gregobase-liber/gb-20911.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum Mariae Filium (TP)",
+    "id": "hymns/gregobase-liber/gb-20912",
+    "file": "gabc/hymns/gregobase-liber/gb-20912.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum natum",
+    "id": "hymns/gregobase-liber/gb-16620",
+    "file": "gabc/hymns/gregobase-liber/gb-16620.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum natum, qui Innocentes",
+    "id": "hymns/gregobase-liber/gb-16691",
+    "file": "gabc/hymns/gregobase-liber/gb-16691.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum pastorum principem",
+    "id": "hymns/gregobase-liber/gb-14154",
+    "file": "gabc/hymns/gregobase-liber/gb-14154.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum regem Filium David",
+    "id": "hymns/gregobase-liber/gb-19395",
+    "file": "gabc/hymns/gregobase-liber/gb-19395.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christum regem pro nobis",
+    "id": "hymns/gregobase-liber/gb-20895",
+    "file": "gabc/hymns/gregobase-liber/gb-20895.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christus natus est nobis",
+    "id": "hymns/gregobase-liber/gb-18100",
+    "file": "gabc/hymns/gregobase-liber/gb-18100.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Christus natus est nobis",
+    "id": "hymns/gregobase-liber/gb-19800",
+    "file": "gabc/hymns/gregobase-liber/gb-19800.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Comedetis carnes",
+    "id": "hymns/gregobase-liber/gb-10360",
+    "file": "gabc/hymns/gregobase-liber/gb-10360.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Comedétis carnes",
+    "id": "hymns/gregobase-liber/gb-16205",
+    "file": "gabc/hymns/gregobase-liber/gb-16205.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Cor Iesu amore nostri",
+    "id": "hymns/gregobase-liber/gb-10171",
+    "file": "gabc/hymns/gregobase-liber/gb-10171.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Deum qui glorificatur",
+    "id": "hymns/gregobase-liber/gb-16185",
+    "file": "gabc/hymns/gregobase-liber/gb-16185.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Deum verum",
+    "id": "hymns/gregobase-liber/gb-15456",
+    "file": "gabc/hymns/gregobase-liber/gb-15456.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Doctor insignis",
+    "id": "hymns/gregobase-liber/gb-20241",
+    "file": "gabc/hymns/gregobase-liber/gb-20241.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Dominum Deum nostrum",
+    "id": "hymns/gregobase-liber/gb-15599",
+    "file": "gabc/hymns/gregobase-liber/gb-15599.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Dominum qui fecit nos",
+    "id": "hymns/gregobase-liber/gb-15597",
+    "file": "gabc/hymns/gregobase-liber/gb-15597.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Ecce apparebit Dominus",
+    "id": "hymns/gregobase-liber/gb-16108",
+    "file": "gabc/hymns/gregobase-liber/gb-16108.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Fecunda sanctis insula",
+    "id": "hymns/gregobase-liber/gb-19325",
+    "file": "gabc/hymns/gregobase-liber/gb-19325.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Festivitatem Virginis Mariae",
+    "id": "hymns/gregobase-liber/gb-20913",
+    "file": "gabc/hymns/gregobase-liber/gb-20913.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Fontem sapientiae",
+    "id": "hymns/gregobase-liber/gb-20870",
+    "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Haec est dies",
+    "id": "hymns/gregobase-liber/gb-19561",
+    "file": "gabc/hymns/gregobase-liber/gb-19561.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Hodie nobis caelorum (Resp.)",
+    "id": "hymns/gregobase-liber/gb-16139",
+    "file": "gabc/hymns/gregobase-liber/gb-16139.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Hodie nobis de caelo",
+    "id": "hymns/gregobase-liber/gb-16360",
+    "file": "gabc/hymns/gregobase-liber/gb-16360.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Hodie scietis (ad invitatorium)",
+    "id": "hymns/gregobase-liber/gb-16079",
+    "file": "gabc/hymns/gregobase-liber/gb-16079.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Hodie si vocem Domini",
+    "id": "hymns/gregobase-liber/gb-7276",
+    "file": "gabc/hymns/gregobase-liber/gb-7276.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Iesum Christum, regem regum",
+    "id": "hymns/gregobase-liber/gb-16103",
+    "file": "gabc/hymns/gregobase-liber/gb-16103.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Immaculátam Conceptiónem Vírginis",
+    "id": "hymns/gregobase-liber/gb-16130",
+    "file": "gabc/hymns/gregobase-liber/gb-16130.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Iubilemus Deo",
+    "id": "hymns/gregobase-liber/gb-4666",
+    "file": "gabc/hymns/gregobase-liber/gb-4666.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Laudemus Deum nostrum",
+    "id": "hymns/gregobase-liber/gb-10451",
+    "file": "gabc/hymns/gregobase-liber/gb-10451.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Maternitatem Virginis Mariae",
+    "id": "hymns/gregobase-liber/gb-8699",
+    "file": "gabc/hymns/gregobase-liber/gb-8699.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Mirabilem in sanctis",
+    "id": "hymns/gregobase-liber/gb-20882",
+    "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Nihil inquinatum (Resp)",
+    "id": "hymns/gregobase-liber/gb-16135",
+    "file": "gabc/hymns/gregobase-liber/gb-16135.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Nunc sancte (Adv)",
+    "id": "hymns/gregobase-liber/gb-18010",
+    "file": "gabc/hymns/gregobase-liber/gb-18010.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Nunc Sancte (in Memoriis)",
+    "id": "hymns/gregobase-liber/gb-18011",
+    "file": "gabc/hymns/gregobase-liber/gb-18011.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Nunc Sancte nobis (in Feriis per annum)",
+    "id": "hymns/gregobase-liber/gb-4557",
+    "file": "gabc/hymns/gregobase-liber/gb-4557.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Panem vitae Christum Dominum",
+    "id": "hymns/gregobase-liber/gb-10363",
+    "file": "gabc/hymns/gregobase-liber/gb-10363.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Panem vitae, Christum Dóminum",
+    "id": "hymns/gregobase-liber/gb-16200",
+    "file": "gabc/hymns/gregobase-liber/gb-16200.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Populus Domini",
+    "id": "hymns/gregobase-liber/gb-14205",
+    "file": "gabc/hymns/gregobase-liber/gb-14205.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Populus Domini",
+    "id": "hymns/gregobase-liber/gb-15600",
+    "file": "gabc/hymns/gregobase-liber/gb-15600.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Prope est iam Dominus (In dominica)",
+    "id": "hymns/gregobase-liber/gb-19798",
+    "file": "gabc/hymns/gregobase-liber/gb-19798.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Prope est iam Dominus (In feriis)",
+    "id": "hymns/gregobase-liber/gb-19799",
+    "file": "gabc/hymns/gregobase-liber/gb-19799.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Rector potens (Adv.)",
+    "id": "hymns/gregobase-liber/gb-18012",
+    "file": "gabc/hymns/gregobase-liber/gb-18012.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Regem angelorum",
+    "id": "hymns/gregobase-liber/gb-7370",
+    "file": "gabc/hymns/gregobase-liber/gb-7370.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Regem Apostolorum",
+    "id": "hymns/gregobase-liber/gb-10398",
+    "file": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Regem Apostolorum (mode IV*)",
+    "id": "hymns/gregobase-liber/gb-16675",
+    "file": "gabc/hymns/gregobase-liber/gb-16675.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Regem Apostolorum (Tempore paschali)",
+    "id": "hymns/gregobase-liber/gb-20880",
+    "file": "gabc/hymns/gregobase-liber/gb-20880.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Regem magnum",
+    "id": "hymns/gregobase-liber/gb-15596",
+    "file": "gabc/hymns/gregobase-liber/gb-15596.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Regem martyrum Dominum",
+    "id": "hymns/gregobase-liber/gb-10558",
+    "file": "gabc/hymns/gregobase-liber/gb-10558.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Regem martyrum Dominum (memoria)",
+    "id": "hymns/gregobase-liber/gb-20901",
+    "file": "gabc/hymns/gregobase-liber/gb-20901.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Regem venturum Dominum (In dominica)",
+    "id": "hymns/gregobase-liber/gb-8225",
+    "file": "gabc/hymns/gregobase-liber/gb-8225.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Regem venturum Dominum (In feriis)",
+    "id": "hymns/gregobase-liber/gb-8226",
+    "file": "gabc/hymns/gregobase-liber/gb-8226.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Rerum Deus tenax (Adv.)",
+    "id": "hymns/gregobase-liber/gb-18015",
+    "file": "gabc/hymns/gregobase-liber/gb-18015.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Salvatorem mundi",
+    "id": "hymns/gregobase-liber/gb-20896",
+    "file": "gabc/hymns/gregobase-liber/gb-20896.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Summum Regem",
+    "id": "hymns/gregobase-liber/gb-20833",
+    "file": "gabc/hymns/gregobase-liber/gb-20833.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Surrexit Dominus vere (Inv.)",
+    "id": "hymns/gregobase-liber/gb-7290",
+    "file": "gabc/hymns/gregobase-liber/gb-7290.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Te decet laus",
+    "id": "hymns/gregobase-liber/gb-20754",
+    "file": "gabc/hymns/gregobase-liber/gb-20754.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Te lucis ante terminum (In Feriis per Annum)",
+    "id": "hymns/gregobase-liber/gb-4680",
+    "file": "gabc/hymns/gregobase-liber/gb-4680.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Te lucis ante terminum (In Memoriis)",
+    "id": "hymns/gregobase-liber/gb-4681",
+    "file": "gabc/hymns/gregobase-liber/gb-4681.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Te pater Ioseph",
+    "id": "hymns/gregobase-liber/gb-15727",
+    "file": "gabc/hymns/gregobase-liber/gb-15727.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Venite adoremus Regem",
+    "id": "hymns/gregobase-liber/gb-15774",
+    "file": "gabc/hymns/gregobase-liber/gb-15774.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Venite exsultemus",
+    "id": "hymns/gregobase-liber/gb-15595",
+    "file": "gabc/hymns/gregobase-liber/gb-15595.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Nunc sancte (Adv)",
+    "id": "unchecked/triduum-feria6/t",
+    "file": "gabc/hymns/gregobase-liber/gb-18010.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Rector potens (Adv.)",
+    "id": "unchecked/triduum-feria6/s",
+    "file": "gabc/hymns/gregobase-liber/gb-18012.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Rerum Deus tenax (Adv.)",
+    "id": "unchecked/triduum-feria6/n",
+    "file": "gabc/hymns/gregobase-liber/gb-18015.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Te pater Ioseph",
+    "id": "unchecked/s-05-01/inv",
+    "file": "gabc/hymns/gregobase-liber/gb-15727.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Te pater Ioseph",
+    "id": "unchecked/s-05-26/lv",
+    "file": "gabc/hymns/gregobase-liber/gb-15727.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  },
+  {
+    "name": "Te pater Ioseph",
+    "id": "unchecked/s-05-27/vv",
+    "file": "gabc/hymns/gregobase-liber/gb-15727.gabc",
+    "reason": "short GABC without a second numbered stanza; needs manual review"
+  }
+]

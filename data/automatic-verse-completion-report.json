@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hymns/gregobase-liber/gb-16186",
+    "sourceId": "hymns/gregobase-liber/gb-11256",
+    "stanzas": 4,
+    "status": "additional text available; musical setting unverified"
+  },
+  {
+    "id": "hymns/gregobase-liber/gb-17961",
+    "sourceId": "hymns/gregobase-liber/gb-11245",
+    "stanzas": 6,
+    "status": "additional text available; musical setting unverified"
+  },
+  {
+    "id": "hymns/gregobase-liber/gb-15605",
+    "sourceId": "hymns/gregobase-liber/gb-19357",
+    "stanzas": 5,
+    "status": "additional text available; musical setting unverified"
+  },
+  {
+    "id": "hymns/gregobase-liber/gb-18003",
+    "sourceId": "hymns/gregobase-liber/gb-20038",
+    "stanzas": 5,
+    "status": "additional text available; musical setting unverified"
+  },
+  {
+    "id": "hymns/gregobase-liber/gb-15609",
+    "sourceId": "hymns/gregobase-liber/gb-19203",
+    "stanzas": 3,
+    "status": "additional text available; musical setting unverified"
+  },
+  {
+    "id": "hymns/gregobase-liber/gb-15610",
+    "sourceId": "hymns/gregobase-liber/gb-19204",
+    "stanzas": 3,
+    "status": "additional text available; musical setting unverified"
+  },
+  {
+    "id": "hymns/gregobase-liber/gb-4680",
+    "sourceId": "hymns/gregobase-liber/gb-4682",
+    "stanzas": 4,
+    "status": "additional text available; musical setting unverified"
+  },
+  {
+    "id": "hymns/gregobase-liber/gb-4681",
+    "sourceId": "hymns/gregobase-liber/gb-4682",
+    "stanzas": 4,
+    "status": "additional text available; musical setting unverified"
+  }
+]

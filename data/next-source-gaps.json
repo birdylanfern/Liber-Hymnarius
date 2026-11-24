@@ -1,0 +1,23 @@
+[
+  {
+    "category": "hebdomada-sancta",
+    "hour": "ol",
+    "title": "Pange lingua gloriosi proelium certaminis",
+    "liberPage": 61,
+    "status": "missing-source"
+  },
+  {
+    "category": "triduum-sabbatum",
+    "hour": "ol",
+    "title": "Christe caelorum Domine",
+    "liberPage": 69,
+    "status": "missing-source"
+  },
+  {
+    "category": "triduum-sabbatum",
+    "hour": "inv",
+    "title": "Christum Dominum pro nobis passum et sepultum",
+    "liberPage": 69,
+    "status": "missing-source"
+  }
+]

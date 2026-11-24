@@ -1,0 +1,348 @@
+{
+  "potentiallyIncomplete": [
+    {
+      "name": "Adoremus Dominum qui fecit",
+      "file": "gabc/hymns/gregobase-liber/gb-15598.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=15598",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Alleluia spiritus Domini replevit",
+      "file": "gabc/hymns/gregobase-liber/gb-15366.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=15366",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Alleluia, Christum Dominum ascendentem in caelum",
+      "file": "gabc/hymns/gregobase-liber/gb-19801.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=19801",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum Dei Filium qui suo",
+      "file": "gabc/hymns/gregobase-liber/gb-16425.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=16425",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum Dei Filium qui suo",
+      "file": "gabc/hymns/gregobase-liber/gb-7281.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=7281",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum Dominum",
+      "file": "gabc/hymns/gregobase-liber/gb-7270.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=7270",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum Dominum pro nobis passum et sepultum",
+      "file": "gabc/hymns/gregobase-liber/gb-19133.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=19133",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum Filium dilectum",
+      "file": "gabc/hymns/gregobase-liber/gb-19803.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=19803",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum Mariae Filium",
+      "file": "gabc/hymns/gregobase-liber/gb-20911.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20911",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum Mariae Filium (TP)",
+      "file": "gabc/hymns/gregobase-liber/gb-20912.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20912",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum natum",
+      "file": "gabc/hymns/gregobase-liber/gb-16620.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=16620",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum natum, qui Innocentes",
+      "file": "gabc/hymns/gregobase-liber/gb-16691.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=16691",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum pastorum principem",
+      "file": "gabc/hymns/gregobase-liber/gb-14154.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=14154",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum regem Filium David",
+      "file": "gabc/hymns/gregobase-liber/gb-19395.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=19395",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christum regem pro nobis",
+      "file": "gabc/hymns/gregobase-liber/gb-20895.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20895",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christus natus est nobis",
+      "file": "gabc/hymns/gregobase-liber/gb-18100.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=18100",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Christus natus est nobis",
+      "file": "gabc/hymns/gregobase-liber/gb-19800.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=19800",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Cor Iesu amore nostri",
+      "file": "gabc/hymns/gregobase-liber/gb-10171.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=10171",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Deum qui glorificatur",
+      "file": "gabc/hymns/gregobase-liber/gb-16185.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=16185",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Doctor insignis",
+      "file": "gabc/hymns/gregobase-liber/gb-20241.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20241",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Dominum Deum nostrum",
+      "file": "gabc/hymns/gregobase-liber/gb-15599.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=15599",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Dominum qui fecit nos",
+      "file": "gabc/hymns/gregobase-liber/gb-15597.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=15597",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Fecunda sanctis insula",
+      "file": "gabc/hymns/gregobase-liber/gb-19325.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=19325",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Festivitatem Virginis Mariae",
+      "file": "gabc/hymns/gregobase-liber/gb-20913.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20913",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Fontem sapientiae",
+      "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20870",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Hodie scietis (ad invitatorium)",
+      "file": "gabc/hymns/gregobase-liber/gb-16079.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=16079",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Hodie si vocem Domini",
+      "file": "gabc/hymns/gregobase-liber/gb-7276.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=7276",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Iesum Christum, regem regum",
+      "file": "gabc/hymns/gregobase-liber/gb-16103.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=16103",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Immaculátam Conceptiónem Vírginis",
+      "file": "gabc/hymns/gregobase-liber/gb-16130.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=16130",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Iubilemus Deo",
+      "file": "gabc/hymns/gregobase-liber/gb-4666.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=4666",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Laudemus Deum nostrum",
+      "file": "gabc/hymns/gregobase-liber/gb-10451.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=10451",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Maternitatem Virginis Mariae",
+      "file": "gabc/hymns/gregobase-liber/gb-8699.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=8699",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Mirabilem in sanctis",
+      "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20882",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Panem vitae Christum Dominum",
+      "file": "gabc/hymns/gregobase-liber/gb-10363.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=10363",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Panem vitae, Christum Dóminum",
+      "file": "gabc/hymns/gregobase-liber/gb-16200.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=16200",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Populus Domini",
+      "file": "gabc/hymns/gregobase-liber/gb-14205.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=14205",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Populus Domini",
+      "file": "gabc/hymns/gregobase-liber/gb-15600.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=15600",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Prope est iam Dominus (In dominica)",
+      "file": "gabc/hymns/gregobase-liber/gb-19798.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=19798",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Prope est iam Dominus (In feriis)",
+      "file": "gabc/hymns/gregobase-liber/gb-19799.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=19799",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Regem angelorum",
+      "file": "gabc/hymns/gregobase-liber/gb-7370.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=7370",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Regem Apostolorum",
+      "file": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=10398",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Regem Apostolorum (mode IV*)",
+      "file": "gabc/hymns/gregobase-liber/gb-16675.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=16675",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Regem Apostolorum (Tempore paschali)",
+      "file": "gabc/hymns/gregobase-liber/gb-20880.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20880",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Regem magnum",
+      "file": "gabc/hymns/gregobase-liber/gb-15596.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=15596",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Regem martyrum Dominum",
+      "file": "gabc/hymns/gregobase-liber/gb-10558.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=10558",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Regem martyrum Dominum (memoria)",
+      "file": "gabc/hymns/gregobase-liber/gb-20901.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20901",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Regem venturum Dominum (In dominica)",
+      "file": "gabc/hymns/gregobase-liber/gb-8225.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=8225",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Regem venturum Dominum (In feriis)",
+      "file": "gabc/hymns/gregobase-liber/gb-8226.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=8226",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Salvatorem mundi",
+      "file": "gabc/hymns/gregobase-liber/gb-20896.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20896",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Summum Regem",
+      "file": "gabc/hymns/gregobase-liber/gb-20833.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20833",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Surrexit Dominus vere (Inv.)",
+      "file": "gabc/hymns/gregobase-liber/gb-7290.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=7290",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Te decet laus",
+      "file": "gabc/hymns/gregobase-liber/gb-20754.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=20754",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Te lucis ante terminum (In Feriis per Annum)",
+      "file": "gabc/hymns/gregobase-liber/gb-4680.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=4680",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Te lucis ante terminum (In Memoriis)",
+      "file": "gabc/hymns/gregobase-liber/gb-4681.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=4681",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Te pater Ioseph",
+      "file": "gabc/hymns/gregobase-liber/gb-15727.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=15727",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Venite adoremus Regem",
+      "file": "gabc/hymns/gregobase-liber/gb-15774.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=15774",
+      "reason": "short score; may lack additional verses"
+    },
+    {
+      "name": "Venite exsultemus",
+      "file": "gabc/hymns/gregobase-liber/gb-15595.gabc",
+      "source": "https://gregobase.selapa.net/chant.php?id=15595",
+      "reason": "short score; may lack additional verses"
+    }
+  ],
+  "count": 57,
+  "note": "Heuristic only. These scores have NOT been completed or verified."
+}

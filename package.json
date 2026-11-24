@@ -1,0 +1,35 @@
+{
+  "name": "cantus-simplex-hymni",
+  "version": "1.0.0",
+  "description": "Graduale Simplex and Liturgy of the Hours hymns (Latin, Novus Ordo) in gabc, rendered with exsurge",
+  "license": "Unlicense",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node tools/build-index.js",
+    "build-index": "node tools/build-index.js",
+    "serve": "npx http-server -c-1 -p 8080",
+    "coverage": "node tools/coverage-report.js",
+    "sync:gregobase-liber": "node tools/sync-gregobase-liber.js && npm run build",
+    "reconcile:gregobase": "node tools/reconcile-gregobase.js && npm run build && npm run coverage",
+    "finish:classification": "node tools/build-index.js && node tools/finish-classification.js && node tools/build-index.js && node tools/coverage-report.js",
+    "complete:verses": "node tools/auto-complete-source-verses.js",
+    "audit:slots": "node tools/audit-slot-consistency.js",
+    "review:slots": "node tools/full-slot-review.js",
+    "reconcile:all": "node tools/reconcile-all-slots.js",
+    "review:export": "npm run reconcile:all && node tools/export-reconciliation-review.js",
+    "audit:sources": "npm run reconcile:all && node tools/audit-source-integrity.js",
+    "audit:gregobase-import": "node tools/verify-gregobase-import.js",
+    "import:external-candidates": "node tools/import-external-candidates.js",
+    "audit:source-gaps": "npm run reconcile:all && node tools/audit-source-gap-status.js",
+    "import:four-candidates": "node tools/import-four-source-candidates.js",
+    "audit:eastertide-invitatories": "node tools/verify-eastertide-invitatories.js",
+    "audit:eastertide-modes": "node tools/audit-eastertide-invitatory-modes.js",
+    "test": "node tools/smoke-test.js",
+    "test:venite": "node tools/test-venite-pairings.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}

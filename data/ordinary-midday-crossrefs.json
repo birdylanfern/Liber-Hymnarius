@@ -1,0 +1,194 @@
+[
+  {
+    "category": "pa-13-f3",
+    "hour": "t",
+    "name": "Nunc Sancte (in Memoriis)",
+    "from": "gabc/hymns/gregobase-liber/gb-18011.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f3-t.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f4",
+    "hour": "t",
+    "name": "Nunc Sancte (in Memoriis)",
+    "from": "gabc/hymns/gregobase-liber/gb-18011.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f4-t.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f5",
+    "hour": "t",
+    "name": "Nunc Sancte (in Memoriis)",
+    "from": "gabc/hymns/gregobase-liber/gb-18011.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f5-t.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f6",
+    "hour": "t",
+    "name": "Nunc Sancte (in Memoriis)",
+    "from": "gabc/hymns/gregobase-liber/gb-18011.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f6-t.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f3",
+    "hour": "s",
+    "name": "Rector potens verax Deus (In Feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-15609.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f3-s.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f4",
+    "hour": "s",
+    "name": "Rector potens verax Deus (In Feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-15609.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f4-s.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f5",
+    "hour": "s",
+    "name": "Rector potens verax Deus (In Feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-15609.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f5-s.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f6",
+    "hour": "s",
+    "name": "Rector potens verax Deus (In Feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-15609.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f6-s.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f3",
+    "hour": "n",
+    "name": "Rerum Deus tenax vigor (In Feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-15610.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f3-n.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f4",
+    "hour": "n",
+    "name": "Rerum Deus tenax vigor (In Feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-15610.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f4-n.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f5",
+    "hour": "n",
+    "name": "Rerum Deus tenax vigor (In Feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-15610.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f5-n.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-13-f6",
+    "hour": "n",
+    "name": "Rerum Deus tenax vigor (In Feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-15610.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-13-f6-n.gabc",
+    "rubricPage": 197
+  },
+  {
+    "category": "pa-24-f3",
+    "hour": "t",
+    "name": "Certum tenentes (In feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-16814.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f3-t.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f4",
+    "hour": "t",
+    "name": "Certum tenentes (In feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-16814.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f4-t.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f5",
+    "hour": "t",
+    "name": "Certum tenentes (In feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-16814.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f5-t.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f6",
+    "hour": "t",
+    "name": "Certum tenentes (In feriis per annum)",
+    "from": "gabc/hymns/gregobase-liber/gb-16814.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f6-t.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f3",
+    "hour": "s",
+    "name": "Dicamus laudes (In festis)",
+    "from": "gabc/hymns/gregobase-liber/gb-16825.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f3-s.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f4",
+    "hour": "s",
+    "name": "Dicamus laudes (In festis)",
+    "from": "gabc/hymns/gregobase-liber/gb-16825.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f4-s.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f5",
+    "hour": "s",
+    "name": "Dicamus laudes (In festis)",
+    "from": "gabc/hymns/gregobase-liber/gb-16825.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f5-s.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f6",
+    "hour": "s",
+    "name": "Dicamus laudes (In festis)",
+    "from": "gabc/hymns/gregobase-liber/gb-16825.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f6-s.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f3",
+    "hour": "n",
+    "name": "Ternis horarum (In festis)",
+    "from": "gabc/hymns/gregobase-liber/gb-16832.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f3-n.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f4",
+    "hour": "n",
+    "name": "Ternis horarum (In festis)",
+    "from": "gabc/hymns/gregobase-liber/gb-16832.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f4-n.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f5",
+    "hour": "n",
+    "name": "Ternis horarum (In festis)",
+    "from": "gabc/hymns/gregobase-liber/gb-16832.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f5-n.gabc",
+    "rubricPage": 227
+  },
+  {
+    "category": "pa-24-f6",
+    "hour": "n",
+    "name": "Ternis horarum (In festis)",
+    "from": "gabc/hymns/gregobase-liber/gb-16832.gabc",
+    "to": "gabc/hymns/verified-crossrefs/ordinary-24-f6-n.gabc",
+    "rubricPage": 227
+  }
+]

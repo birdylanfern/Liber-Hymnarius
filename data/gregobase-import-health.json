@@ -1,0 +1,15 @@
+{
+  "physicalGregobaseFiles": 452,
+  "invalidFiles": [],
+  "previousFailuresResolved": [
+    {
+      "id": "4241",
+      "title": "Veni Redemptor gentium",
+      "error": "Error: Invalid or empty GABC",
+      "resolved": true
+    }
+  ],
+  "previousFailuresOutstanding": [],
+  "sourceCountFromLastSync": 452,
+  "notes": "Last-sync source count is historical, not a fresh remote check. This report does not certify musical or liturgical accuracy."
+}

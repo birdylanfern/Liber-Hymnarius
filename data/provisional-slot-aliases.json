@@ -1,0 +1,125 @@
+[
+  {
+    "category": "c-doctores",
+    "slot": "inv|fontem sapientiae",
+    "hour": "inv",
+    "variant": "Fontem sapientiae",
+    "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+    "name": "Fontem sapientiae",
+    "reason": "Checked against Liber Hymnarius 1983, printed p. 301: Ordinary-time invitatory; Eastertide has a different notated antiphon. Source melody has not been note-by-note verified.",
+    "pdfRubricChecked": true
+  },
+  {
+    "category": "c-viri",
+    "slot": "l|pro pluribus sanctis",
+    "hour": "l",
+    "variant": "pro pluribus sanctis",
+    "file": "gabc/hymns/gregobase-liber/gb-8829.gabc",
+    "name": "Beata caeli gaudia",
+    "reason": "Checked against Liber Hymnarius 1983, printed p. 313: Explicitly printed under Pro pluribus sanctis. Source melody has not been note-by-note verified.",
+    "pdfRubricChecked": true
+  },
+  {
+    "category": "c-viri",
+    "slot": "v|pro pluribus sanctis",
+    "hour": "v",
+    "variant": "pro pluribus sanctis",
+    "file": "gabc/hymns/gregobase-liber/gb-4603.gabc",
+    "name": "Inclitos Christi",
+    "reason": "Checked against Liber Hymnarius 1983, printed p. 316: Explicitly printed under Pro pluribus sanctis. Source melody has not been note-by-note verified.",
+    "pdfRubricChecked": true
+  },
+  {
+    "category": "c-mulieres",
+    "slot": "l|pro una sancta muliere",
+    "hour": "l",
+    "variant": "pro una sancta muliere",
+    "file": "gabc/hymns/gregobase-liber/gb-16057.gabc",
+    "name": "Nobilem Christi",
+    "reason": "Checked against Liber Hymnarius 1983, printed p. 320: Explicitly printed under Pro una sancta muliere. Source melody has not been note-by-note verified.",
+    "pdfRubricChecked": true
+  },
+  {
+    "category": "c-religiosi",
+    "slot": "v1",
+    "hour": "v1",
+    "variant": "",
+    "file": "gabc/hymns/gregobase-liber/gb-8826.gabc",
+    "name": "Laeti colentes famulum",
+    "reason": "Printed p. 324 explicitly refers I Vespers to the II Vespers hymn on p. 326.",
+    "pdfRubricChecked": true
+  },
+  {
+    "category": "c-religiosi",
+    "slot": "ol",
+    "hour": "ol",
+    "variant": "",
+    "file": "gabc/hymns/gregobase-liber/gb-8826.gabc",
+    "name": "Laeti colentes famulum",
+    "reason": "Printed p. 325 explicitly refers Office of Readings to the II Vespers hymn on p. 326.",
+    "pdfRubricChecked": true
+  },
+  {
+    "category": "c-religiosi",
+    "slot": "inv",
+    "hour": "inv",
+    "variant": "",
+    "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+    "name": "Mirabilem in sanctis",
+    "reason": "Printed p. 324 refers the invitatory to Mirabilem in sanctis suis on p. 311; melodic identity requires checking.",
+    "pdfRubricChecked": true
+  },
+  {
+    "category": "s-06-29",
+    "slot": "inv",
+    "hour": "inv",
+    "variant": "",
+    "file": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+    "name": "Regem Apostolorum",
+    "reason": "Liber Hymnarius printed p. 390 refers the invitatory to Regem Apostolorum on p. 266. Mode III selected as a provisional option; mode IV also exists.",
+    "pdfRubricChecked": true
+  },
+  {
+    "category": "c-apostoli",
+    "slot": "v1",
+    "hour": "v1",
+    "variant": "",
+    "file": "gabc/hymns/gregobase-liber/gb-16685.gabc",
+    "name": "Exsultet caelum laudibus",
+    "reason": "Liber Hymnarius printed p. 266 explicitly directs I Vespers to the hymn at II Vespers on p. 270. Source score is gb-16685. The placement is rubric-supported; notes not independently verified.",
+    "pdfRubricChecked": true
+  },
+  {
+    "category": "nativitatis-post-epiph",
+    "slot": "t",
+    "hour": "t",
+    "variant": "",
+    "file": "gabc/hymns/gregobase-liber/gb-4238.gabc",
+    "name": "Certum tenentes ordinem",
+    "reason": "Liber Hymnarius (1983), printed p. 41, specifies this hymn at this hour after Epiphany. Existing GABC belongs to Advent after 16 December; identical musical setting has NOT been verified. UNCHECKED cross-season candidate.",
+    "pdfRubricChecked": true,
+    "unchecked": true
+  },
+  {
+    "category": "nativitatis-post-epiph",
+    "slot": "s",
+    "hour": "s",
+    "variant": "",
+    "file": "gabc/hymns/gregobase-liber/gb-4239.gabc",
+    "name": "Dicamus laudes Domino",
+    "reason": "Liber Hymnarius (1983), printed p. 42, specifies this hymn at this hour after Epiphany. Existing GABC belongs to Advent after 16 December; identical musical setting has NOT been verified. UNCHECKED cross-season candidate.",
+    "pdfRubricChecked": true,
+    "unchecked": true
+  },
+  {
+    "category": "nativitatis-post-epiph",
+    "slot": "n",
+    "hour": "n",
+    "variant": "",
+    "file": "gabc/hymns/gregobase-liber/gb-4240.gabc",
+    "name": "Ternis horarum terminis",
+    "reason": "Liber Hymnarius (1983), printed p. 42, specifies this hymn at this hour after Epiphany. Existing GABC belongs to Advent after 16 December; identical musical setting has NOT been verified. UNCHECKED cross-season candidate.",
+    "pdfRubricChecked": true,
+    "unchecked": true
+  }
+]

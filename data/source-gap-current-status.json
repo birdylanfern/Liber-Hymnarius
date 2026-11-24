@@ -1,0 +1,125 @@
+{
+  "generatedFrom": "complete-reconciliation.json",
+  "results": [
+    {
+      "category": "adventus-post16",
+      "slot": "ol",
+      "expected": "Veni, redemptor gentium",
+      "printedPage": 11,
+      "pdfPage": 12,
+      "note": "Ad Officium Lectionis. The imported catalogue has no matching GABC.",
+      "status": "no-local-candidate",
+      "currentStatus": "POPULATED — verify source and melody",
+      "assigned": [
+        {
+          "file": "gabc/hymns/gregobase-liber/gb-4241.gabc",
+          "name": "Veni Redemptor gentium",
+          "unchecked": false
+        }
+      ],
+      "candidateCount": 0
+    },
+    {
+      "category": "quadragesima-hebd1-5",
+      "slot": "v|in officio dominicali",
+      "expected": "Audi, benigne Conditor",
+      "printedPage": 48,
+      "pdfPage": 32,
+      "note": "Ad Vesperas, in Officio dominicali. Do not substitute Vexilla regis.",
+      "status": "needs-variant-or-rubric",
+      "currentStatus": "POPULATED — verify source and melody",
+      "assigned": [
+        {
+          "file": "gabc/hymns/gregobase-external/gb-17673.gabc",
+          "name": "Audi benigne conditor",
+          "unchecked": true
+        }
+      ],
+      "candidateCount": 3
+    },
+    {
+      "category": "c-apostoli",
+      "slot": "v2|in tempore paschali",
+      "expected": "Tristes erant Apostoli",
+      "printedPage": 270,
+      "pdfPage": 142,
+      "note": "Printed p. 270-271 has a distinct Eastertide hymn, not Exsultet caelum laudibus. No matching GABC found in local catalogue.",
+      "status": "no-local-candidate",
+      "currentStatus": "POPULATED — verify source and melody",
+      "assigned": [
+        {
+          "file": "gabc/hymns/gregobase-external/gb-11203.gabc",
+          "name": "Tristes erant Apostoli",
+          "unchecked": true
+        }
+      ],
+      "candidateCount": 1
+    },
+    {
+      "category": "s-03-19",
+      "slot": "inv",
+      "expected": "Laudemus Deum nostrum in solemnitate beati Ioseph",
+      "printedPage": 357,
+      "pdfPage": 185,
+      "note": "St Joseph invitatory, printed p. 357; do not substitute the similarly named chant from another feast.",
+      "status": "no-local-candidate",
+      "currentStatus": "MISSING SCORE",
+      "assigned": [],
+      "candidateCount": 0
+    },
+    {
+      "category": "s-03-19",
+      "slot": "l",
+      "expected": "Caelitum Ioseph",
+      "printedPage": 358,
+      "pdfPage": 186,
+      "note": "St Joseph Lauds, printed p. 358; score absent from indexed local GABC.",
+      "status": "no-local-candidate",
+      "currentStatus": "MISSING SCORE",
+      "assigned": [],
+      "candidateCount": 0
+    },
+    {
+      "category": "pentecostes",
+      "slot": "l",
+      "expected": "Beata nobis gaudia",
+      "printedPage": 99,
+      "pdfPage": 57,
+      "note": "Pentecost Lauds, printed p. 99; no matching indexed GABC.",
+      "status": "no-local-candidate",
+      "currentStatus": "MISSING SCORE",
+      "assigned": [],
+      "candidateCount": 0
+    },
+    {
+      "category": "pentecostes",
+      "slot": "c",
+      "expected": "Iesu redemptor saeculi",
+      "printedPage": 97,
+      "pdfPage": 56,
+      "note": "Pentecost Compline, printed p. 97. The collection has a Paschaltide transcription at p. 77, but this has not been verified as the same musical setting.",
+      "status": "needs-musical-comparison",
+      "currentStatus": "POPULATED — verify source and melody",
+      "assigned": [
+        {
+          "file": "gabc/hymns/verified-crossrefs/pentecostes-compline-unchecked.gabc",
+          "name": "Iesu redemptor saeculi",
+          "unchecked": true
+        }
+      ],
+      "candidateCount": 0
+    },
+    {
+      "category": "s-01-25",
+      "slot": "inv",
+      "expected": "Laudemus Deum nostrum in conversione Doctoris gentium",
+      "printedPage": 342,
+      "pdfPage": 178,
+      "note": "Printed p. 342 specifies this invitatory for the Conversion of St Paul. The local Excelsam Pauli (gb-17971) is a Vespers hymn, not an invitatory. Do not substitute the unrelated Laudemus Deum nostrum for St Benedict (gb-10451, printed p. 556).",
+      "status": "no-local-candidate",
+      "currentStatus": "MISSING SCORE",
+      "assigned": [],
+      "candidateCount": 0
+    }
+  ]
+}

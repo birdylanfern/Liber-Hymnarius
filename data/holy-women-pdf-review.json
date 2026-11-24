@@ -1,0 +1,27 @@
+{
+  "source": "Liber Hymnarius 1983 printed pages 319, 322, 323 (PDF scans 166, 168)",
+  "verification": "Liturgical headings and incipits, not note-by-note",
+  "changes": [
+    {
+      "id": 17984,
+      "hour": "ol",
+      "variant": "pro una sancta muliere",
+      "page": 319,
+      "title": "Hae feminae laudabiles"
+    },
+    {
+      "id": 19205,
+      "hour": "v",
+      "variant": "pro una sancta muliere",
+      "page": 322,
+      "title": "Fortem virili pectore"
+    },
+    {
+      "id": 17955,
+      "hour": "v",
+      "variant": "pro pluribus sanctis mulieribus",
+      "page": 323,
+      "title": "Christe cunctorum sator"
+    }
+  ]
+}

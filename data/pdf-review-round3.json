@@ -1,0 +1,149 @@
+{
+  "changes": [
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19804.gabc",
+      "category": "quadragesima-hebd1-5",
+      "hour": "c",
+      "pdfEvidence": "51: Ad Completorium, Lenten Te lucis"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7270.gabc",
+      "category": "quadragesima-hebd1-5",
+      "hour": "inv",
+      "pdfEvidence": "52: Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7276.gabc",
+      "category": "quadragesima-hebd1-5",
+      "hour": "inv",
+      "pdfEvidence": "52: alternative invitatory"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7265.gabc",
+      "category": "quadragesima-hebd1-5",
+      "hour": "n",
+      "pdfEvidence": "57-58: Ad Nonam, Ternis ter horis"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16425.gabc",
+      "category": "triduum-feria6",
+      "hour": "inv",
+      "pdfEvidence": "67: Feria sexta in Passione Domini, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-7281.gabc",
+      "category": "triduum-feria6",
+      "hour": "inv",
+      "pdfEvidence": "67: Feria sexta in Passione Domini, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-19352.gabc",
+      "category": "triduum-sabbatum",
+      "hour": "v",
+      "pdfEvidence": "72: Sabbato Sancto, Ad Vesperas"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15595.gabc",
+      "category": "pa-13-dom",
+      "hour": "inv",
+      "pdfEvidence": "179: Dominica, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15596.gabc",
+      "category": "pa-13-dom",
+      "hour": "inv",
+      "pdfEvidence": "179: Dominica, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15597.gabc",
+      "category": "pa-13-dom",
+      "hour": "inv",
+      "pdfEvidence": "179: Dominica, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-4666.gabc",
+      "category": "pa-13-dom",
+      "hour": "inv",
+      "pdfEvidence": "179: Dominica, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15598.gabc",
+      "category": "pa-13-dom",
+      "hour": "inv",
+      "pdfEvidence": "180: Dominica, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15599.gabc",
+      "category": "pa-13-dom",
+      "hour": "inv",
+      "pdfEvidence": "180: Dominica, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-14205.gabc",
+      "category": "pa-13-dom",
+      "hour": "inv",
+      "pdfEvidence": "180: Dominica, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-15600.gabc",
+      "category": "pa-13-dom",
+      "hour": "inv",
+      "pdfEvidence": "180: Dominica, Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16819.gabc",
+      "category": "pa-24-dom",
+      "hour": "s",
+      "pdfEvidence": "214: Ad Sextam in sollemnitatibus"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20293.gabc",
+      "category": "c-dedicatio",
+      "hour": "l",
+      "pdfEvidence": "251: Ad Laudes Matutinas"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-16851.gabc",
+      "category": "c-bmv-commune",
+      "hour": "v",
+      "pdfEvidence": "253: Ad I Vesperas"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20911.gabc",
+      "category": "c-bmv-commune",
+      "hour": "inv",
+      "pdfEvidence": "254: Ad Invitatorium"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20912.gabc",
+      "category": "c-bmv-commune",
+      "hour": "inv",
+      "pdfEvidence": "255: Invitatorium tempore paschali"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20913.gabc",
+      "category": "c-bmv-commune",
+      "hour": "inv",
+      "pdfEvidence": "255: alternative invitatory"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-8878.gabc",
+      "category": "c-bmv-commune",
+      "hour": "v",
+      "pdfEvidence": "258: Ad Vesperas in sollemnitatibus"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-10617.gabc",
+      "category": "c-bmv-commune",
+      "hour": "v",
+      "pdfEvidence": "259: Ad Vesperas in festis"
+    },
+    {
+      "file": "gabc/hymns/gregobase-liber/gb-20950.gabc",
+      "category": "c-bmv-commune",
+      "hour": "v",
+      "pdfEvidence": "260: Ad Vesperas in memoriis"
+    }
+  ],
+  "note": "Page-heading classification only; musical notation not verified. Invitatory slots may not be defined for Triduum in current taxonomy."
+}

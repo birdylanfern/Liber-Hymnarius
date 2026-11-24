@@ -1,0 +1,1 @@
+Fixed Te lucis Ordinary Time Compline variants: Sunday, weekdays, feasts, memorials, solemnities share hour metadata and are eligible for one switchable entry. Removed the misleading unchecked Christe qui splendor fallback which used a Te lucis score. The Christe qui splendor slot remains unfilled pending its correct GABC. Rebuild with npm run build.

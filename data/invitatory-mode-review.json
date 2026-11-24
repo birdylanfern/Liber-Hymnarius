@@ -1,0 +1,367 @@
+{
+  "notice": "A matching mode does not establish a liturgically correct psalm tone. These are suggestions only, not verified pairings.",
+  "total": 45,
+  "modeCandidates": 27,
+  "entries": [
+    {
+      "id": "hymns/gregobase-liber/gb-15598",
+      "name": "Adoremus Dominum qui fecit",
+      "antiphonMode": "e",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15598.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-15664",
+      "name": "Agnum Dei quem laetus;",
+      "antiphonMode": "7",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15664.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-15366",
+      "name": "Alleluia spiritus Domini replevit",
+      "antiphonMode": "5",
+      "suggestedTone": "V",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15366.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-19801",
+      "name": "Alleluia, Christum Dominum ascendentem in caelum",
+      "antiphonMode": "5",
+      "suggestedTone": "V",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19801.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-16425",
+      "name": "Christum Dei Filium qui suo",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16425.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-7281",
+      "name": "Christum Dei Filium qui suo",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7281.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-7270",
+      "name": "Christum Dominum",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7270.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-19803",
+      "name": "Christum Filium dilectum",
+      "antiphonMode": "7",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19803.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20911",
+      "name": "Christum Mariae Filium",
+      "antiphonMode": "5",
+      "suggestedTone": "V",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20911.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20912",
+      "name": "Christum Mariae Filium (TP)",
+      "antiphonMode": "6",
+      "suggestedTone": "VI",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20912.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-16691",
+      "name": "Christum natum, qui Innocentes",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16691.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20895",
+      "name": "Christum regem pro nobis",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20895.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-18100",
+      "name": "Christus natus est nobis",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-18100.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-19800",
+      "name": "Christus natus est nobis",
+      "antiphonMode": "e",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19800.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-15456",
+      "name": "Deum verum",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15456.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-15599",
+      "name": "Dominum Deum nostrum",
+      "antiphonMode": "e",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15599.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-15597",
+      "name": "Dominum qui fecit nos",
+      "antiphonMode": "6",
+      "suggestedTone": "VI",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15597.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20913",
+      "name": "Festivitatem Virginis Mariae",
+      "antiphonMode": "2",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20913.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20870",
+      "name": "Fontem sapientiae",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-16079",
+      "name": "Hodie scietis (ad invitatorium)",
+      "antiphonMode": "",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16079.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-7276",
+      "name": "Hodie si vocem Domini",
+      "antiphonMode": "e",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7276.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-16103",
+      "name": "Iesum Christum, regem regum",
+      "antiphonMode": "7",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16103.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-4666",
+      "name": "Iubilemus Deo",
+      "antiphonMode": "6",
+      "suggestedTone": "VI",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-4666.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-8699",
+      "name": "Maternitatem Virginis Mariae",
+      "antiphonMode": "2",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8699.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20882",
+      "name": "Mirabilem in sanctis",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-10363",
+      "name": "Panem vitae Christum Dominum",
+      "antiphonMode": "7",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10363.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-14205",
+      "name": "Populus Domini",
+      "antiphonMode": "d",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-14205.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-15600",
+      "name": "Populus Domini",
+      "antiphonMode": "d",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15600.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-19798",
+      "name": "Prope est iam Dominus (In dominica)",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19798.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-19799",
+      "name": "Prope est iam Dominus (In feriis)",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-19799.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-10398",
+      "name": "Regem Apostolorum",
+      "antiphonMode": "3",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-16675",
+      "name": "Regem Apostolorum (mode IV*)",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-16675.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20880",
+      "name": "Regem Apostolorum (Tempore paschali)",
+      "antiphonMode": "6",
+      "suggestedTone": "VI",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20880.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-15596",
+      "name": "Regem magnum",
+      "antiphonMode": "e",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15596.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-10558",
+      "name": "Regem martyrum Dominum",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10558.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20901",
+      "name": "Regem martyrum Dominum (memoria)",
+      "antiphonMode": "e",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20901.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-8225",
+      "name": "Regem venturum Dominum (In dominica)",
+      "antiphonMode": "5",
+      "suggestedTone": "V",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8225.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-8226",
+      "name": "Regem venturum Dominum (In feriis)",
+      "antiphonMode": "6",
+      "suggestedTone": "VI",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-8226.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20833",
+      "name": "Summum Regem",
+      "antiphonMode": "5",
+      "suggestedTone": "V",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20833.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-7290",
+      "name": "Surrexit Dominus vere (Inv.)",
+      "antiphonMode": "6",
+      "suggestedTone": "VI",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-7290.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-15774",
+      "name": "Venite adoremus Regem",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15774.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-15595",
+      "name": "Venite exsultemus",
+      "antiphonMode": "e",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-15595.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20870--provisional-0",
+      "name": "Fontem sapientiae",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-20882--provisional-6",
+      "name": "Mirabilem in sanctis",
+      "antiphonMode": "4",
+      "suggestedTone": "IV*",
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "status": "MODE-BASED CANDIDATE ONLY"
+    },
+    {
+      "id": "hymns/gregobase-liber/gb-10398--provisional-7",
+      "name": "Regem Apostolorum",
+      "antiphonMode": "3",
+      "suggestedTone": null,
+      "sourceFile": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+      "status": "NO MATCHING LOCAL TONE"
+    }
+  ]
+}

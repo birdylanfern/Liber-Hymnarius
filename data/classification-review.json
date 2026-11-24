@@ -1,0 +1,1288 @@
+{
+  "newlyAssignedProvisional": 75,
+  "remainingUnclassified": 82,
+  "assigned": [
+    {
+      "name": "Adoremus Dominum qui fecit",
+      "page": 180,
+      "file": "gabc/hymns/gregobase-liber/gb-15598.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        181,
+        182
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Aeterne rerum ... noctem",
+      "page": 184,
+      "file": "gabc/hymns/gregobase-liber/gb-15601.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        182,
+        183,
+        185,
+        186
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Aeterne rerum Conditor (Dox£. Deo Patri)",
+      "page": 184,
+      "file": "gabc/hymns/gregobase-liber/gb-19477.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        182,
+        183,
+        185,
+        186
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Alleluia, Christum Dominum ascendentem in caelum",
+      "page": 91,
+      "file": "gabc/hymns/gregobase-liber/gb-19801.gabc",
+      "category": "paschale-post-asc",
+      "evidencePages": [
+        90,
+        92
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Angularis fundamentum",
+      "page": 251,
+      "file": "gabc/hymns/gregobase-liber/gb-20293.gabc",
+      "category": "c-dedicatio",
+      "evidencePages": [
+        249
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Aurea lucis",
+      "page": 388,
+      "file": "gabc/hymns/gregobase-liber/gb-19988.gabc",
+      "category": "s-06-29",
+      "evidencePages": [
+        390
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Ave maris stella (in festis)",
+      "page": 259,
+      "file": "gabc/hymns/gregobase-liber/gb-10617.gabc",
+      "category": "c-bmv-commune",
+      "evidencePages": [
+        257
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Ave, Maris Stella(In Solemnitatibus)",
+      "page": 258,
+      "file": "gabc/hymns/gregobase-liber/gb-8878.gabc",
+      "category": "c-bmv-commune",
+      "evidencePages": [
+        257
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Certum tenentes (In feriis per annum)",
+      "page": 219,
+      "file": "gabc/hymns/gregobase-liber/gb-16814.gabc",
+      "category": "pa-24-f2",
+      "evidencePages": [
+        217,
+        218
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Certum tenentes (In festis)",
+      "page": 220,
+      "file": "gabc/hymns/gregobase-liber/gb-16816.gabc",
+      "category": "pa-24-f2",
+      "evidencePages": [
+        218
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Certum tenentes (In memoriis)",
+      "page": 219,
+      "file": "gabc/hymns/gregobase-liber/gb-16815.gabc",
+      "category": "pa-24-f2",
+      "evidencePages": [
+        217,
+        218
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Chorus novae Ierusalem",
+      "page": 83,
+      "file": "gabc/hymns/gregobase-liber/gb-7291.gabc",
+      "category": "paschale-ante-asc",
+      "evidencePages": [
+        82,
+        85
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christe caelorum habitator alme",
+      "page": 462,
+      "file": "gabc/hymns/gregobase-liber/gb-11256.gabc",
+      "category": "s-11-01",
+      "evidencePages": [
+        460
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christe caelorum habitator alme",
+      "page": 462,
+      "file": "gabc/hymns/gregobase-liber/gb-16186.gabc",
+      "category": "s-11-01",
+      "evidencePages": [
+        460
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christe flos convallium",
+      "page": 282,
+      "file": "gabc/hymns/gregobase-liber/gb-17920.gabc",
+      "category": "c-martyr-unus",
+      "evidencePages": [
+        281,
+        284
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christe qui splendor (in festis)",
+      "page": 243,
+      "file": "gabc/hymns/gregobase-liber/gb-7517.gabc",
+      "category": "pa-compl",
+      "evidencePages": [
+        242
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christe qui splendor (in memoriis)",
+      "page": 243,
+      "file": "gabc/hymns/gregobase-liber/gb-7518.gabc",
+      "category": "pa-compl",
+      "evidencePages": [
+        242
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christe qui splendor (Tempore Adventus post diem 16 decembris)",
+      "page": 9,
+      "file": "gabc/hymns/gregobase-liber/gb-4685.gabc",
+      "category": "adventus-post16",
+      "evidencePages": [
+        11
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christe qui splendor et dies (in dominicis per annum)",
+      "page": 244,
+      "file": "gabc/hymns/gregobase-liber/gb-7515.gabc",
+      "category": "pa-compl",
+      "evidencePages": [
+        242
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christe qui splendor et dies (in feriis per annum)",
+      "page": 243,
+      "file": "gabc/hymns/gregobase-liber/gb-7519.gabc",
+      "category": "pa-compl",
+      "evidencePages": [
+        242
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christe qui splendor et dies (in sollemnitatibus)",
+      "page": 244,
+      "file": "gabc/hymns/gregobase-liber/gb-16706.gabc",
+      "category": "pa-compl",
+      "evidencePages": [
+        242
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christum Filium dilectum",
+      "page": 44,
+      "file": "gabc/hymns/gregobase-liber/gb-19803.gabc",
+      "category": "baptisma-domini",
+      "evidencePages": [
+        43,
+        45,
+        46
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christum Mariae Filium",
+      "page": 254,
+      "file": "gabc/hymns/gregobase-liber/gb-20911.gabc",
+      "category": "c-bmv-commune",
+      "evidencePages": [
+        255
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Christus natus est nobis",
+      "page": 16,
+      "file": "gabc/hymns/gregobase-liber/gb-18100.gabc",
+      "category": "nativitatis-ante-epiph",
+      "evidencePages": [
+        14
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Cor Iesu amore nostri",
+      "page": 118,
+      "file": "gabc/hymns/gregobase-liber/gb-10171.gabc",
+      "category": "cor-iesu",
+      "evidencePages": [
+        117,
+        119
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Custodes hominum",
+      "page": 451,
+      "file": "gabc/hymns/gregobase-liber/gb-20261.gabc",
+      "category": "s-10-04",
+      "evidencePages": [
+        453
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Deus tuorum militum",
+      "page": 286,
+      "file": "gabc/hymns/gregobase-liber/gb-20192.gabc",
+      "category": "c-martyr-unus",
+      "evidencePages": [
+        284,
+        288
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Dicamus laudes (In feriis)",
+      "page": 220,
+      "file": "gabc/hymns/gregobase-liber/gb-16820.gabc",
+      "category": "pa-24-f2",
+      "evidencePages": [
+        218
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Dicamus laudes (In festis)",
+      "page": 221,
+      "file": "gabc/hymns/gregobase-liber/gb-16825.gabc",
+      "category": "pa-24-f2",
+      "evidencePages": [
+        223
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Dicamus laudes (In memoriis)",
+      "page": 221,
+      "file": "gabc/hymns/gregobase-liber/gb-16824.gabc",
+      "category": "pa-24-f2",
+      "evidencePages": [
+        223
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Dominum Deum nostrum",
+      "page": 180,
+      "file": "gabc/hymns/gregobase-liber/gb-15599.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        181,
+        182
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Dominum qui fecit nos",
+      "page": 179,
+      "file": "gabc/hymns/gregobase-liber/gb-15597.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        181
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Ecce iam noctis",
+      "page": 212,
+      "file": "gabc/hymns/gregobase-liber/gb-19480.gabc",
+      "category": "pa-24-dom",
+      "evidencePages": [
+        210,
+        213,
+        214
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Eia Mater (simplex)",
+      "page": 437,
+      "file": "gabc/hymns/gregobase-liber/gb-17969.gabc",
+      "category": "s-09-15",
+      "evidencePages": [
+        436
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Fortem virili pectore",
+      "page": 322,
+      "file": "gabc/hymns/gregobase-liber/gb-19205.gabc",
+      "category": "c-mulieres",
+      "evidencePages": [
+        320,
+        323
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Fratres, corona cælica",
+      "page": 540,
+      "file": "gabc/hymns/gregobase-liber/gb-20329.gabc",
+      "category": "s-01-02",
+      "evidencePages": [
+        542
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Hae feminae laudabiles",
+      "page": 319,
+      "file": "gabc/hymns/gregobase-liber/gb-17984.gabc",
+      "category": "c-mulieres",
+      "evidencePages": [
+        320
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Hodie scietis (ad invitatorium)",
+      "page": 10,
+      "file": "gabc/hymns/gregobase-liber/gb-16079.gabc",
+      "category": "adventus-post16",
+      "evidencePages": [
+        11
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Iam Christus astra",
+      "page": 101,
+      "file": "gabc/hymns/gregobase-liber/gb-17812.gabc",
+      "category": "pentecostes",
+      "evidencePages": [
+        103
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Iesu redemptor saeculi TP",
+      "page": 77,
+      "file": "gabc/hymns/gregobase-liber/gb-15084.gabc",
+      "category": "paschale-ante-asc",
+      "evidencePages": [
+        76,
+        79
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Iste Confessor Domini [S Martini]",
+      "page": 466,
+      "file": "gabc/hymns/gregobase-liber/gb-20330.gabc",
+      "category": "s-11-18",
+      "evidencePages": [
+        468
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Iubilemus Deo",
+      "page": 179,
+      "file": "gabc/hymns/gregobase-liber/gb-4666.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        181
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Laetare caelum desuper",
+      "page": 81,
+      "file": "gabc/hymns/gregobase-liber/gb-10293.gabc",
+      "category": "paschale-ante-asc",
+      "evidencePages": [
+        79,
+        82
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Maria quae mortalium",
+      "page": 253,
+      "file": "gabc/hymns/gregobase-liber/gb-16851.gabc",
+      "category": "c-bmv-commune",
+      "evidencePages": [
+        255
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Martine par apostolis",
+      "page": 466,
+      "file": "gabc/hymns/gregobase-liber/gb-20999.gabc",
+      "category": "s-11-18",
+      "evidencePages": [
+        468
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Martyr Dei, qui unicum",
+      "page": 283,
+      "file": "gabc/hymns/gregobase-liber/gb-20298.gabc",
+      "category": "c-martyr-unus",
+      "evidencePages": [
+        281,
+        284
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Maternitatem Virginis Mariae",
+      "page": 33,
+      "file": "gabc/hymns/gregobase-liber/gb-8699.gabc",
+      "category": "dei-genetrix",
+      "evidencePages": [
+        31,
+        34
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Nobiles Christi",
+      "page": 321,
+      "file": "gabc/hymns/gregobase-liber/gb-17959.gabc",
+      "category": "c-mulieres",
+      "evidencePages": [
+        320,
+        323
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Nunc Sancte (in Memoriis)",
+      "page": 192,
+      "file": "gabc/hymns/gregobase-liber/gb-18011.gabc",
+      "category": "pa-13-f2",
+      "evidencePages": [
+        190,
+        191
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Nunc Sancte nobis (in Feriis per annum)",
+      "page": 192,
+      "file": "gabc/hymns/gregobase-liber/gb-4557.gabc",
+      "category": "pa-13-f2",
+      "evidencePages": [
+        190,
+        191
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "O nimis felix",
+      "page": 386,
+      "file": "gabc/hymns/gregobase-liber/gb-15663.gabc",
+      "category": "s-06-24",
+      "evidencePages": [
+        384
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Pange lingua... Corporis",
+      "page": 110,
+      "file": "gabc/hymns/gregobase-liber/gb-8671.gabc",
+      "category": "trinitas",
+      "evidencePages": [
+        108
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Populus Domini",
+      "page": 180,
+      "file": "gabc/hymns/gregobase-liber/gb-14205.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        181,
+        182
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Populus Domini",
+      "page": 180,
+      "file": "gabc/hymns/gregobase-liber/gb-15600.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        181,
+        182
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Prope est iam Dominus (In dominica)",
+      "page": 10,
+      "file": "gabc/hymns/gregobase-liber/gb-19798.gabc",
+      "category": "adventus-post16",
+      "evidencePages": [
+        11
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Prope est iam Dominus (In feriis)",
+      "page": 10,
+      "file": "gabc/hymns/gregobase-liber/gb-19799.gabc",
+      "category": "adventus-post16",
+      "evidencePages": [
+        11
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Qui te posthabitis",
+      "page": 544,
+      "file": "gabc/hymns/gregobase-liber/gb-4251.gabc",
+      "category": "s-01-02",
+      "evidencePages": [
+        542
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Rector potens verax Deus (In Feriis per annum)",
+      "page": 193,
+      "file": "gabc/hymns/gregobase-liber/gb-15609.gabc",
+      "category": "pa-13-f2",
+      "evidencePages": [
+        191,
+        195
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Rector potens verax Deus (In Festis)",
+      "page": 193,
+      "file": "gabc/hymns/gregobase-liber/gb-19203.gabc",
+      "category": "pa-13-f2",
+      "evidencePages": [
+        191,
+        195
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Rector potens verax deus (in memoriis)",
+      "page": 193,
+      "file": "gabc/hymns/gregobase-liber/gb-19852.gabc",
+      "category": "pa-13-f2",
+      "evidencePages": [
+        191,
+        195
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Regem magnum",
+      "page": 179,
+      "file": "gabc/hymns/gregobase-liber/gb-15596.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        181
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Regem martyrum Dominum",
+      "page": 273,
+      "file": "gabc/hymns/gregobase-liber/gb-10558.gabc",
+      "category": "c-martyres-plures",
+      "evidencePages": [
+        274,
+        275
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Regem martyrum Dominum (memoria)",
+      "page": 273,
+      "file": "gabc/hymns/gregobase-liber/gb-20901.gabc",
+      "category": "c-martyres-plures",
+      "evidencePages": [
+        274,
+        275
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Sanctorum meritis",
+      "page": 277,
+      "file": "gabc/hymns/gregobase-liber/gb-20600.gabc",
+      "category": "c-martyres-plures",
+      "evidencePages": [
+        275,
+        279
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Te gestientem gaudiis",
+      "page": 454,
+      "file": "gabc/hymns/gregobase-liber/gb-20282.gabc",
+      "category": "s-10-04",
+      "evidencePages": [
+        453
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Te Ioseph celebrent",
+      "page": 355,
+      "file": "gabc/hymns/gregobase-liber/gb-20562.gabc",
+      "category": "s-03-19",
+      "evidencePages": [
+        357
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Te lucis ante terminum (In Nativitate Domini)",
+      "page": 16,
+      "file": "gabc/hymns/gregobase-liber/gb-8892.gabc",
+      "category": "nativitatis-ante-epiph",
+      "evidencePages": [
+        14
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Ternis horarum (In feriis per annum)",
+      "page": 221,
+      "file": "gabc/hymns/gregobase-liber/gb-16830.gabc",
+      "category": "pa-24-f2",
+      "evidencePages": [
+        223
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Tibi Christe splendor Patris",
+      "page": 443,
+      "file": "gabc/hymns/gregobase-liber/gb-20936.gabc",
+      "category": "s-09-29",
+      "evidencePages": [
+        442,
+        444
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Venite adoremus Regem",
+      "page": 415,
+      "file": "gabc/hymns/gregobase-liber/gb-15774.gabc",
+      "category": "s-08-15",
+      "evidencePages": [
+        414,
+        416
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Venite exsultemus",
+      "page": 179,
+      "file": "gabc/hymns/gregobase-liber/gb-15595.gabc",
+      "category": "pa-13-dom",
+      "evidencePages": [
+        181
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Venite exsultemus IV**",
+      "page": 16,
+      "file": "gabc/hymns/gregobase-liber/gb-16356.gabc",
+      "category": "nativitatis-ante-epiph",
+      "evidencePages": [
+        14
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Verbum salutis omnium",
+      "page": 9,
+      "file": "gabc/hymns/gregobase-liber/gb-14187.gabc",
+      "category": "adventus-post16",
+      "evidencePages": [
+        11
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Vexilla Regis prodeunt",
+      "page": 58,
+      "file": "gabc/hymns/gregobase-liber/gb-19794.gabc",
+      "category": "quadragesima-hebd1-5",
+      "evidencePages": [
+        56,
+        57
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    },
+    {
+      "name": "Vexilla Regis prodeunt (tempore passionis)",
+      "page": 59,
+      "file": "gabc/hymns/gregobase-liber/gb-20572.gabc",
+      "category": "quadragesima-hebd1-5",
+      "evidencePages": [
+        57
+      ],
+      "method": "nearby printed pages (within 2), unanimous existing category; provisional"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "Anglorum iam",
+      "page": 427,
+      "file": "gabc/hymns/gregobase-liber/gb-20223.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Auctor salutis",
+      "page": 72,
+      "file": "gabc/hymns/gregobase-liber/gb-19352.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Ave Maris Stella (in memoriis)",
+      "page": 260,
+      "file": "gabc/hymns/gregobase-liber/gb-20950.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Bernardus doctor ínclitus",
+      "page": 589,
+      "file": "gabc/hymns/gregobase-liber/gb-20194.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Certum tenentes ordinem (T Adventus)",
+      "page": 12,
+      "file": "gabc/hymns/gregobase-liber/gb-4238.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Christum Dei Filium qui suo",
+      "page": 67,
+      "file": "gabc/hymns/gregobase-liber/gb-16425.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Christum Dei Filium qui suo",
+      "page": 67,
+      "file": "gabc/hymns/gregobase-liber/gb-7281.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Christum Dominum pro nobis passum et sepultum",
+      "page": null,
+      "file": "gabc/hymns/gregobase-liber/gb-19133.gabc",
+      "reason": "no printed page"
+    },
+    {
+      "name": "Christum natum",
+      "page": 478,
+      "file": "gabc/hymns/gregobase-liber/gb-16620.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Christum pastorum principem",
+      "page": 289,
+      "file": "gabc/hymns/gregobase-liber/gb-14154.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Christum regem Filium David",
+      "page": 586,
+      "file": "gabc/hymns/gregobase-liber/gb-19395.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Comedetis carnes",
+      "page": 505,
+      "file": "gabc/hymns/gregobase-liber/gb-10360.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Comedétis carnes",
+      "page": 505,
+      "file": "gabc/hymns/gregobase-liber/gb-16205.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Conditor alme siderum",
+      "page": 3,
+      "file": "gabc/hymns/gregobase-liber/gb-7424.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Deum qui glorificatur",
+      "page": 461,
+      "file": "gabc/hymns/gregobase-liber/gb-16185.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Deum verum",
+      "page": 106,
+      "file": "gabc/hymns/gregobase-liber/gb-15456.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Dies irae, Ad Officium Lectionis Heb. XXXIV",
+      "page": 126,
+      "file": "gabc/hymns/gregobase-liber/gb-20352.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Doctor insignis",
+      "page": 593,
+      "file": "gabc/hymns/gregobase-liber/gb-20241.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Ecce apparebit Dominus",
+      "page": 507,
+      "file": "gabc/hymns/gregobase-liber/gb-16108.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Fecunda sanctis insula",
+      "page": 568,
+      "file": "gabc/hymns/gregobase-liber/gb-19325.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Fontem sapientiae",
+      "page": 301,
+      "file": "gabc/hymns/gregobase-liber/gb-20870.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Fortes cadéndo",
+      "page": 592,
+      "file": "gabc/hymns/gregobase-liber/gb-19514.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Fratres alacri pectore",
+      "page": 558,
+      "file": "gabc/hymns/gregobase-liber/gb-19854.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Gemma cælestis",
+      "page": 584,
+      "file": "gabc/hymns/gregobase-liber/gb-19991.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Haec femina laudabilis",
+      "page": 318,
+      "file": "gabc/hymns/gregobase-liber/gb-20036.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Hodie nobis caelorum (Resp.)",
+      "page": 489,
+      "file": "gabc/hymns/gregobase-liber/gb-16139.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Hodie nobis de caelo",
+      "page": 490,
+      "file": "gabc/hymns/gregobase-liber/gb-16360.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Hugo pius pater,",
+      "page": 565,
+      "file": "gabc/hymns/gregobase-liber/gb-19312.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Iesu auctor clementiae",
+      "page": 120,
+      "file": "gabc/hymns/gregobase-liber/gb-8737.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Iesu corona caelitum",
+      "page": 537,
+      "file": "gabc/hymns/gregobase-liber/gb-8825.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Iesu salvator saeculi",
+      "page": 463,
+      "file": "gabc/hymns/gregobase-liber/gb-16213.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Lætus hic noster (S Anselmi)",
+      "page": 559,
+      "file": "gabc/hymns/gregobase-liber/gb-20622.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Laudemus Deum nostrum",
+      "page": 556,
+      "file": "gabc/hymns/gregobase-liber/gb-10451.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Magno receptans pectore",
+      "page": 588,
+      "file": "gabc/hymns/gregobase-liber/gb-20186.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Mirabilem in sanctis",
+      "page": 311,
+      "file": "gabc/hymns/gregobase-liber/gb-20882.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Nihil inquinatum (Resp)",
+      "page": 524,
+      "file": "gabc/hymns/gregobase-liber/gb-16135.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Nunc sancte (Adv)",
+      "page": 7,
+      "file": "gabc/hymns/gregobase-liber/gb-18010.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "O lux beata Caelitum",
+      "page": 26,
+      "file": "gabc/hymns/gregobase-liber/gb-14250.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Orbis patrator",
+      "page": 450,
+      "file": "gabc/hymns/gregobase-liber/gb-20258.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Panem vitae, Christum Dóminum",
+      "page": null,
+      "file": "gabc/hymns/gregobase-liber/gb-16200.gabc",
+      "reason": "no printed page"
+    },
+    {
+      "name": "Præsulis exsultans",
+      "page": 576,
+      "file": "gabc/hymns/gregobase-liber/gb-20697.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Puellus Placidus",
+      "page": 545,
+      "file": "gabc/hymns/gregobase-liber/gb-20462.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Rector ætérni",
+      "page": 555,
+      "file": "gabc/hymns/gregobase-liber/gb-18971.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Rector potens (Adv.)",
+      "page": 8,
+      "file": "gabc/hymns/gregobase-liber/gb-18012.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Regem angelorum",
+      "page": 441,
+      "file": "gabc/hymns/gregobase-liber/gb-7370.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Regem Apostolorum",
+      "page": 266,
+      "file": "gabc/hymns/gregobase-liber/gb-10398.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Regem Apostolorum (mode IV*)",
+      "page": 266,
+      "file": "gabc/hymns/gregobase-liber/gb-16675.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Regem Apostolorum (Tempore paschali)",
+      "page": 266,
+      "file": "gabc/hymns/gregobase-liber/gb-20880.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Regem venturum Dominum (In dominica)",
+      "page": 4,
+      "file": "gabc/hymns/gregobase-liber/gb-8225.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Regem venturum Dominum (In feriis)",
+      "page": 4,
+      "file": "gabc/hymns/gregobase-liber/gb-8226.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Regis superni nuntia",
+      "page": 455,
+      "file": "gabc/hymns/gregobase-liber/gb-19560.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Rerum creator (+rhythmic signs)",
+      "page": 198,
+      "file": "gabc/hymns/gregobase-liber/gb-15618.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Rerum Deus tenax (Adv.)",
+      "page": 8,
+      "file": "gabc/hymns/gregobase-liber/gb-18015.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Rerum Deus tenax vigor (In Feriis per annum)",
+      "page": 194,
+      "file": "gabc/hymns/gregobase-liber/gb-15610.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Rerum Deus tenax vigor (In Festis)",
+      "page": 194,
+      "file": "gabc/hymns/gregobase-liber/gb-19204.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Rerum Deus tenax vigor (in memoriis)",
+      "page": 194,
+      "file": "gabc/hymns/gregobase-liber/gb-19853.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Salvatorem mundi",
+      "page": 433,
+      "file": "gabc/hymns/gregobase-liber/gb-20896.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Salvete, cedri Libani",
+      "page": 538,
+      "file": "gabc/hymns/gregobase-liber/gb-20328.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Sint tibi laudis, S Bonifatii",
+      "page": 578,
+      "file": "gabc/hymns/gregobase-liber/gb-19941.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Te decet laus",
+      "page": 536,
+      "file": "gabc/hymns/gregobase-liber/gb-20754.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Te Deum (tonus monasticus/antiquus)",
+      "page": 527,
+      "file": "gabc/hymns/gregobase-liber/gb-8719.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Te lucis ante terminum (In Feriis per Annum)",
+      "page": 241,
+      "file": "gabc/hymns/gregobase-liber/gb-4680.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Te lucis ante terminum (In Festis)",
+      "page": 241,
+      "file": "gabc/hymns/gregobase-liber/gb-4682.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Te lucis ante terminum (In Memoriis)",
+      "page": 241,
+      "file": "gabc/hymns/gregobase-liber/gb-4681.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Te lucis ante terminum (Tempus Adventus)",
+      "page": 4,
+      "file": "gabc/hymns/gregobase-liber/gb-16423.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Ternis horarum (In festis)",
+      "page": 222,
+      "file": "gabc/hymns/gregobase-liber/gb-16832.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Ternis horarum (In memoriis)",
+      "page": 222,
+      "file": "gabc/hymns/gregobase-liber/gb-16831.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus D",
+      "page": 165,
+      "file": "gabc/hymns/gregobase-liber/gb-9707.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus E",
+      "page": 168,
+      "file": "gabc/hymns/gregobase-liber/gb-9642.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus II",
+      "page": 133,
+      "file": "gabc/hymns/gregobase-liber/gb-8218.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus III",
+      "page": 135,
+      "file": "gabc/hymns/gregobase-liber/gb-10397.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus IV",
+      "page": 138,
+      "file": "gabc/hymns/gregobase-liber/gb-15508.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus IV*",
+      "page": 141,
+      "file": "gabc/hymns/gregobase-liber/gb-7669.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus IV* (ad lib)",
+      "page": 144,
+      "file": "gabc/hymns/gregobase-liber/gb-16592.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus V",
+      "page": 146,
+      "file": "gabc/hymns/gregobase-liber/gb-10248.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus VI",
+      "page": 149,
+      "file": "gabc/hymns/gregobase-liber/gb-9664.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus VI*",
+      "page": 154,
+      "file": "gabc/hymns/gregobase-liber/gb-10035.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus VI**",
+      "page": 157,
+      "file": "gabc/hymns/gregobase-liber/gb-15059.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Venite exsultemus VII",
+      "page": 160,
+      "file": "gabc/hymns/gregobase-liber/gb-9834.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Verbum supernum prodiens a",
+      "page": 5,
+      "file": "gabc/hymns/gregobase-liber/gb-8227.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Virgo virginum praeclara",
+      "page": 438,
+      "file": "gabc/hymns/gregobase-liber/gb-20897.gabc",
+      "reason": "ambiguous or no nearby category"
+    },
+    {
+      "name": "Vox clara ecce intonat",
+      "page": 6,
+      "file": "gabc/hymns/gregobase-liber/gb-20362.gabc",
+      "reason": "ambiguous or no nearby category"
+    }
+  ]
+}
